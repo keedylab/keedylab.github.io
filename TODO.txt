@@ -1,0 +1,20 @@
+update ASRC outside front-page image with higher-res version
+
+put menu pages on top of each page
+
+make header (menu bar) more dynamic, so only have to edit 1 header file
+
+add members page & publications page with appropriate boxes
+using yaml
+
+
+
+... then for DK to do:
+- add Research content
+- add Publications content
+- add Members content (but members can chip in!)
+
+
+when we are happy w/ it,
+Sakib to-do:
+write a how-to guide for maintaining the website, & post on the wiki!
