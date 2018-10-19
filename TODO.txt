@@ -4,16 +4,22 @@ put menu pages on top of each page
 
 make header (menu bar) more dynamic, so only have to edit 1 header file
 
-add members page & publications page with appropriate boxes
+add members page & publications page with appropriate boxes & openings page
 using yaml
 
+Pages Needed:
+-Members
+-Publications
+-News
+-Openings
+-Contact
 
 
 ... then for DK to do:
 - add Research content
 - add Publications content
 - add Members content (but members can chip in!)
-- add Openings page
+- add Openings content
 
 
 when we are happy w/ it,
