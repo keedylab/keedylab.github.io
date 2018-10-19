@@ -13,6 +13,7 @@ using yaml
 - add Research content
 - add Publications content
 - add Members content (but members can chip in!)
+- add Openings page
 
 
 when we are happy w/ it,
