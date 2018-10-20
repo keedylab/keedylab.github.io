@@ -14,6 +14,10 @@ Pages Needed:
 -Openings
 -Contact
 
+find better-fitting image for non-main pages (like Research)
+
+add new DK logo favicon for browser tab
+
 
 ... then for DK to do:
 - add Research content
