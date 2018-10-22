@@ -4,13 +4,13 @@
 		<title>{{ page.title }} | Keedy Lab </title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
 	</head>
 	<body class="subpage">
 
 		<!-- Header -->
 			<header id="header">
-				<div class="logo"><a href="index.html"><img src="images/keedy-lab-logo.png"></a></div>
+				<div class="logo"><a href="index.html"><img src="{{site.baseurl}}/images/keedy-lab-logo.png"></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
@@ -18,11 +18,12 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-					<li><a href="{{site.baseurl}}/research.html">Research</a></li>
-					<li><a href="{{site.baseurl}}/publications.html">Publications</a></li>
-					<li><a href="{{site.baseurl}}/members.html">Members</a></li>
-					<li><a href="{{site.baseurl}}/news.html">News</a></li>
-					<li><a href="{{site.baseurl}}/contact.html">Contact</a></li>
+					<li><a href="{{site.baseurl}}/research">Research</a></li>
+					<li><a href="{{site.baseurl}}/publications">Publications</a></li>
+					<li><a href="{{site.baseurl}}/members">Members</a></li>
+					<li><a href="{{site.baseurl}}/openings">Openings</a></li>
+					<li><a href="{{site.baseurl}}/news">News</a></li>
+					<li><a href="{{site.baseurl}}/contact">Contact</a></li>
 					<li><a href="#">Private</a></li>
 				</ul>
 			</nav>
@@ -43,7 +44,6 @@
 					<div class="box">
 						<div class="content">
 							<header class="align-center">
-								<!--<p>maecenas sapien feugiat ex purus</p>-->
 								<h2>{{ page.heading }}</h2>
 							</header>
 							<p>{{content}}</p>
@@ -60,11 +60,11 @@
 			</footer>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+			<script src="{{site.baseurl}}/assets/js/jquery.scrollex.min.js"></script>
+			<script src="{{site.baseurl}}/assets/js/skel.min.js"></script>
+			<script src="{{site.baseurl}}/assets/js/util.js"></script>
+			<script src="{{site.baseurl}}/assets/js/main.js"></script>
 
 	</body>
 </html>
