@@ -1,7 +1,31 @@
         <!-- Header -->
             <header id="header" class="alt">
                 <div class="logo"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/keedy-lab-logo.png"></a></div>
-                <a href="#menu">Menu</a>
+                    <nav>
+                      <div class="navWide">
+                        <div class="wideDiv">
+                                {% for link in site.data.navlinks %}
+                                    {% if page.group == link.group %}
+                                        <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                                    {% else %}
+                                        <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                                    {% endif %}
+                                {% endfor %}
+                        </div>
+                      </div>
+                      <div class="navNarrow">
+                        <i class="fa fa-bars fa-1x"></i>
+                        <div class="narrowLinks hidden">
+                                {% for link in site.data.navlinks %}
+                                    {% if page.group == link.group %}
+                                        <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                                    {% else %}
+                                        <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                                    {% endif %}
+                                {% endfor %}
+                        </div>
+                      </div>
+                    </nav>
             </header>
 
         <!-- Nav -->
@@ -15,7 +39,7 @@
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">Private</a></li>
                 </ul>
-            </nav>-->
+            </nav>
 
             <nav id="menu">
                 <ul class="links">
@@ -27,4 +51,4 @@
                 {% endif %}
             {% endfor %}
                 </ul>
-            </nav>            
+            </nav>-->            

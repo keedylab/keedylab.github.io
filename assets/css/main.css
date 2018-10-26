@@ -3886,7 +3886,7 @@
 
 /* Menu */
 
-	#menu {
+/*	#menu {
 		-moz-transform: translateX(20rem);
 		-webkit-transform: translateX(20rem);
 		-ms-transform: translateX(20rem);
@@ -4011,7 +4011,77 @@
 				padding: 2.5rem 1.75rem;
 			}
 
-		}
+		}*/
+
+/* NavMenu */
+
+nav {
+
+	overflow: hidden;
+}
+
+nav	a {
+		color: #fff;
+}
+
+nav	a:hover {
+		color: #000;
+}
+
+nav .navWide {
+	display: none;
+	margin: 0 auto;
+}
+
+nav .navWide .wideDiv {
+	text-align: right;
+}
+
+nav .navWide .wideDiv a {
+	text-decoration: none;
+	text-transform: capitalize;
+	display: inline-block;
+	/*Adjust padding to increase/decrease the space between links.*/
+	padding: 0 2em;
+}
+	
+/*Navbar is set to default with the "hamburger" and links on the left
+side of the screen. To move to the right of the screen, simply
+change the three "float: Left;" references to read "float: right;".*/
+nav	.navNarrow i {
+	float: right;
+	cursor: pointer;
+	color: #fff;
+	display: block;
+	padding-top: 0.75em;
+	padding-right: 0.5em;
+}
+
+nav .navNarrow .narrowLinks a {
+	background-color: transparent;
+	display: inline-block;
+	text-decoration: none;
+	float: right;
+	clear: left;
+	padding: 1em 1em;
+}
+
+.hidden {
+  display: none;
+}
+
+/*Adjust breakpoint as desired to select when the "hamburger" menu is
+replaced by just the links.*/
+@media (min-width: 480px) {
+	
+	nav .navWide {
+		display: block;
+	}
+
+	nav .navNarrow {
+		display: none;
+	}
+}
 
 /* Banner */
 
