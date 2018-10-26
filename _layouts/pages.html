@@ -9,24 +9,7 @@
 	<body class="subpage">
 
 		<!-- Header -->
-			<header id="header">
-				<div class="logo"><a href="index.html"><img src="{{site.baseurl}}/images/keedy-lab-logo.png"></a></div>
-				<a href="#menu">Menu</a>
-			</header>
-
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-					<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-					<li><a href="{{site.baseurl}}/research">Research</a></li>
-					<li><a href="{{site.baseurl}}/publications">Publications</a></li>
-					<li><a href="{{site.baseurl}}/members">Members</a></li>
-					<li><a href="{{site.baseurl}}/openings">Openings</a></li>
-					<li><a href="{{site.baseurl}}/news">News</a></li>
-					<li><a href="{{site.baseurl}}/contact">Contact</a></li>
-					<li><a href="#">Private</a></li>
-				</ul>
-			</nav>
+		{% include header-default.html %}
 
 		<!-- One -->
 			<section id="One" class="wrapper style3">
@@ -53,18 +36,7 @@
 			</section>
 
 		<!-- Footer -->
-			<footer id="footer">
-				<div class="copyright">
-					&copy; Keedy Lab at CUNY Advanced Science Research Center, 2018.
-				</div>
-			</footer>
-
-		<!-- Scripts -->
-			<script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
-			<script src="{{site.baseurl}}/assets/js/jquery.scrollex.min.js"></script>
-			<script src="{{site.baseurl}}/assets/js/skel.min.js"></script>
-			<script src="{{site.baseurl}}/assets/js/util.js"></script>
-			<script src="{{site.baseurl}}/assets/js/main.js"></script>
+		{% include footer.html %}
 
 	</body>
 </html>

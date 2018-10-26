@@ -1,11 +1,11 @@
         <!-- Header -->
             <header id="header" class="alt">
-                <div class="logo"><a href="index.html"><img src="images/keedy-lab-logo.png"></a></div>
+                <div class="logo"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/keedy-lab-logo.png"></a></div>
                 <a href="#menu">Menu</a>
             </header>
 
         <!-- Nav -->
-            <nav id="menu">
+            <!--<nav id="menu">
                 <ul class="links">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Research</a></li>
@@ -15,4 +15,16 @@
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">Private</a></li>
                 </ul>
-            </nav>
+            </nav>-->
+
+            <nav id="menu">
+                <ul class="links">
+            {% for link in site.data.navlinks %}
+                {% if page.group == link.group %}
+                    <li><a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a></li>
+                {% else %}
+                    <li><a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a></li>
+                {% endif %}
+            {% endfor %}
+                </ul>
+            </nav>            
