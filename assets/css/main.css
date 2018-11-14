@@ -1824,15 +1824,22 @@
 			margin-bottom: 2rem;
 		}
 
-		.box header p {
+		/*.box header p {
 			text-transform: uppercase;
 			font-size: .75rem;
 			font-weight: 300;
 			margin: 0 0 .25rem 0;
 			padding: 0 0 .75rem 0;
 			letter-spacing: .25rem;
+		}*/
+		.box header p {
+			text-transform: none;
+			font-size: .85rem;
+			font-weight: 300;
+			margin: 0 0 .25rem 0;
+			padding: 0 0 .75rem 0;
+			letter-spacing: .15rem;
 		}
-
 			.box header p:after {
 				content: '';
 				position: absolute;
@@ -4012,6 +4019,17 @@
 			}
 
 		}*/
+
+/*Citation Text Style */
+
+#citation {
+	text-transform: none;
+	font-size: .75rem;
+	font-weight: 300;
+	margin: 0 0 .25rem 0;
+	padding: 0 0 .75rem 0;
+	letter-spacing: .15rem;
+}
 
 /* NavMenu */
 
