@@ -1,31 +1,14 @@
-update ASRC outside front-page image with higher-res version
+SAKIB TO-DO:
+- update ASRC outside front-page image with higher-res version
+- push _data/members.yml
+- reformat News page so Twitter is on the right
+- write a how-to guide for maintaining the website, & post on the wiki!
+- make it so you can edit news, research, etc. header images all from 1 place
+- lower priority: make markdown files accept images w/o needing html formatting
 
-put menu pages on top of each page
-
-make header (menu bar) more dynamic, so only have to edit 1 header file
-
-add members page & publications page with appropriate boxes & openings page
-using yaml
-
-Pages Needed:
--Members
--Publications
--News
--Openings
--Contact
-
-find better-fitting image for non-main pages (like Research)
-
-add new DK logo favicon for browser tab
-
-
-... then for DK to do:
+DK TO-DO:
+- find better-fitting image for non-main pages (like Research) -- wait on Sakib
 - add Research content
 - add Publications content
 - add Members content (but members can chip in!)
 - add Openings content
-
-
-when we are happy w/ it,
-Sakib to-do:
-write a how-to guide for maintaining the website, & post on the wiki!
