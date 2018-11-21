@@ -2,7 +2,30 @@
 layout: pages
 title: News
 group: news
-heading: Blank
+heading: News from the Keedy Lab
 ---
 
-Blank
+<div class="box">
+<div class="content">
+{% for post in site.posts %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>
+        <a href="/members#{{post.author}}">{{post.author}}</a><br>
+        <em>{{ post.date | date_to_long_string }}</em>
+    </p>
+    <p>
+        {{ post.content }}
+    </p>
+    <hr></hr>
+{% endfor %}
+</div>
+</div>
+
+<div class="box">
+<div class="content">
+<div class="6u 12u$(small)">
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/https://twitter.com/danielkeedy" data-widget-id="486191843416092672">Tweets from The Keedy Lab</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+</div>
