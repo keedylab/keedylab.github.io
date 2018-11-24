@@ -1848,7 +1848,7 @@
 				bottom: 0;
 				left: 0;
 				width: 50%;
-				height: 1px;
+				height: 0px;
 				background-color: rgba(0, 0, 0, 0.125);
 			}
 

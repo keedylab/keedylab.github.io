@@ -1,8 +1,35 @@
 ---
 layout: pages
-title: Members
+title: Keedy Lab Members
 group: members
-heading: Blank
+heading:
 ---
 
-Blank
+{% for person in site.data.members %}
+
+<div class="row">
+    <div class="3u 12u$(small)">
+        <span class="image fit"><img src="{{person.image}}" alt=""></span>
+        <br>
+        <strong>{{person.name}}</strong><br>
+        {{person.position}}<br>
+        <em>{{person.email}}</em><br>
+        {% if person.orcid %}
+          <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
+          <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
+        {% endif %}
+        {% if person.scholar %}
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+        {% endif %}
+        {% if person.twitter %}
+          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+        {% endif %}
+    </div>
+
+    <div class="8u$ 12u$(small)">
+        {{person.description | markdownify}}
+    </div>
+
+</div>
+<hr>
+{% endfor %}

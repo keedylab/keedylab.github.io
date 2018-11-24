@@ -6,7 +6,6 @@ heading:
 ---
 
 {% for publication in site.data.publications | sort: "date" %}
-<div class="box">
             <div class="content">
                 <header class="align-center">
                     <h2>{{ publication.citation | markdownify }}</h2>
@@ -67,5 +66,5 @@ heading:
                         </ul>
                     </div>
     </div>
-</div><hr></hr>
+<hr></hr>
     {% endfor %}
