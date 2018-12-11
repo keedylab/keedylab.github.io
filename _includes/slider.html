@@ -1,0 +1,16 @@
+<section class="banner full">
+{% for slide in site.data.slides %}
+    
+    <article>
+        <img src="{{slide.image}}" alt="" />
+        <div class="inner">
+            <header>
+                <h2>Keedy Lab</h2>
+                <h3>Structural Biology</h3>
+                <p>CUNY Advanced Science Research Center</p>
+            </header>
+        </div>
+    </article>    
+
+{% endfor %}
+</section>
