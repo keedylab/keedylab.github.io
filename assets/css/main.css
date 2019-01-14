@@ -3102,7 +3102,7 @@
 				border-color: rgba(0, 0, 0, 0.15);
 			}
 
-		.wrapper.style3 {
+/*			.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
 			background-image: url(../../images/keedyasrc.jpg);
@@ -3110,7 +3110,7 @@
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
-		}
+		}*/
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
 				color: #ffffff;
