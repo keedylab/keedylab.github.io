@@ -1,13 +1,17 @@
 SAKIB TO-DO:
 - update ASRC outside front-page image with higher-res version
-- push _data/members.yml
-- reformat News page so Twitter is on the right
-- write a how-to guide for maintaining the website, & post on the wiki!
-- make it so you can edit news, research, etc. header images all from 1 place
-- lower priority: make markdown files accept images w/o needing html formatting
+- find better font?  
+- made pubs content wider
+- fix resolution/sizing on pubs images...
+- why suddenly bold partway down pubs (at elife 2015)?
+- spot for lab alumni at the bottom of members
+- orcid #s don't fit on members page
+- there is a smidge of extra space above the DK logo on the top left
+  in the non-home pages, but no extra space just below it -- would be 
+  better to center it vertically
 
 DK TO-DO:
-- find better-fitting image for non-main pages (like Research) -- wait on Sakib
+- find better-fitting image for non-main pages (like Research)
 - add Research content
 - add Publications content
 - add Members content (but members can chip in!)
