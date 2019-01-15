@@ -3,9 +3,9 @@ layout: pages
 title: Publications
 group: publications
 heading: 
-image: ../../images/keedyasrc.jpg
+bgimage: ../../images/keedyasrc.jpg
 ---
-
+{::nomarkdown}
 {% for publication in site.data.publications | sort: "date" %}
             <div class="content">
                 <header class="align-center">
@@ -69,3 +69,4 @@ image: ../../images/keedyasrc.jpg
     </div>
 <hr></hr>
     {% endfor %}
+{:/}
