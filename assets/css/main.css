@@ -1810,7 +1810,6 @@
 		background: #FFF;
 		box-shadow: 0 6px 15px rgba(36,37,38,.08);
 	}
-
 		.box .image.fit {
 			margin: 0;
 			border-radius: 0;
@@ -1818,6 +1817,24 @@
 
 			.box .image.fit img {
 				border-radius: 0;
+/*				position: relative;
+			    float: right;
+			    width:  500px;
+			    height: 500px;
+			    background-position: 50% 50%;
+			    background-repeat:   no-repeat;
+			    background-size:     cover;*/
+			}
+
+			.box #image2.fit img {
+				border-radius: 0;
+				position: relative;
+			    float: right;
+			    width:  600px;
+			    height: 500px;
+			    background-position: 50% 50%;
+			    background-repeat:   no-repeat;
+			    background-size:     cover;
 			}
 
 		.box header h2 {
@@ -4043,7 +4060,7 @@ nav	a {
 }
 
 nav	a:hover {
-		color: #000;
+		color: #A9A9A9;
 }
 
 nav .navWide {
@@ -4416,3 +4433,5 @@ replaced by just the links.*/
 			}
 
 		}
+
+

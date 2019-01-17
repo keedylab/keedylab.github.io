@@ -7,13 +7,13 @@ bgimage: ../../images/keedyasrc.jpg
 ---
 {::nomarkdown}
 {% for publication in site.data.publications | sort: "date" %}
-            <div class="content">
+           <!--  <div class="content"> -->
                 <header class="align-center">
                     <h2>{{ publication.citation | markdownify }}</h2>
                 </header>
                     <div class="row">
                         <div class="6u 12u$(small)">
-                            <span class="image fit"><img src="{{publication.image}}"></span>
+                            <span class="image fit imgfit" id="image2"><img src="{{publication.image}}"></span>
                         </div>
                         <div class="6u$ 12u$(small)">
 
@@ -37,7 +37,7 @@ bgimage: ../../images/keedyasrc.jpg
 
                                 <!-- Datasets - optional -->
                                 {% if publication.data %}
-                                <li><strong>Online Dataset{% if publication.data.size > 1 %}s</strong>{% endif %}: 
+                                <li><strong>Online Dataset</strong>: 
                                     {% if publication.data.size > 1 %}
                                     <ul>
                                         {% for dataset in publication.data %}
@@ -67,6 +67,6 @@ bgimage: ../../images/keedyasrc.jpg
                         </ul>
                     </div>
     </div>
-<hr></hr>
-    {% endfor %}
+<hr>
+{% endfor %}
 {:/}
