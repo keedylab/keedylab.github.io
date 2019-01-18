@@ -1,10 +1,11 @@
 - image: 'images/1sug_feat.png'
   title: 'Welcome to the Keedy Lab'
-  content: '                        <p>We are part of the ASRC the <a href="http://structbio.asrc.cuny.edu/">Structural Biology Initiative</a></p>
+  content: '<p>We are part of the ASRC the <a href="http://structbio.asrc.cuny.edu/">Structural Biology Initiative</a></p>
                         <p>Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics. We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.</p>
                         <p>We are located in the Structural Biology Initiative at the CUNY Advanced Science Research Center.<p>'
+
 - image: 'http://www.asrc.cuny.edu/wp-content/uploads/sites/3/2016/03/Slide-3.jpg'
   title: 'Contact the Keedy Lab'
   content: '                                <p>Daniel Keedy, Ph.D. <br />Assistant Professor <br />Structural Biology Initiative; The City College of New York Department of Chemistry and Biochemistry <br />CUNY Advanced Science Research Center</p>
-                                <p>Email: Daniel.Keedy@asrc.cuny.edu</p>
+                                <p>daniel DOT Keedy (at) asrc dot cuny -dot- edu</p>
                                 <p>CUNY ASRC <br />85 St. Nicholas Terrace, New York, NY 10031 </p>'

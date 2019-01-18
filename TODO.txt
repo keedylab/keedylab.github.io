@@ -1,18 +1,13 @@
 SAKIB TO-DO:
 - update ASRC outside front-page image with higher-res version
 - find better font?  
-- made pubs content wider
 - fix resolution/sizing on pubs images...
-- why suddenly bold partway down pubs (at elife 2015)?
-- spot for lab alumni at the bottom of members
-- orcid #s don't fit on members page
-- there is a smidge of extra space above the DK logo on the top left
-  in the non-home pages, but no extra space just below it -- would be 
-  better to center it vertically
 
 DK TO-DO:
+- add more of my background?  details on past research, etc.
 - find better-fitting image for non-main pages (like Research)
 - add Research content
 - add Publications content
 - add Members content (but members can chip in!)
 - add Openings content
+- remove weird line for babcock paper img

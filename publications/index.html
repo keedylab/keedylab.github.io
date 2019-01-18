@@ -17,7 +17,7 @@ bgimage: ../../images/keedyasrc.jpg
                         </div>
                         <div class="6u$ 12u$(small)">
 
-                            <h4><strong>Access Paper:</strong></h4>
+                            <strong>Access Paper:</strong>
                             <ul>
                                 <!--PMID-->
                                 <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
@@ -59,12 +59,13 @@ bgimage: ../../images/keedyasrc.jpg
                                 </li>
                                 {% endif %}
                                 
-                                <!--Extra junk-->
-                                <strong>Additional Links</strong>
-                                {% for link in publication.links %}
-                                <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-                                {% endfor %}
                         </ul>
+
+                        <!--Extra junk-->
+                        <strong>Additional Links</strong>
+                        {% for link in publication.links %}
+                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
+                        {% endfor %}
                     </div>
     </div>
 <hr>
