@@ -17,13 +17,13 @@ bgimage: ../../images/keedyasrc.jpg
         <em>{{person.email}}</em><br>
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
-          <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
+          <a id="links" href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
         {% endif %}
         {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+          <a id="links" href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
     </div>
 
