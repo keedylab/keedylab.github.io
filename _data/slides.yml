@@ -1,3 +1,17 @@
-- image: 'https://www.kpf.com/actions/nmcImages/image/generateImage?height=450&path=%2FCUNY-THUMBNAIL.jpg&v=4&width=800'
+# - image: 'https://www.kpf.com/actions/nmcImages/image/generateImage?height=450&path=%2FCUNY-THUMBNAIL.jpg&v=4&width=800'
+# - image: 'images/slide_crystal.jpg'
+# - image: 'images/slide_bb_xchem_overlap.jpg'
+
+# - image: 'images/keedyasrc.jpg'
+- image: 'images/catalase_alt_netwk_wide.jpg'
+
+- image: 'images/slide_ptp1b_xchem_wide.jpg'
+
+- image: 'images/slide_pandda_ligand_wide.jpg'
+
+- image: 'images/slide_ptp1b_allos_netwk.jpg'
+# - image: 'images/slide_alt_confs_density.jpg'
+- image: 'images/slide_asrc_cdi.jpg'
 - image: 'images/slide_hall.jpg'
-- image: 'images/slide_crystal.jpg'
+
+# - image: 'images/slide_aims_overview.jpeg'

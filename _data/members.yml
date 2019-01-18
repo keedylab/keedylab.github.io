@@ -1,7 +1,7 @@
 - name: Daniel Keedy
   image: /images/members/dk.jpg
   position: Principal Investigator
-  email: daniel DOT keedy (at) asrc dot cuny -dot- edu
+  email: daniel DOT keedy (at) asrc _dot_ cuny -dot- edu
   scholar: TVaqcVwAAAAJ
   twitter: "DanielKeedy"
   orcid: "orcid.org/0000-0002-5080-2859"
@@ -29,13 +29,13 @@
   conformations that underlie functions such as allostery, ligand binding, and catalysis. 
   His work reveals new opportunities to modulate the activities of therapeutic targets 
   such as protein tyrosine phosphatases with small molecules and protein engineering, 
-  and also offers insights into more general evolutionary processes that led to functional diversity in the human genome.
+  and also offers insights into more general evolutionary processes that led to functional diversity in the human proteome.
 '
 
 - name: Tamar Skaist
   image: /images/members/tamar.jpg
   position: PhD Student
-  email: tamar DOT skaist (at) asrc dot cuny -dot- edu
+  email: tamar DOT skaist (at) asrc _dot_ cuny -dot- edu
   scholar: 
   twitter: 
   orcid: 
@@ -54,7 +54,7 @@
 - name: Syeda Maryam Azeem
   image: /images/members/maryam.jpg
   position: Research Assistant
-  email: syeda DOT azeem (at) asrc dot cuny -dot- edu
+  email: syeda DOT azeem (at) asrc _dot_ cuny -dot- edu
   scholar: 
   twitter: 
   orcid: 
@@ -75,7 +75,7 @@
 - name: Elena Orins
   image: /images/members/helen.jpg
   position: Undergraduate Student
-  email: helen DOT orins46 (at) myhunter dot cuny -dot- edu
+  email: helen DOT orins46 (at) myhunter _dot_ cuny -dot- edu
   scholar: 
   twitter: 
   orcid: 
@@ -90,7 +90,7 @@
 - name: Sakib Hossain
   image: /images/members/sakib.jpg
   position: Undergraduate Student
-  email: sakib DOT hossain28 (at) myhunter dot cuny -dot- edu
+  email: sakib DOT hossain28 (at) myhunter _dot_ cuny -dot- edu
   scholar: 
   twitter: 
   orcid: 

@@ -1,4 +1,4 @@
-- citation: 'van Zundert GCP\*, Hudson BM\*, Oliveira SHP, **Keedy DA**, Fonseca R, Heliou A, Suresh P, Borrelli K, Day T, Fraser JS, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
+- citation: 'van Zundert GCP\*, Hudson BM\*, Oliveira SHP, **Keedy DA**, Fonseca R, Heliou A, Suresh P, Borrelli K, Day T, Fraser JS, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Journal of Medicinal Chemistry*. 2018.'
   date: 201809
   image: '/images/pub/qfit_ligand.jpg'
   pmid: 30457858
@@ -166,8 +166,6 @@
       url: 'https://fraserlab.com'
     - name: Jim Wells
       url: 'https://wellslab.ucsf.edu/'
-    - name: Zach Hill
-      url: '???'
     - name: Datasets on Zenodo
       url: 'https://zenodo.org/record/1044103'
     - name: Paper Submission Celebration Photo
