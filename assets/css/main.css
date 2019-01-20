@@ -1861,7 +1861,7 @@
 			font-weight: 300;
 			margin: 0 0 .25rem 0;
 			padding: 0 0 .75rem 0;
-			letter-spacing: .15rem;
+			/*letter-spacing: .15rem;*/
 			/*font-family: Roboto;*/
 		}
 			.box header p:after {
@@ -3102,7 +3102,7 @@
 			}
 
 			.wrapper.style2 header p {
-				color: #999999;
+				color: #000; /*Publications Citation Font Color*/
 			}
 
 			.wrapper.style2 table tbody tr {
