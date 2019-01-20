@@ -2921,7 +2921,7 @@
 
 		.wrapper.style2 {
 			background-color: #E9EBEE;
-			color: #a6a6a6;
+			color: #000; /*Site-wide font color*/
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -2929,7 +2929,7 @@
 			}
 
 			.wrapper.style2 a {
-				color: #8a4680;
+				color: #0000EE; /*Site-wide hyperlink color*/
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
@@ -4247,7 +4247,7 @@ replaced by just the links.*/
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
-			background-size: contain;
+			background-size: cover;
 			height: 100%;
 			left: 0;
 			opacity: 0;
