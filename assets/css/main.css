@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-/*@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");*/
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+/*@import url("https://fonts.googleapis.com/css?family=Roboto");*/
 
 /*
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -14,9 +14,9 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		/*font: inherit;*/
-		font-family: 'Roboto', sans-serif;
-		vertical-align: baseline;
+		font: inherit;
+/*		font-family: 'Roboto', sans-serif;
+*/		vertical-align: baseline;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -28,7 +28,8 @@
 	}
 
 	ol, ul {
-		list-style: none;
+		/*list-style: none;*/
+		list-style-position: outside;
 	}
 
 	blockquote, q {
@@ -1635,7 +1636,7 @@
 
 	body, input, select, textarea {
 		/*font-family: "Poppins", sans-serif;*/
-		/*font-family: 'Roboto', sans-serif;*/
+		font-family: 'Roboto', sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -2413,7 +2414,8 @@
 		}
 
 	ul {
-		list-style: disc;
+/*		list-style: disc;
+*/		list-style-position: outside;
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
@@ -4245,7 +4247,7 @@ replaced by just the links.*/
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
-			background-size: cover;
+			background-size: contain;
 			height: 100%;
 			left: 0;
 			opacity: 0;
@@ -4348,6 +4350,17 @@ replaced by just the links.*/
 		body.is-loading .banner:after {
 			opacity: 1.0;
 			visibility: visible;
+		}
+
+
+		@media screen and (max-width: 2560px) {
+
+			.banner.full {
+				padding: 0;
+				min-height: 75vh;
+				height: 75vh !important;
+			}
+
 		}
 
 		@media screen and (max-width: 1280px) {
