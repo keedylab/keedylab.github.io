@@ -2414,14 +2414,16 @@
 		}
 
 	ul {
-/*		list-style: disc;
-*/		list-style-position: outside;
+		list-style: disc;
+		list-style-position: outside;
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
 
 		ul li {
 			padding-left: 0.5rem;
+/*			list-style-position: outside;*/
+			/*margin-left: 1em;*/
 		}
 
 		ul.alt {
@@ -4361,6 +4363,10 @@ replaced by just the links.*/
 				height: 75vh !important;
 			}
 
+/*			.banner > article {
+				background-attachment: inherit;
+			}*/
+
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -4455,4 +4461,8 @@ replaced by just the links.*/
 
 #links {
 	font-size: 17px;
+}
+
+#textpadding {
+	padding-left: 1em;
 }
