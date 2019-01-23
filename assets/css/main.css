@@ -1822,8 +1822,8 @@
 
 			.box .image.fit img {
 				border-radius: 0;
-/*				position: relative;
-			    float: right;
+				position: relative;
+/*			    float: right;
 			    width:  500px;
 			    height: 500px;
 			    background-position: 50% 50%;
@@ -1836,6 +1836,7 @@
 				position: relative;
 			    float: right;
 			    width:  550px;
+			    max-width:100%;
 			    /*height: 500px;*/
 			    background-position: 50% 50%;
 			    background-repeat:   no-repeat;
@@ -1857,7 +1858,7 @@
 		.box header p {
 			text-transform: none;
 			/*font-size: .85rem;*/
-			font-size: 1rem;
+			font-size: 1.1rem;
 			font-weight: 300;
 			margin: 0 0 .25rem 0;
 			padding: 0 0 .75rem 0;
@@ -4464,5 +4465,18 @@ replaced by just the links.*/
 }
 
 #textpadding {
-	padding-left: 1em;
+	margin-left: -1em;
+}
+
+.imgpad {
+	padding-top: 100px;
+}
+
+.maps-container{
+	position: relative;
+	overflow: hidden;
+}
+
+.spacer {
+	padding-top: 100px;
 }
