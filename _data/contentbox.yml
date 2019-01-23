@@ -1,4 +1,4 @@
-- image: 'images/1sug_feat.png'
+- image: '/images/catalase_alt_netwk.jpg'
   title: 'Welcome to the Keedy Lab'
   content: '
   <p>We are part of the <a href="http://structbio.asrc.cuny.edu/">Structural Biology Initiative</a>
@@ -8,7 +8,7 @@
   <p>Our research aims to better understand the "secret lives" of proteins:
   how they move when we''re not looking, 
   how their motions contribute to biology,
-  and how they are regulated to control how proteins function in cells.
+  and how they are regulated to control how complex processes in cells.
 '
 
 

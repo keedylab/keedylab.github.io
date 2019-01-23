@@ -1,7 +1,6 @@
 SAKIB TO-DO:
 - update ASRC outside front-page image with higher-res version
-- find better font?  
-- fix resolution/sizing on pubs images...
+- make Research images 30% bigger again?
 
 DK TO-DO:
 - add more of my background?  details on past research, etc.
@@ -11,3 +10,4 @@ DK TO-DO:
 - add Members content (but members can chip in!)
 - add Openings content
 - remove weird line for babcock paper img
+- ADD GRAD SCHOOL PAPERS?  AT LEAST MOLPROBITY... 

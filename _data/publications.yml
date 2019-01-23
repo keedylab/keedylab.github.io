@@ -19,7 +19,7 @@
     - name: Schrodinger, Inc.
       url: 'https://www.schrodinger.com'
 
-- citation: 'Babcock NS, **Keedy DA**, Fraser JS, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on BioRxiv*. 2018.'
+- citation: 'Babcock NS, **Keedy DA**, Fraser JS, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on bioRxiv*. 2018.'
   date: 201807
   image: '/images/pub/sivak_2018.jpg'
   pmid: Submitted
@@ -256,7 +256,7 @@
 
 - citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, Fraser JS. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
   date: 201404
-  image: '/publications/pub_images/keedy_pcb_2015.jpg'
+  image: '/images/pub/keedy_structure_2014.jpg'
   pmid: 24882744
   pmcid: PMC4082491
   pdf: '/publications/pdf/keedy_structure_2014.pdf'
@@ -274,6 +274,8 @@
       url: 'https://redoxbiologycenter.unl.edu/markwilsonphd'
     - name: Greg Petsko / Dagmar Ringe
       url: 'http://www.bio.brandeis.edu/prLab/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/443233965017559040'
     - name: F1000 Evaluation
