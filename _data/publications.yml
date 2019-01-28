@@ -1,3 +1,14 @@
+- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019'
+  date: 201901
+  image: '/images/pub/catalase_alt_netwk.jpg'
+  pmid: In Process
+  pmcid: In Process
+  biorxiv: 
+  pdf: '/pdf/keedy_2019'
+  links:
+    - name: CCP4
+      url: 'http://www.ccp4.ac.uk/index.php'
+
 - citation: 'van Zundert GCP\*, Hudson BM\*, Oliveira SHP, **Keedy DA**, Fonseca R, Heliou A, Suresh P, Borrelli K, Day T, Fraser JS, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Journal of Medicinal Chemistry*. 2018.'
   date: 201809
   image: '/images/pub/qfit_ligand.jpg'
