@@ -1,10 +1,10 @@
-- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019'
+- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019.'
   date: 201901
-  image: '/images/pub/catalase_alt_netwk.jpg'
+  image: '/images/catalase_alt_netwk.jpg'
   pmid: In Process
   pmcid: In Process
   biorxiv: 
-  pdf: '/pdf/keedy_2019'
+  pdf: '/pdf/keedy_2019.pdf'
   links:
     - name: CCP4
       url: 'http://www.ccp4.ac.uk/index.php'
