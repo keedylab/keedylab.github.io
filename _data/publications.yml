@@ -212,6 +212,15 @@
     - name: F1000 Evaluation
       url: 'http://f1000.com/prime/726132503'
 
+- citation: '**Keedy DA**. Conformational and connotational heterogeneity: A surprising relationship between protein structural flexibility and puns. *Proteins: Structure, Function, and Bioinformatics*. 2015.'
+  date: 201501
+  image: '/images/pub/notfound.png'
+  pmid: 25619796
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/keedy_2015_puns.pdf'
+  links:
+    
 - citation: '**Keedy DA**, Fraser JS, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *PLOS Computational Biology*. 2015.'
   date: 201507
   image: '/images/pub/keedy_pcb_2015.jpg'

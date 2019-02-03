@@ -1,6 +1,7 @@
 SAKIB TO-DO:
 - update ASRC outside front-page image with higher-res version
 - make Research images 30% bigger again?
+- add .DS_Store files (from Mac OS) to git-ignore list?
 
 DK TO-DO:
 - add more of my background?  details on past research, etc.
