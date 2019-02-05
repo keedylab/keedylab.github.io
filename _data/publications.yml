@@ -45,7 +45,7 @@
 
 - citation: '**Keedy DA**\*, Hill ZB\*, Biel JT, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, Fraser JS. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering. *eLife*. 2018.'
   date: 201804
-  image: '/images/pub/keedy_2017.jpg'
+  image: '/images/pub/keedy_2018.jpg'
   pmid: 29877794
   pmcid: PMC6039181
   biorxiv: "218966"
@@ -181,6 +181,18 @@
       url: 'https://zenodo.org/record/1044103'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
+
+- citation: 'Williams CJ, Headd JJ, Moriarty NW, Prisant MG, Videau LL, Deis LN, Verma V, **Keedy DA**, Hintze BJ, Chen VB, Jain S, Lewis SM, Arendall WB 3rd, Snoeyink J, Adams PD, Lovell SC, Richardson JS, Richardson DC. MolProbity: More and better reference data for improved all-atom structure validation. *Protein Science*. 2018.'
+  date: 201801
+  image: '/images/pub/williams_2018.png'
+  pmid: 29067766
+  pmcid: PMC5734394
+  pdf: '/pdf/williams_2018.pdf'
+  links:
+    - name: MolProbity model validation server
+      url: http://molprobity.biochem.duke.edu
+    - name: Jane and David Richardson
+      url: http://kinemage.biochem.duke.edu
 
 - citation: 'Russi S, González A, Kenner LR, **Keedy DA**, Fraser JS, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
   date: 201701
