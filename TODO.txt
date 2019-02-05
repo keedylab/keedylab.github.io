@@ -2,6 +2,10 @@ SAKIB TO-DO:
 - update ASRC outside front-page image with higher-res version
 - make Research images 30% bigger again?
 - add .DS_Store files (from Mac OS) to git-ignore list?
+- make Members left-side links fonts smaller, more space btw photo and bio, 
+  name bigger
+- bottom of members: past rotation students bullet list (same font as bottom
+  of pubs)
 
 DK TO-DO:
 - add more of my background?  details on past research, etc.
