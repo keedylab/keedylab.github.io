@@ -1784,15 +1784,15 @@
 	}
 
 	a {
-		color: #8a4680;
+		color: #0000EE;
 	}
 
 	strong, b {
-		color: #555;
+		color: #000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #000;
 	}
 
 	blockquote {
@@ -1814,6 +1814,9 @@
 		margin-bottom: 2rem;
 		background: #FFF;
 		box-shadow: 0 6px 15px rgba(36,37,38,.08);
+/*		width: 800px;
+		margin-left: auto;
+  		margin-right: auto;*/
 	}
 		.box .image.fit {
 			margin: 0;
@@ -1823,12 +1826,14 @@
 			.box .image.fit img {
 				border-radius: 0;
 				position: relative;
+				height: auto;
+				max-height: 100%
 /*			    float: right;
 			    width:  500px;
 			    height: 500px;
 			    background-position: 50% 50%;
 			    background-repeat:   no-repeat;
-			    background-size:     cover;*/
+			    background-size:     contain;*/
 			}
 
 			.box #image2.fit img {
@@ -2360,6 +2365,7 @@
 		.image img {
 			border-radius: 2px;
 			display: block;
+
 		}
 
 		.image.left, .image.right {
@@ -2611,7 +2617,7 @@
 	}
 
 	header p {
-		color: #bbb;
+		color: #000;
 	}
 
 /* Table */
@@ -2925,6 +2931,10 @@
 		.wrapper.style2 {
 			background-color: #E9EBEE;
 			color: #000; /*Site-wide font color*/
+/*			background-image: url(../../images/keedyasrc.jpg)
+			background-color: rgba(255, 255, 255, 0.4);
+			background-blend-mode: lighten;*/
+
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -4361,7 +4371,7 @@ replaced by just the links.*/
 			.banner.full {
 				padding: 0;
 				min-height: 75vh;
-				height: 75vh !important;
+				height: 85vh !important;
 			}
 
 /*			.banner > article {
@@ -4480,3 +4490,193 @@ replaced by just the links.*/
 .spacer {
 	padding-top: 100px;
 }
+
+.home-container {
+	background-image: url(../../images/keedyasrc.jpg)
+}
+
+.homeBox img {
+	border-radius: 0;
+	position: relative;
+	height: 250px;
+	max-height: 100%;
+	width: 1000px;
+	max-width: 100%;
+/*			    float: right;
+    width:  500px;
+    height: 500px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     contain;*/
+}
+
+.home__background-image {
+  position: relative;
+  z-index: auto;   
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/keedyasrc_bg.png');
+  background-size: cover;
+  opacity: 1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.home-wrapper {
+	padding: 0rem 0 0rem 0 ;
+	position: relative;
+	margin: 0;
+}
+
+.home-wrapper.style2 {
+	background-color: #E9EBEE;
+	color: #000; /*Site-wide font color*/
+/*			background-image: url(../../images/keedyasrc.jpg)
+	background-color: rgba(255, 255, 255, 0.4);
+	background-blend-mode: lighten;*/
+
+}
+
+.home-padding {
+	padding: 3rem 0 4rem 0;
+}
+
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
+.largerName {
+	font-size: 20px;
+}
+
+
+/*Home Page Box*/
+
+    .HomepageBox {
+        margin-bottom: 2rem;
+        background: #FFF;
+        box-shadow: 0 6px 15px rgba(36,37,38,.08);
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        .HomepageBox .image.fit {
+            margin: 0;
+            border-radius: 0;
+        }
+
+            .HomepageBox .image.fit img {
+                border-radius: 0;
+                position: relative;
+                height: auto;
+                max-height: 100%
+/*              float: right;
+                width:  500px;
+                height: 500px;
+                background-position: 50% 50%;
+                background-repeat:   no-repeat;
+                background-size:     contain;*/
+            }
+
+            .HomepageBox #image2.fit img {
+                border-radius: 0;
+                position: relative;
+                float: right;
+                width:  550px;
+                max-width:100%;
+                /*height: 500px;*/
+                background-position: 50% 50%;
+                background-repeat:   no-repeat;
+                background-size:     cover;
+            }
+
+        .HomepageBox header h2 {
+            margin-bottom: 2rem;
+        }
+
+        /*.HomepageBox header p {
+            text-transform: uppercase;
+            font-size: .75rem;
+            font-weight: 300;
+            margin: 0 0 .25rem 0;
+            padding: 0 0 .75rem 0;
+            letter-spacing: .25rem;
+        }*/
+        .HomepageBox header p {
+            text-transform: none;
+            /*font-size: .85rem;*/
+            font-size: 1.1rem;
+            font-weight: 300;
+            margin: 0 0 .25rem 0;
+            padding: 0 0 .75rem 0;
+            /*letter-spacing: .15rem;*/
+            /*font-family: Roboto;*/
+        }
+            .HomepageBox header p:after {
+                content: '';
+                position: absolute;
+                margin: auto;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                width: 50%;
+                height: 0px;
+                background-color: rgba(0, 0, 0, 0.125);
+            }
+
+        .HomepageBox .content {
+            padding: 3rem;
+        }
+
+        .HomepageBox > :last-child,
+        .HomepageBox > :last-child > :last-child,
+        .HomepageBox > :last-child > :last-child > :last-child {
+            margin-bottom: 0;
+        }
+
+        .HomepageBox.alt {
+            border: 0;
+            border-radius: 0;
+            padding: 0;
+        }
+
+        @media screen and (max-width: 736px) {
+
+            .HomepageBox .content {
+                padding: 2rem;
+            }
+
+        }
+
+    .HomepageBox {
+        border-color: rgba(144, 144, 144, 0.25);
+    }
+
+.responsiveImg img{
+  display:block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Member Profile Styling*/
+
+.memberName {
+	font-size: 18px !important; 
+}
+
+.memberDetail {
+	font-size: 16px !important;
+}
+

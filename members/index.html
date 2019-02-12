@@ -12,22 +12,24 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
     <div class="3u 12u$(small)">
         <span class="image fit"><img src="{{person.image}}" alt=""></span>
         <br>
-        <strong>{{person.name}}</strong><br>
-        {{person.position}}<br>
-        <em>{{person.email}}</em><br>
+        <strong><span class="memberName">{{person.name}}</span></strong><br>
+        <span class="memberDetail">{{person.position}}</span><br>
+        <em><span class="memberDetail">{{person.email}}</span></em><br>
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
-          <a id="links" href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
+          <a id="links" href="http://{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
         {% endif %}
         {% if person.scholar %}
-          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+          <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
+          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
         {% endif %}
         {% if person.twitter %}
-          <a id="links" href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+          <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png"></a>
+          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
         {% endif %}
     </div>
 
-    <div class="8u$ 12u$(small)">
+    <div class="9u$ 12u$(small)">
         {{person.description | markdownify}}
     </div>
 
@@ -37,6 +39,12 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
 
 
 <!-- <header class="align-center">
-    <h2>Keedy Lab Alumni</h2>
-</header>
- -->
+ --> 
+<!-- </header> -->
+<h3>Past Rotation Students</h3>
+
+{% for student in site.data.rotationstudents %}
+
+<li>{{student.name}}<li>
+
+{% endfor %}
