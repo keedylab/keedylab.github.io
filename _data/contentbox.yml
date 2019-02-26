@@ -12,7 +12,8 @@
 '
 
 
-- image: 'http://www.asrc.cuny.edu/wp-content/uploads/sites/3/2016/03/Slide-3.jpg'
+#- image: 'http://www.asrc.cuny.edu/wp-content/uploads/sites/3/2016/03/Slide-3.jpg'
+- image: 'images/welcome-to-asrc-Slide-3.jpg'
   title: 'Contact the Keedy Lab'
   content: '
 
