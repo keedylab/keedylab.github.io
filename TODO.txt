@@ -4,6 +4,8 @@ SAKIB TO-DO:
 - add .DS_Store files (from Mac OS) to git-ignore list?
 - make ASRC sunset image on Contacts page responsive, not fixed-size
 - fix looping error w/ extra bullet on alumni / past rotons subpage
+- delete any unneeded keedy lab logo files (& make filenames consistent)
+- switch to newer homepage
 
 
 
