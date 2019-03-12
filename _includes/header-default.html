@@ -1,0 +1,57 @@
+        <!-- Header -->
+            <header id="header">
+                <div class="logo"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/keedy-lab-logo.png"></a></div>
+
+
+<nav>
+  <div class="navWide">
+    <div class="wideDiv">
+            {% for link in site.data.navlinks %}
+                {% if page.group == link.group %}
+                    <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                {% else %}
+                    <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                {% endif %}
+            {% endfor %}
+    </div>
+  </div>
+  <div class="navNarrow">
+    <i class="fa fa-bars fa-1x"></i>
+    <div class="narrowLinks hidden">
+            {% for link in site.data.navlinks %}
+                {% if page.group == link.group %}
+                    <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                {% else %}
+                    <a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a>
+                {% endif %}
+            {% endfor %}
+    </div>
+  </div>
+</nav>
+
+            </header>
+
+        <!-- Nav -->
+            <!--<nav id="menu">
+                <ul class="links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Research</a></li>
+                    <li><a href="#">Publications</a></li>
+                    <li><a href="#">Members</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Private</a></li>
+                </ul>
+            </nav>-->
+
+         <!--   <nav id="menu">
+                <ul class="links">
+            {% for link in site.data.navlinks %}
+                {% if page.group == link.group %}
+                    <li><a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a></li>
+                {% else %}
+                    <li><a href="{{link.link}}" alt="{{link.name}}">{{link.name}}</a></li>
+                {% endif %}
+            {% endfor %}
+                </ul>
+            </nav>-->

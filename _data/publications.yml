@@ -1,0 +1,314 @@
+- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019.'
+  date: 201901
+  image: '/images/catalase_alt_netwk.jpg'
+  pmid: In Process
+  pmcid: In Process
+  biorxiv: 
+  pdf: '/pdf/keedy_2019.pdf'
+  links:
+    - name: CCP4
+      url: 'http://www.ccp4.ac.uk/index.php'
+
+- citation: 'van Zundert GCP\*, Hudson BM\*, Oliveira SHP, **Keedy DA**, Fonseca R, Heliou A, Suresh P, Borrelli K, Day T, Fraser JS, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Journal of Medicinal Chemistry*. 2018.'
+  date: 201809
+  image: '/images/pub/qfit_ligand.jpg'
+  pmid: 30457858
+  pmcid: In Process
+  biorxiv: "253419"
+  pdf: '/pdf/qfit_ligand.pdf'
+  links:
+    - name: qFit-ligand Code on Github
+      url: https://github.com/ExcitedStates/qfit_ligand
+    - name: In the Pipeline-More Than One, And Maybe More Than That
+      url: https://blogs.sciencemag.org/pipeline/archives/2019/01/07/more-than-one-and-maybe-more-than-that
+    - name: Practical Fragments - (Not) getting misled by crystal structures - part 5 – conformational heterogeneity
+      url: http://practicalfragments.blogspot.com/2019/01/not-getting-misled-by-crystal.html
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: Schrodinger, Inc.
+      url: 'https://www.schrodinger.com'
+
+- citation: 'Babcock NS, **Keedy DA**, Fraser JS, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on bioRxiv*. 2018.'
+  date: 201807
+  image: '/images/pub/sivak_2018.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "448795"
+  pdf: 'https://www.biorxiv.org/content/early/2018/10/20/448795.full.pdf'
+  links:
+    - name: David Sivak
+      url: 'https://www.sfu.ca/physics/sivakgroup.html'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+
+- citation: '**Keedy DA**\*, Hill ZB\*, Biel JT, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, Fraser JS. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering. *eLife*. 2018.'
+  date: 201804
+  image: '/images/pub/keedy_2018.jpg'
+  pmid: 29877794
+  pmcid: PMC6039181
+  biorxiv: "218966"
+  pdf: '/pdf/keedy_2018.pdf'
+  pdbs:
+    - 6B90
+    - 6B8E
+    - 6B8T
+    - 6B8X
+    - 6B8Z
+    - 6BAI
+    - 6B95
+    - 5QDE
+    - 5QDF
+    - 5QDG
+    - 5QDH
+    - 5QDI
+    - 5QDJ
+    - 5QDK
+    - 5QDL
+    - 5QDM
+    - 5QDN
+    - 5QDO
+    - 5QDP
+    - 5QDQ
+    - 5QDR
+    - 5QDS
+    - 5QDT
+    - 5QDU
+    - 5QDV
+    - 5QDW
+    - 5QDX
+    - 5QDY
+    - 5QDZ
+    - 5QE0
+    - 5QE1
+    - 5QE2
+    - 5QE3
+    - 5QE4
+    - 5QE5
+    - 5QE6
+    - 5QE7
+    - 5QE8
+    - 5QE9
+    - 5QEA
+    - 5QEB
+    - 5QEC
+    - 5QED
+    - 5QEE
+    - 5QEF
+    - 5QEG
+    - 5QEH
+    - 5QEI
+    - 5QEJ
+    - 5QEK
+    - 5QEL
+    - 5QEM
+    - 5QEN
+    - 5QEO
+    - 5QEP
+    - 5QEQ
+    - 5QER
+    - 5QES
+    - 5QET
+    - 5QEU
+    - 5QEV
+    - 5QEW
+    - 5QEX
+    - 5QEY
+    - 5QEZ
+    - 5QF0
+    - 5QF1
+    - 5QF2
+    - 5QF3
+    - 5QF4
+    - 5QF5
+    - 5QF6
+    - 5QF7
+    - 5QF8
+    - 5QF9
+    - 5QFA
+    - 5QFB
+    - 5QFC
+    - 5QFD
+    - 5QFE
+    - 5QFF
+    - 5QFG
+    - 5QFH
+    - 5QFI
+    - 5QFJ
+    - 5QFK
+    - 5QFL
+    - 5QFM
+    - 5QFN
+    - 5QFO
+    - 5QFP
+    - 5QFQ
+    - 5QFR
+    - 5QFS
+    - 5QFT
+    - 5QFU
+    - 5QFV
+    - 5QFW
+    - 5QFX
+    - 5QFY
+    - 5QFZ
+    - 5QG0
+    - 5QG1
+    - 5QG2
+    - 5QG3
+    - 5QG4
+    - 5QG5
+    - 5QG6
+    - 5QG7
+    - 5QG8
+    - 5QG9
+    - 5QGA
+    - 5QGB
+    - 5QGC
+    - 5QGD
+    - 5QGE
+    - 5QGF
+  links:
+    - name: XChem - Fragment Screening at Diamond Light Source
+      url: 'http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html'
+    - name: PANDDA code on Bitbucket
+      url: 'http://pandda.bitbucket.io/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: Jim Wells
+      url: 'https://wellslab.ucsf.edu/'
+    - name: Datasets on Zenodo
+      url: 'https://zenodo.org/record/1044103'
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/928125440014745600'
+
+- citation: 'Williams CJ, Headd JJ, Moriarty NW, Prisant MG, Videau LL, Deis LN, Verma V, **Keedy DA**, Hintze BJ, Chen VB, Jain S, Lewis SM, Arendall WB 3rd, Snoeyink J, Adams PD, Lovell SC, Richardson JS, Richardson DC. MolProbity: More and better reference data for improved all-atom structure validation. *Protein Science*. 2018.'
+  date: 201801
+  image: '/images/pub/williams_2018.png'
+  pmid: 29067766
+  pmcid: PMC5734394
+  pdf: '/pdf/williams_2018.pdf'
+  links:
+    - name: MolProbity model validation server
+      url: http://molprobity.biochem.duke.edu
+    - name: Jane and David Richardson
+      url: http://kinemage.biochem.duke.edu
+
+- citation: 'Russi S, González A, Kenner LR, **Keedy DA**, Fraser JS, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
+  date: 201701
+  image: '/images/pub/russi_2017.jpg'
+  pmid: 28009548
+  pmcid: PMC5182021
+  pdf: '/pdf/russi_2017.pdf'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+
+- citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, Woldeyes RA, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, Fraser JS, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
+  date: 201602
+  image: '/images/pub/cimermancic_2016.jpg'
+  pmid: 26854760
+  pmcid: PMC4794384
+  pdf: '/pdf/cimermancic_2016.pdf'
+  links:
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/482313979524444161'
+    - name: CryptoSite
+      url: 'https://modbase.compbio.ucsf.edu/cryptosite/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: In the pipeline
+      url: 'http://blogs.sciencemag.org/pipeline/archives/2016/02/24/more-binding-sites-than-are-dreamt-of-in-your-philosophy'
+    - name: F1000 Evaluation
+      url: 'http://f1000.com/prime/726132503'
+
+- citation: '**Keedy DA**. Conformational and connotational heterogeneity: A surprising relationship between protein structural flexibility and puns. *Proteins: Structure, Function, and Bioinformatics*. 2015.'
+  date: 201501
+  image: '/images/pub/notfound.png'
+  pmid: 25619796
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/keedy_2015_puns.pdf'
+  links:
+    
+- citation: '**Keedy DA**, Fraser JS, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *PLOS Computational Biology*. 2015.'
+  date: 201507
+  image: '/images/pub/keedy_pcb_2015.jpg'
+  pmid: 26506617
+  pmcid: PMC4624436
+  biorxiv: 018879
+  pdf: /pdf/keedy_plos_2015.pdf
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: qFit webserver
+      url: 'http://smb.slac.stanford.edu/qFitServer/qFit.jsp'
+    - name: qFit code
+      url: 'https://simtk.org/home/qfit'
+    - name: Coordinates for peptide flip clusters
+      url: '/supp/qfit2_paper_pep_flip_coords.tgz'
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/594308094403837952'
+
+- citation: '**Keedy DA**\*, Kenner LR\*, Warkentin M\*, Woldeyes RA\*, Hopkins JB, Thompson MC, Brewster AS, Van Benschoten AH, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, Fraser JS. Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015.'
+  date: 201505
+  image: '/images/pub/keedy_1_2015.png'
+  pmid: 26422513
+  pmcid: PMC4721965
+  biorxiv: "016733"
+  pdf: '/pdf/keedy_elife_2015.pdf'
+  data:
+    - '10.15785/SBGRID/68'
+  pdbs:
+    - 4YUG
+    - 4YUH
+    - 4YUI
+    - 4YUJ
+    - 4YUK
+    - 4YUL
+    - 4YUM
+    - 4YUN
+    - 4YUO
+    - 4YUP
+  links:
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/578354918529994752'
+    - name: LCLS XPP Beamline
+      url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: Rob Thorne
+      url: 'http://pages.physics.cornell.edu/~rthorne/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+
+- citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, Fraser JS. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
+  date: 201404
+  image: '/images/pub/keedy_structure_2014.jpg'
+  pmid: 24882744
+  pmcid: PMC4082491
+  pdf: '/pdf/keedy_structure_2014.pdf'
+  pdbs:
+    - 4PSS
+    - 4PST
+    - 4PSY
+    - 4PSZ
+    - 4PTJ
+    - 4P3Q
+    - 4P3R
+    - 4PTH
+  links:
+    - name: Mark Wilson
+      url: 'https://redoxbiologycenter.unl.edu/markwilsonphd'
+    - name: Greg Petsko / Dagmar Ringe
+      url: 'http://www.bio.brandeis.edu/prLab/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/443233965017559040'
+    - name: F1000 Evaluation
+      url: 'http://f1000.com/prime/718430130'

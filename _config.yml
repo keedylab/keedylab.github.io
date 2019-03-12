@@ -1,0 +1,3 @@
+baseurl: /lab-web
+exclude: ['README.md']
+markdown: kramdown

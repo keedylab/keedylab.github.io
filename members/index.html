@@ -1,0 +1,51 @@
+---
+layout: pages
+title: Members
+group: members
+heading:
+bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
+---
+
+{% for person in site.data.members %}
+
+<div class="row">
+    <div class="3u 12u$(small)">
+        <span class="image fit"><img src="{{person.image}}" alt=""></span>
+        <br>
+        <strong><span class="memberName">{{person.name}}</span></strong><br>
+        <span class="memberDetail">{{person.position}}</span><br>
+        <em><span class="memberDetail">{{person.email}}</span></em><br>
+        {% if person.orcid %}
+          <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
+          <a id="links" href="http://{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
+        {% endif %}
+        {% if person.scholar %}
+          <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
+          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
+        {% endif %}
+        {% if person.twitter %}
+          <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png"></a>
+          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
+        {% endif %}
+    </div>
+
+    <div class="9u$ 12u$(small)">
+        {{person.description | markdownify}}
+    </div>
+
+</div>
+<hr>
+{% endfor %}
+
+
+<!-- <header class="align-center">
+ --> 
+<!-- </header> -->
+<h3>Past Rotation Students</h3>
+{% if site.data.alumni %}  
+  {%- for student in site.data.alumni -%}
+
+  {{student.name}}<br>
+
+  {%- endfor -%}
+{% endif %}

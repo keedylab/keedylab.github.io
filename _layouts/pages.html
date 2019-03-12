@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<!-- Credits to Templated.co for HTML/CSS Designs 
+	 and Fraserlab.com for Jekyll Scripts -->
+<html>
+	<head>
+		<title>{{ page.title }} | Keedy Lab </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
+		{% include favicon.html %}
+	</head>
+
+	<style>
+			.wrapper.style3 {
+			background-color: #000;
+			color: #bfbfbf;
+			background-image: url({{ page.bgimage }});
+			background-size: cover;
+			background-attachment: fixed;
+			background-position: center;
+			position: relative;
+		}
+	</style>
+
+	<body class="subpage">
+
+		<!-- Header -->
+		{% include header-default.html %}
+
+		<!-- One -->
+			<section id="One" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p>The Keedy Lab</p>
+						<h2>{{ page.title }}</h2>
+					</header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						<div class="content">
+							<header class="align-center">
+								<h2>{{ page.heading }}</h2>
+							</header>
+							<p>{{content | markdownify}}</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+		{% include footer.html %}
+
+	</body>
+</html>

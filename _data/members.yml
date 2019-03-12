@@ -1,0 +1,103 @@
+- name: Daniel Keedy
+  image: /images/members/dk.jpg
+  position: Principal Investigator
+  email: daniel DOT keedy (at) asrc _dot_ cuny -dot- edu
+  scholar: TVaqcVwAAAAJ
+  twitter: "DanielKeedy"
+  orcid: "orcid.org/0000-0002-9184-7586"
+  description: '
+  Daniel Keedy has been an Assistant Professor with the [Structural Biology Initiative](http://structbio.asrc.cuny.edu)
+  at the [CUNY Advanced Science Research Center (ASRC)](http://asrc.cuny.edu)
+  and the [Department of Chemistry and Biochemistry](https://www.ccny.cuny.edu/Chemistry) 
+  at [The City College of New York](https://www.ccny.cuny.edu/) 
+  since January 2018. 
+  He is also affiliated with the PhD Programs in 
+  [Biochemistry](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry)
+  and [Chemistry](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Chemistry)
+  at the [CUNY Graduate Center](https://www.gc.cuny.edu/home).
+  
+
+  Prior to his appointment, Daniel was an AP Giannini Postdoctoral Fellow in Bioengineering and Therapeutic Sciences 
+  at the University of California, San Francisco working with [James Fraser](https://fraserlab.com). 
+  He earned his PhD in Biochemistry and Structural Biology & Biophysics from Duke University 
+  with [Jane and David Richardson](http://kinemage.biochem.duke.edu),
+  after receiving his BA in Biochemistry & Molecular Biology from Rhodes College. 
+  
+
+  As principal investigator of the Keedy Lab,
+  Daniel develops experimental and computational methods to control proteins by biasing toward specific 
+  conformations that underlie functions such as allostery, ligand binding, and catalysis. 
+  His work reveals new opportunities to modulate the activities of therapeutic targets 
+  such as protein tyrosine phosphatases with small molecules and protein engineering, 
+  and also offers insights into more general evolutionary processes that led to functional diversity in the human proteome.
+'
+
+- name: Tamar Skaist
+  image: /images/members/tamar.jpg
+  position: PhD Student
+  email: tamar DOT skaist (at) asrc _dot_ cuny -dot- edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Tamar graduated summa cum laude from Chatham University in Pittsburgh in 2016, 
+  where she received her Bachelor of Science in Biochemistry. 
+  After graduating, she worked with [Dr. David Koes](http://bits.csb.pitt.edu/) 
+  at the University of Pittsburgh on computational drug design for various therapeutic targets. 
+  Tamar is now pursuing her PhD in 
+  [Biochemistry at CUNY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
+  In 2018, she joined the Keedy Lab, 
+  where she is developing computational strategies to leverage multistate models of protein structures
+  with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
+'
+
+- name: Syeda Maryam Azeem
+  image: /images/members/maryam.jpg
+  position: Research Assistant
+  email: syeda DOT azeem (at) asrc _dot_ cuny -dot- edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  After completing her undergraduate studies in India, 
+  Maryam Azeem pursued her master’s degree in the US starting in 2015.  
+  She joined [Dr. Kathleen Frey’s lab](https://sites.google.com/view/kfreyliupharm/home) 
+  in 2016 in the Department of Pharmacology and Toxicology at Long Island University in Brooklyn.  
+  While working under Dr. Frey’s supervision, 
+  Maryam developed her research interests in structural biology and X-ray crystallography.  
+  She used computational and structure-based methods for creating docking models, 
+  predicting mutations in the HIV Reverse Transcriptase enzyme, and analyzing protein-ligand interactions.
+  In 2018, Maryam joined the Keedy Lab,
+  where she is spearheading efforts to characterize the "invisible" conformations of tyrosine phosphatase enzymes
+  and reveal how they contribute to allosteric regulation.
+'
+
+- name: Elena Orins
+  image: /images/members/helen.jpg
+  position: Undergraduate Student
+  email: helen DOT orins46 (at) myhunter _dot_ cuny -dot- edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Helen is an undergraduate student studying Mathematics and Biology, with a concentration in Bioinformatics, at Hunter College.
+  In 2018, she joined the Keedy Lab,
+  where she is using dimensionality reduction techniques to investigate correlated motions in one phosphatase,
+  and X-ray crystallography to reveal how sequence differences rewire allosteric networks in another phosphatase.
+'
+
+
+- name: Sakib Hossain
+  image: /images/members/sakib.jpg
+  position: Undergraduate Student
+  email: sakib DOT hossain28 (at) myhunter _dot_ cuny -dot- edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Sakib is an undergraduate at Hunter College majoring in Chemistry with a concentration in Bioinformatics.
+  He joined the Keedy Lab in 2018.
+  His research in the lab focuses on how protein structures satisfy hydrogen bonding interactions in multiple different ways,
+  as well as experimental structural analysis of particular phosphatases with unique conformational features.
+  He is also the designer of this website!
+'

@@ -1,0 +1,23 @@
+            <footer id="footer">
+                <div class="copyright">
+                    Keedy Lab at CUNY Advanced Science Research Center<br>
+                    This website is open-source and available on <a href="https://github.com/keedylab/keedylab.github.io">GitHub</a>
+                </div>
+            </footer>
+
+        <!-- Scripts -->
+            <script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+            <script src="{{site.baseurl}}/assets/js/jquery.scrollex.min.js"></script>
+            <script src="{{site.baseurl}}/assets/js/skel.min.js"></script>
+            <script src="{{site.baseurl}}/assets/js/util.js"></script>
+            <script src="{{site.baseurl}}/assets/js/main.js"></script>
+            <script>
+                                let navLinks = document.querySelector('.navNarrow');
+                                let narrowLinks = document.querySelector('.narrowLinks');
+
+                                navLinks.addEventListener('click', toggle);
+
+                                function toggle() {
+                                    narrowLinks.classList.toggle('hidden');
+                                };
+            </script>
