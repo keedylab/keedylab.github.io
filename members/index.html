@@ -42,9 +42,10 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
  --> 
 <!-- </header> -->
 <h3>Past Rotation Students</h3>
+{% if site.data.alumni %}  
+  {%- for student in site.data.alumni -%}
 
-{% for student in site.data.alumni %}
+  {{student.name}}<br>
 
-{{student.name}}
-
-{% endfor %}
+  {%- endfor -%}
+{% endif %}
