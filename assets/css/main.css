@@ -3479,7 +3479,7 @@
 		}
 
 		.grid-style > * {
-			padding: 2rem;
+			padding: 0rem; /*This property was causing the extra gap on left side of banner*/
 			width: calc(50% + 2rem);
 		}
 
@@ -4572,6 +4572,7 @@ replaced by just the links.*/
         margin-left: auto;
         margin-right: auto;
     }
+
         .HomepageBox .image.fit {
             margin: 0;
             border-radius: 0;
@@ -4582,6 +4583,7 @@ replaced by just the links.*/
                 position: relative;
                 height: auto;
                 max-height: 100%
+                width: auto;
 /*              float: right;
                 width:  500px;
                 height: 500px;
@@ -4652,6 +4654,14 @@ replaced by just the links.*/
             padding: 0;
         }
 
+        @media screen and (max-width: 980px) {
+
+            .HomepageBox .content {
+                padding: 2rem;
+            }
+
+        }
+
         @media screen and (max-width: 736px) {
 
             .HomepageBox .content {
@@ -4670,6 +4680,10 @@ replaced by just the links.*/
   height: auto;
 }
 
+.links a {
+	color: #0000EE !important;
+}
+
 /*Member Profile Styling*/
 
 .memberName {
@@ -4679,4 +4693,3 @@ replaced by just the links.*/
 .memberDetail {
 	font-size: 16px !important;
 }
-
