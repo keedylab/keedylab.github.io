@@ -291,7 +291,7 @@
   image: '/images/pub/keedy_structure_2014.jpg'
   pmid: 24882744
   pmcid: PMC4082491
-  pdf: '/publications/pdf/keedy_structure_2014.pdf'
+  pdf: '/pdf/keedy_structure_2014.pdf'
   pdbs:
     - 4PSS
     - 4PST
