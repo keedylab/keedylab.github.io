@@ -26,6 +26,8 @@ Technologies this website uses:
 
     localhost:4000
 
+* When you are finished, you should kill the process with ctrl + c.
+
 ## Credits
 
 This website was designed and is maintained by Sakib Hossain (sakibh97 -AT- gmail _dot_ com) of the Keedy Lab.
