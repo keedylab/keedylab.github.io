@@ -181,6 +181,8 @@
       url: 'https://zenodo.org/record/1044103'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
+    - name: Oxford Protein Informatics Group (OPIG) Journal Club blog
+      url: 'https://www.blopig.com/blog/2019/03/journal-club-investigating-allostery-with-a-lot-of-crystals/'
 
 - citation: 'Williams CJ, Headd JJ, Moriarty NW, Prisant MG, Videau LL, Deis LN, Verma V, **Keedy DA**, Hintze BJ, Chen VB, Jain S, Lewis SM, Arendall WB 3rd, Snoeyink J, Adams PD, Lovell SC, Richardson JS, Richardson DC. MolProbity: More and better reference data for improved all-atom structure validation. *Protein Science*. 2018.'
   date: 201801
