@@ -1,6 +1,6 @@
 # keedylab.github.io
 
-Welcome to the source code for the website of the Keedy Lab, located at the CUNY Advanced Science Research Center.
+Welcome to the source code for the website of the Keedy Lab, located at the CUNY Advanced Science Research Center. 
 
 Technologies this website uses:  
 
