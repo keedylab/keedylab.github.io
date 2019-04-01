@@ -1652,7 +1652,7 @@
 		}
 
 	strong, b {
-		font-weight: 600;
+		font-weight: 400;
 	}
 
 	em, i {
@@ -4072,16 +4072,11 @@
 /* NavMenu */
 
 nav {
-
 	overflow: hidden;
 }
 
 nav	a {
-		color: #fff;
-}
-
-nav	a:hover {
-		color: #A9A9A9;
+		color: #FFF;
 }
 
 nav .navWide {
@@ -4107,19 +4102,19 @@ change the three "float: Left;" references to read "float: right;".*/
 nav	.navNarrow i {
 	float: right;
 	cursor: pointer;
-	color: #fff;
-	display: block;
-	padding-top: 0.75em;
-	padding-right: 0.5em;
+	color: #FFF;
+	padding-top: 10px;
+	padding-right: 5px;
 }
 
 nav .navNarrow .narrowLinks a {
-	background-color: transparent;
-	display: inline-block;
 	text-decoration: none;
+	text-transform: capitalize;
+	display: block;
 	float: right;
 	clear: left;
-	padding: 1em 1em;
+	padding: 0 10em;
+	background-color: #000;
 }
 
 .hidden {
@@ -4415,7 +4410,8 @@ replaced by just the links.*/
 			}
 
 			.banner > article h2 {
-				font-size: 4em;
+				margin-top: 1em;
+				font-size: 3em;
 			}
 
 		}
@@ -4692,4 +4688,19 @@ replaced by just the links.*/
 
 .memberDetail {
 	font-size: 16px !important;
+}
+
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
