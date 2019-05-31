@@ -4,19 +4,21 @@
     <div class="inner">
       <div class="grid-style">
         {% for content in site.data.contentbox %}
-                      <div class="HomepageBox">
-                    <div class="homeBox">
-                        <span class="image fit imgfit"><img src="{{content.image}}" alt="" /></span>
-                    </div>
-                    <div class="content">
-                        <header class="align-center">
+          <div class="HomepageBox">
+              <div class="homeBox">
+                  <span class="image fit imgfit"><img src="{{content.image}}" alt="" /></span>
+              </div>
+              <div class="content">
+                  <header class="align-center">
 
-            <center><h2>{{content.title}}</h2>
+                      <center><h2>{{content.title}}</h2>
 
-                <span class="links"><p>{{content.content}}</p></span>  
+                          <span class="links"><p>{{content.content}}</p></span>
 
-            </center>
-        </div>
+                      </center>
+                  </header>
+              </div>
+          </div>
         {% endfor %}
         </div>
       </div>
