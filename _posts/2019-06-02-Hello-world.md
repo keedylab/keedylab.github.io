@@ -11,9 +11,7 @@ We've gotten off to an amazing start in that time.  See below for a photo of the
 
 Looking forward to what the rest of 2019 and beyond have to bring!  Watch this space...  
 
-Finally, if you are interested in a postdoc position in the lab, please apply here:
-
-https://cuny.jobs/new-york-ny/research-associate-structural-biology-initiative/3F61F1DE234B4BF7BA9E5777089B982C/job/
+Finally, if you are interested in a postdoc position in the lab, please apply by clicking [this link](https://cuny.jobs/new-york-ny/research-associate-structural-biology-initiative/3F61F1DE234B4BF7BA9E5777089B982C/job/).
 
 ... and email Dr. Keedy to discuss!
 
