@@ -72,21 +72,6 @@
   and reveal how they contribute to allosteric regulation.
 '
 
-- name: Elena Orins
-  image: /images/members/helen.jpg
-  position: Undergraduate Student
-  email: helen DOT orins46 (at) myhunter _dot_ cuny -dot- edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Helen is an undergraduate student studying Mathematics and Biology, with a concentration in Bioinformatics, at Hunter College.
-  In 2018, she joined the Keedy Lab,
-  where she is using dimensionality reduction techniques to investigate correlated motions in one phosphatase,
-  and X-ray crystallography to reveal how sequence differences rewire allosteric networks in another phosphatase.
-'
-
-
 - name: Sakib Hossain
   image: /images/members/sakib.jpg
   position: Undergraduate Student
@@ -95,9 +80,9 @@
   twitter: 
   orcid: 
   description: '
-  Sakib is an undergraduate at Hunter College majoring in Chemistry with a concentration in Bioinformatics.
+  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
   He joined the Keedy Lab in 2018.
-  His research in the lab focuses on how protein structures satisfy hydrogen bonding interactions in multiple different ways,
-  as well as experimental structural analysis of particular phosphatases with unique conformational features.
-  He is also the designer of this website!
+  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
+  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
+  Last but not least, he is the designer of this website!
 '
