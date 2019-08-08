@@ -13,5 +13,6 @@ Relatedly, we are hiring for multiple positions in the lab.  Email Dr. Keedy and
 
 Finally, two excellent undergraduates have finished their summer research in the lab: Kristiana "Spring" Smith with the B^3 REU Program (from my alma mater Rhodes College!) and Minyoung "Lily" Kim with the CSURP Program, both of whom worked with Maryam Azeem as a mentor here.  We wish them both the best as they return to college for the fall, and beyond!
 
-<span class="image fit"><img src="/images/end_of_summer2019_lily.jpg"   alt="DK, Lily Kim, and Maryam Azeem in August 2019"     class="img-responsive"></span>
 <span class="image fit"><img src="/images/end_of_summer2019_spring.jpg" alt="DK, Spring Smith, and Maryam Azeem in August 2019" class="img-responsive"></span>
+
+<span class="image fit"><img src="/images/end_of_summer2019_lily.jpg"   alt="DK, Lily Kim, and Maryam Azeem in August 2019"     class="img-responsive"></span>
