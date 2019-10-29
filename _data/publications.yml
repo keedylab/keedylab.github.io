@@ -183,6 +183,8 @@
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
     - name: Oxford Protein Informatics Group (OPIG) Journal Club blog
       url: 'https://www.blopig.com/blog/2019/03/journal-club-investigating-allostery-with-a-lot-of-crystals/'
+    - name: '**Reviewed in Diamond Light Source Annual Review 2019**'
+      url: 'https://www.diamond.ac.uk/Home/Corporate-Literature/Annual-Review/Review2019/Science-Groups/Macromolecular-Crystallography-Group/Toward-remote-control-of-an--undruggable--dynamic-enzyme-with-structurebased-fragment-screening.html'
 
 - citation: 'Williams CJ, Headd JJ, Moriarty NW, Prisant MG, Videau LL, Deis LN, Verma V, **Keedy DA**, Hintze BJ, Chen VB, Jain S, Lewis SM, Arendall WB 3rd, Snoeyink J, Adams PD, Lovell SC, Richardson JS, Richardson DC. MolProbity: More and better reference data for improved all-atom structure validation. *Protein Science*. 2018.'
   date: 201801
