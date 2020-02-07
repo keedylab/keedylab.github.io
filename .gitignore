@@ -49,6 +49,9 @@ Temporary Items
 /test/version_tmp/
 /tmp/
 
+# Used by rbenv to set local version.
+.ruby-version
+
 # Used by dotenv library to load environment variables.
 # .env
 
