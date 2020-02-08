@@ -32,25 +32,6 @@
   and also offers insights into more general evolutionary processes that led to functional diversity in the human proteome.
 '
 
-- name: Tamar Skaist
-  image: /images/members/tamar.jpg
-  position: PhD Student
-  email: tskaist (at) gc DOT cuny DOT edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Tamar graduated summa cum laude from Chatham University in Pittsburgh in 2016, 
-  where she received her Bachelor of Science in Biochemistry. 
-  After graduating, she worked with [Dr. David Koes](http://bits.csb.pitt.edu/) 
-  at the University of Pittsburgh on computational drug design for various therapeutic targets. 
-  Tamar is now pursuing her PhD in 
-  [Biochemistry at CUNY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
-  In 2018, she joined the Keedy Lab, 
-  where she is developing computational strategies to leverage multistate models of protein structures
-  with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
-'
-
 - name: Syeda Maryam Azeem
   image: /images/members/maryam.jpg
   position: Research Assistant
@@ -72,21 +53,6 @@
   and reveal how they contribute to allosteric regulation.
 '
 
-- name: Sakib Hossain
-  image: /images/members/sakib.jpg
-  position: Undergraduate Student
-  email: sakib DOT hossain28 (at) myhunter DOT cuny DOT edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
-  He joined the Keedy Lab in 2018.
-  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
-  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
-  Last but not least, he is the designer of this website!
-'
-
 - name: Sergei Dzhumaev
   image: /images/members/sergei.jpg
   position: Undergraduate Student
@@ -100,6 +66,25 @@
   where he is using several tools including liquid handling robots
   to biophysically characterize putative allosteric inhibitors for PTP1B.
   Sergei loves interacting with the scientific community here at the ASRC!
+'
+
+# Ali will go here soon...
+# Ali will go here soon...
+# Ali will go here soon...
+
+- name: Sakib Hossain
+  image: /images/members/sakib.jpg
+  position: Undergraduate Student
+  email: sakib DOT hossain28 (at) myhunter DOT cuny DOT edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
+  He joined the Keedy Lab in 2018.
+  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
+  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
+  Last but not least, he is the designer of this website!
 '
 
 - name: Blake Riley
@@ -120,4 +105,23 @@
 
   Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
   He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
+'
+
+- name: Tamar Skaist
+  image: /images/members/tamar.jpg
+  position: PhD Student
+  email: tskaist (at) gc DOT cuny DOT edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Tamar graduated summa cum laude from Chatham University in Pittsburgh in 2016, 
+  where she received her Bachelor of Science in Biochemistry. 
+  After graduating, she worked with [Dr. David Koes](http://bits.csb.pitt.edu/) 
+  at the University of Pittsburgh on computational drug design for various therapeutic targets. 
+  Tamar is now pursuing her PhD in 
+  [Biochemistry at CUNY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
+  In 2018, she joined the Keedy Lab, 
+  where she is developing computational strategies to leverage multistate models of protein structures
+  with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
 '
