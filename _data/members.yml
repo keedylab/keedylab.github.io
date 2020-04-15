@@ -68,9 +68,27 @@
   Sergei loves interacting with the scientific community here at the ASRC!
 '
 
-# Ali will go here soon...
-# Ali will go here soon...
-# Ali will go here soon...
+- name: Ali Ebrahim
+  image: /images/members/ali.png
+  position: Postdoctoral Research Associate
+  email: 
+  scholar: 
+  twitter: DrAliEbrahim
+  orcid: orcid.org/0000-0003-2661-381X 
+  description: '
+  Ali is a BSc (Hons) Biology and MPhil Biochemistry graduate of the University of Portsmouth, UK. 
+  His MPhil focused on the characterisation of cellulases involved in the production of second-generation biofuels, 
+  igniting an interest into the field of X-ray crystallography. 
+  He earned his PhD from the University of Essex, UK, in early 2020, under the co-supervision of 
+  [Dr. Mike Hough](https://www.essex.ac.uk/people/hough20300/mike-hough) from the University of Essex 
+  and [Dr. Robin Owen](https://www.diamond.ac.uk/Instruments/Mx/I24/Staff/Owen.html) from Diamond Light Source, UK. 
+  His research focused on the development of serial crystallography data collection and processing methods 
+  for both synchrotrons and X-ray free-electron lasers, 
+  used to analyse and exploit the effects of radiation damage in metalloproteins. 
+  Ali joined the Keedy lab as a postdoc in the spring of 2020. 
+  He aims to bring his experience in crystallographic multi-dataset processing and analysis to the ASRC, 
+  in order to further unlock understanding within the field of phosphatase ligand binding, activity, and allostery. 
+'
 
 - name: Sakib Hossain
   image: /images/members/sakib.jpg
