@@ -27,9 +27,9 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
                                 <li><strong>PMCID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
                                 {% endif %}
                                 
-                                <!--Biorxiv - optional -->
+                                <!--bioRxiv - optional -->
                                 {% if publication.biorxiv %}
-                                <li><strong>Biorxiv Preprint</strong>: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
+                                <li><strong>bioRxiv Preprint</strong>: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
                                 {% endif %}
                                 
                                 <!-- PDF -->
