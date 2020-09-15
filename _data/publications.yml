@@ -1,3 +1,20 @@
+- citation: '**Riley BT**, Wankowicz SA, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, **Keedy DA**\*, van den Bedem H\* (* co-corresponding authors). qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps. *Submitted - Preprint on bioRxiv*. 2020.'
+  date: 202009
+  image: '/images/pub/qfit3.png'
+  pmid: In Process
+  pmcid: In Process
+  biorxiv: "2020.09.03.280222"
+  pdf: '/pdf/riley_2020.pdf'
+  links:
+    - name: qFit 3 Code on Github
+      url: https://github.com/ExcitedStates/qfit-3.0
+    - name: Henry van den Bedem
+      url: 'https://www.linkedin.com/in/henryvandenbedem/'
+    - name: James Fraser
+      url: 'https://fraserlab.com'
+    - name: Schrodinger, Inc.
+      url: 'https://www.schrodinger.com'
+
 - citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019.'
   date: 201901
   image: '/images/catalase_alt_netwk.jpg'
