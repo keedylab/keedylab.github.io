@@ -33,21 +33,6 @@
   and also offers insights into more general evolutionary processes that led to functional diversity in the human proteome.
 '
 
-- name: Sergei Dzhumaev
-  image: /images/members/sergei.jpg
-  position: Undergraduate Student
-  email: sdzhuma000 (at) citymail DOT cuny DOT edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Sergei is finishing his B.S. degree in biotechnology at City College of New York, just next-door to the ASRC.
-  In fall 2019 he joined the Keedy Lab,
-  where he is using several tools including liquid handling robots
-  to biophysically characterize putative allosteric inhibitors for PTP1B.
-  Sergei loves interacting with the scientific community here at the ASRC!
-'
-
 # - name: Ali Ebrahim
 #   image: /images/members/ali.png
 #   position: Postdoctoral Research Associate
@@ -178,4 +163,19 @@
 #   In 2018, Maryam joined the Keedy Lab,
 #   where she is spearheading efforts to characterize the "invisible" conformations of tyrosine phosphatase enzymes
 #   and reveal how they contribute to allosteric regulation.
+# '
+
+# - name: Sergei Dzhumaev
+#   image: /images/members/sergei.jpg
+#   position: Undergraduate Student
+#   email: sdzhuma000 (at) citymail DOT cuny DOT edu
+#   scholar: 
+#   twitter: 
+#   orcid: 
+#   description: '
+#   Sergei is finishing his B.S. degree in biotechnology at City College of New York, just next-door to the ASRC.
+#   In fall 2019 he joined the Keedy Lab,
+#   where he is using several tools including liquid handling robots
+#   to biophysically characterize putative allosteric inhibitors for PTP1B.
+#   Sergei loves interacting with the scientific community here at the ASRC!
 # '
