@@ -1,7 +1,7 @@
 - name: Daniel Keedy
   image: /images/members/dk.jpg
   position: Principal Investigator
-  email: dkeedy (at) gc DOT cuny DOT edu
+  email: dkeedy (at) gc.cuny.edu
   scholar: TVaqcVwAAAAJ
   twitter: "DanielKeedy"
   orcid: "orcid.org/0000-0002-9184-7586"
@@ -36,7 +36,7 @@
 # - name: Ali Ebrahim
 #   image: /images/members/ali.png
 #   position: Postdoctoral Research Associate
-#   email: aebrahim (at) gc DOT cuny DOT edu
+#   email: aebrahim (at) gc.cuny.edu
 #   scholar: 
 #   twitter: DrAliEbrahim
 #   orcid: orcid.org/0000-0003-2661-381X 
@@ -58,7 +58,7 @@
 - name: Sakib Hossain
   image: /images/members/sakib.jpg
   position: Research Assistant
-  email: sakib DOT hossain28 (at) myhunter DOT cuny DOT edu
+  email: sakib.hossain28 (at) myhunter.cuny.edu
   scholar: 
   twitter: 
   orcid: 
@@ -73,7 +73,7 @@
 - name: Blake Riley
   image: /images/members/blake.jpg
   position: Postdoctoral Research Associate
-  email: briley1 (at) gc DOT cuny DOT edu
+  email: briley1 (at) gc.cuny.edu
   scholar: PZO-W6YAAAAJ
   twitter: blake_riley
   orcid: orcid.org/0000-0003-2176-0503
@@ -90,10 +90,30 @@
   He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
 '
 
+- name: Shivani Sharma
+  image: /images/members/shivani.png
+  position: PhD Student
+  email: ssharma (at) gc.cuny.edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Born and raised in Delhi, India, Shivani moved to the States when she was 18. 
+  She completed her Bachelor’s in Science from a small university in Maryville, Missouri 
+  and transitioned to working full time at Stowers Institute for Medical research in 2017. 
+  Later, to get a taste of industry, she found a position at Eurofins, working as a scientist in the protein chemistry team. 
+  She then completed her Masters in Biochemistry from Iowa State University in 2020, 
+  where she explored the mechanisms of activation of Pyk2 tyrosine kinase. 
+  After entering the [CUNY Molecular, Cellular, and Developmental Biology (MCD) PhD Program](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biology/Subprograms/Molecular,-Cellular,-and-Developmental-Biology) in 2020, 
+  she joined the Keedy lab in 2021, 
+  where she is currently learning new computational approaches to complement her wet lab skill set 
+  as she seeks to answer outstanding questions about the structural biology of tyrosine phosphatases.
+'
+
 - name: Tamar Skaist
   image: /images/members/tamar.jpg
   position: PhD Student
-  email: tskaist (at) gc DOT cuny DOT edu
+  email: tskaist (at) gc.cuny.edu
   scholar: 
   twitter: 
   orcid: 
@@ -112,7 +132,7 @@
 - name: Yingxian Tan
   image: /images/members/yingxian.jpg
   position: Undergraduate Student
-  email: ytan003 (at) citymail DOT cuny DOT edu
+  email: ytan003 (at) citymail.cuny.edu
   scholar: 
   twitter: 
   orcid: 
@@ -126,7 +146,7 @@
 - name: Virgil Woods
   image: /images/members/virgil.png
   position: PhD Student
-  email: vwoods (at) gc DOT cuny DOT edu
+  email: vwoods (at) gc.cuny.edu
   scholar: 
   twitter: 
   orcid: 
@@ -147,7 +167,7 @@
 # - name: Syeda Maryam Azeem
 #   image: /images/members/maryam.jpg
 #   position: Research Assistant
-#   email: sazeem (at) gc DOT cuny DOT edu
+#   email: sazeem (at) gc.cuny.edu
 #   scholar: 
 #   twitter: 
 #   orcid: 
@@ -168,7 +188,7 @@
 # - name: Sergei Dzhumaev
 #   image: /images/members/sergei.jpg
 #   position: Undergraduate Student
-#   email: sdzhuma000 (at) citymail DOT cuny DOT edu
+#   email: sdzhuma000 (at) citymail.cuny.edu
 #   scholar: 
 #   twitter: 
 #   orcid: 
