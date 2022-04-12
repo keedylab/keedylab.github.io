@@ -212,7 +212,7 @@
   links:
     - name: XChem - Fragment Screening at Diamond Light Source
       url: 'http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html'
-    - name: PANDDA code on Bitbucket
+    - name: PanDDA code on Bitbucket
       url: 'http://pandda.bitbucket.io/'
     - name: James Fraser
       url: 'https://fraserlab.com'
