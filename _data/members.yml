@@ -70,24 +70,36 @@
   Last but not least, he is the designer of this website!
 '
 
-- name: Blake Riley
-  image: /images/members/blake.jpg
-  position: Postdoctoral Research Associate
-  email: briley1 (at) gc.cuny.edu
-  scholar: PZO-W6YAAAAJ
-  twitter: blake_riley
-  orcid: orcid.org/0000-0003-2176-0503
+- name: Liliana Margent
+  image: /images/members/liliana.png
+  position: PhD Student
+  email: lmargent (at) gc.cuny.edu
+  scholar: 
+  twitter: 
+  orcid: 
   description: '
-  Blake joined the Keedy lab as a postdoc in November 2019. He earned his PhD from [Monash University](https://www.monash.edu/), Australia,
-  where he worked with [A/Prof. Ashley Buckle](https://www.facebook.com/BuckleLab/)
-  on the protein engineering & design of a small, potent, peptidic protease inhibitor from sunflower seeds.
+Originally from Colombia, Liliana graduated with BS in Biological Engineering from National University of Colombia. 
+Liliana moved to New York in 2016 to pursue a career in Biochemistry. 
+In 2021, Liliana graduated with a Masters in Biochemistry from Hunter College,
+before joining the [CUNY Biochemistry PhD Program](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
+In 2022, she joined the Keedy Lab, where she hopes to focus her research on 
+the study of allosteric networks of phosphatases with the use of computational tools.
+'
 
-
-  As part of his doctoral research, he began to explore allosteric inhibition of proteases; he is now exploring allosteric inhibition of phosphatases.
-
-
-  Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
-  He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
+- name: Akshay Raju
+  image: /images/members/akshay.jpg
+  position: Undergraduate Student
+  email: araju000 (at) citymail.cuny.edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Akshay is an undergraduate Biotechnology major and Computer Science minor 
+  at the Macaulay Honors College at the City College of New York. 
+  He joined the Keedy Lab in the summer of 2022 with an interest in learning about 
+  ways to use computational analyses to answer questions in cell and molecular biology. 
+  Akshay hopes to use bioinformatics to look for hotspots of covarying amino acids 
+  in the protein tyrosine phosphatase family to help find hidden allosteric networks.
 '
 
 - name: Shivani Sharma
@@ -118,7 +130,7 @@
   twitter: 
   orcid: 
   description: '
-  Nathanael is working on his Bachelor of Science degree at [The City College of New York](https://www.ccny.cuny.edu/).
+  Nathanael is working on his Bachelor of Science degree at the City College of New York.
   In Spring 2022, he joined the Keedy lab as an undergraduate researcher, 
   where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
   Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
@@ -215,3 +227,22 @@
 #   across a breadth of crystal structures of various PTP enzymes.
 # '
 
+#- name: Blake Riley
+#  image: /images/members/blake.jpg
+#  position: Postdoctoral Research Associate
+#  email: briley1 (at) gc.cuny.edu
+#  scholar: PZO-W6YAAAAJ
+#  twitter: blake_riley
+#  orcid: orcid.org/0000-0003-2176-0503
+#  description: '
+#  Blake joined the Keedy lab as a postdoc in November 2019. He earned his PhD from [Monash University](https://www.monash.edu/), Australia,
+#  where he worked with [A/Prof. Ashley Buckle](https://www.facebook.com/BuckleLab/)
+#  on the protein engineering & design of a small, potent, peptidic protease inhibitor from sunflower seeds.
+#
+#
+#  As part of his doctoral research, he began to explore allosteric inhibition of proteases; he is now exploring allosteric inhibition of phosphatases.
+#
+#
+#  Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
+#  He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
+#'
