@@ -33,10 +33,10 @@
     - 7MHO
     - 7MHP
     - 7MHQ
-links:
+  links:
     - name: FMX beamline at NSLS-II
       url: https://www.bnl.gov/ps/beamlines/beamline.php?r=17-ID-2
-  
+
 - citation: '**Riley BT**, Wankowicz SA, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, **Keedy DA**\*, van den Bedem H\* (* co-corresponding authors). qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps. *Protein Science*. 2021.'
   date: 202009
   image: '/images/pub/riley_2021.png'
