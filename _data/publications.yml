@@ -13,13 +13,13 @@
     - name: CCP4/APS School in Macromolecular Crystallography
       url: https://www.ccp4.ac.uk/schools/APS-2022/index.php
 
-- citation: '**Ebrahim A**\*, **Riley BT**\*, Kumaran D, Andi B, Fuchs MR, McSweeney S, **Keedy DA**. The temperature-dependent conformational ensemble of SARS-CoV-2 main protease (Mpro). *Accepted to IUCrJ*. 2022.'
+- citation: '**Ebrahim A**\*, **Riley BT**\*, Kumaran D, Andi B, Fuchs MR, McSweeney S, **Keedy DA**. The temperature-dependent conformational ensemble of SARS-CoV-2 main protease (Mpro). *IUCrJ*. 2022.'
   date: 202104
   image: '/images/pub/ebrahim-riley_2021.png'
   pmid: 
   pmcid: 
   biorxiv: "2021.05.03.437411"
-  pdf: '/pdf/ebrahim-riley_2021.pdf'
+  pdf: '/pdf/ebrahim-riley_2022.pdf'
   pdbs:
     - 7MHF
     - 7MHG
@@ -374,3 +374,16 @@
       url: 'https://twitter.com/fraser_lab/status/443233965017559040'
     - name: F1000 Evaluation
       url: 'http://f1000.com/prime/718430130'
+
+- citation: '**Keedy DA**'. Using Protein-Likeness to Validate Conformational Alternatives. *PhD Thesis*. 2012.
+  image: 
+  pmid: 
+  pmcid: 
+  pdf: '/pdf/keedy_2012_thesis.pdf'
+  links:
+    - name: Jane and Dave Richardson
+      url: 'http://kinemage.biochem.duke.edu/'
+    - name: Bruce Donald
+      url: 'https://www2.cs.duke.edu/donaldlab/home.php'
+    - name: Duke Biochemistry
+      url: 'https://www.biochem.duke.edu/'
