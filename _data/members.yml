@@ -86,6 +86,25 @@ In 2022, she joined the Keedy Lab, where she hopes to focus her research on
 the study of allosteric networks of phosphatases with the use of computational tools.
 '
 
+- name: Tamar (Skaist) Mehlman
+  image: /images/members/tamar.jpg
+  position: PhD Student
+  email: tskaist (at) gc.cuny.edu
+  scholar: 
+  twitter: 
+  orcid: orcid.org/0000-0002-8896-1628
+  description: '
+  Tamar graduated summa cum laude from Chatham University in Pittsburgh in 2016, 
+  where she received her Bachelor of Science in Biochemistry. 
+  After graduating, she worked with [Dr. David Koes](http://bits.csb.pitt.edu/) 
+  at the University of Pittsburgh on computational drug design for various therapeutic targets. 
+  Tamar is now pursuing her PhD in 
+  [Biochemistry at CUNY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
+  In 2018, she joined the Keedy Lab, 
+  where she is developing computational strategies to leverage multistate models of protein structures
+  with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
+'
+
 - name: Akshay Raju
   image: /images/members/akshay.jpg
   position: Undergraduate Student
@@ -135,25 +154,6 @@ the study of allosteric networks of phosphatases with the use of computational t
   where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
   Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
   to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
-'
-
-- name: Tamar Skaist
-  image: /images/members/tamar.jpg
-  position: PhD Student
-  email: tskaist (at) gc.cuny.edu
-  scholar: 
-  twitter: 
-  orcid: orcid.org/0000-0002-8896-1628
-  description: '
-  Tamar graduated summa cum laude from Chatham University in Pittsburgh in 2016, 
-  where she received her Bachelor of Science in Biochemistry. 
-  After graduating, she worked with [Dr. David Koes](http://bits.csb.pitt.edu/) 
-  at the University of Pittsburgh on computational drug design for various therapeutic targets. 
-  Tamar is now pursuing her PhD in 
-  [Biochemistry at CUNY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry).
-  In 2018, she joined the Keedy Lab, 
-  where she is developing computational strategies to leverage multistate models of protein structures
-  with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
 '
 
 - name: Virgil Woods
