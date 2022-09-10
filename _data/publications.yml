@@ -8,6 +8,8 @@
   pdbs:
     - 8DU7
   links:
+    - name: X-ray diffraction data at SBGrid Data Bank
+      url: https://data.sbgrid.org/dataset/961/
     - name: FlexX beamline at MacCHESS
       url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
     - name: CCP4/APS School in Macromolecular Crystallography
@@ -60,7 +62,7 @@
     - name: Schrodinger, Inc.
       url: 'https://www.schrodinger.com'
 
-- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-­ray crystallography. *Acta Cryst D*. 2019.'
+- citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-ray crystallography. *Acta Cryst D*. 2019.'
   date: 201901
   image: '/images/pub/keedy_2019.jpg'
   pmid: 30821702
