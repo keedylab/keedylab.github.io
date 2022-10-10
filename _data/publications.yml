@@ -320,7 +320,7 @@
     - name: qFit code
       url: 'https://simtk.org/home/qfit'
     - name: Coordinates for peptide flip clusters
-      url: '/supp/qfit2_paper_pep_flip_coords.tgz'
+      url: 'https://zenodo.org/record/7182718#.Y0RtgOzMJqs'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/594308094403837952'
 
