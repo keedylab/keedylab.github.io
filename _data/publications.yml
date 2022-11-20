@@ -39,9 +39,13 @@
     - 7FRU
   links:
     - name: XChem - Fragment Screening at Diamond Light Source
-      url: 'http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html'
+      url: http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html
     - name: Datasets on Zenodo
-      url: 'https://doi.org/10.5281/zenodo.7255364'
+      url: https://doi.org/10.5281/zenodo.7255364
+    - name: Twitter thread
+      url: https://twitter.com/DanielKeedy/status/1588235104500924422
+    - name: MiTeGen Newsletter
+      url: https://myemail.constantcontact.com/Is-RT-More-Revealing---Cryogenic-eCryoTag-System---Crystallography-Phasing-Products---Events---News--Jobs.html?soid=1102010861736&aid=6Daadtrec_0
 
 - citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Submitted - Preprint on bioRxiv*. 2022.'
   date: 202208
