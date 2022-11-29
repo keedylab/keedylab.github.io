@@ -57,21 +57,6 @@
   in order to further unlock understanding within the field of phosphatase ligand binding, activity, and allostery. 
 '
 
-- name: Sakib Hossain
-  image: /images/members/sakib.jpg
-  position: Research Assistant
-  email: sakib.hossain28 (at) myhunter.cuny.edu
-  scholar: 
-  twitter: 
-  orcid: orcid.org/0000-0002-2602-9245
-  description: '
-  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
-  He joined the Keedy Lab in 2018.
-  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
-  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
-  Last but not least, he is the designer of this website!
-'
-
 - name: Liliana Margent
   image: /images/members/liliana.png
   position: PhD Student
@@ -248,3 +233,19 @@ the study of allosteric networks of phosphatases with the use of computational t
 #  Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
 #  He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
 #'
+
+#- name: Sakib Hossain
+#  image: /images/members/sakib.jpg
+#  position: Research Assistant
+#  email: sakib.hossain28 (at) myhunter.cuny.edu
+#  scholar: 
+#  twitter: 
+#  orcid: orcid.org/0000-0002-2602-9245
+#  description: '
+#  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
+#  He joined the Keedy Lab in 2018.
+#  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
+#  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
+#  Last but not least, he is the designer of this website!
+#'
+
