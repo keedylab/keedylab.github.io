@@ -47,13 +47,13 @@
     - name: MiTeGen Newsletter
       url: https://myemail.constantcontact.com/Is-RT-More-Revealing---Cryogenic-eCryoTag-System---Crystallography-Phasing-Products---Events---News--Jobs.html?soid=1102010861736&aid=6Daadtrec_0
 
-- citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Accepted to Acta Cryst F*. 2023.'
+- citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Acta Cryst F*. 2023.'
   date: 202208
-  image: '/images/pub/sharma_2022.png'
+  image: '/images/pub/sharma_2023.png'
   pmid: 
   pmcid: 
   biorxiv: "2022.07.28.501725"
-  pdf: '/pdf/sharma_2022.pdf'
+  pdf: '/pdf/sharma_2023.pdf'
   pdbs:
     - 8DU7
   links:
