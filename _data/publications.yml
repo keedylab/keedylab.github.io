@@ -1,10 +1,10 @@
 - citation: '**Mehlman (Skaist) T**, Biel JT, **Azeem SM**, Nelson ER, **Hossain S**, Dunnett LE, Paterson NG, Douangamath A, Talon R, Axford D, **Orins H**, von Delft F, **Keedy DA**. Room-temperature crystallography reveals altered binding of small-molecule fragments to PTP1B. *eLife*. 2023.'
-  date: 202211
+  date: 202303
   image: '/images/pub/mehlman_2023.png'
   pmid: 
   pmcid: 
   biorxiv: "2022.11.02.514751"
-  pdf: '/pdf/mehlman_2022.pdf'
+  pdf: '/pdf/mehlman_2023.pdf'
   pdbs:
     - 7FQM
     - 7FQN
@@ -46,6 +46,8 @@
       url: https://twitter.com/DanielKeedy/status/1588235104500924422
     - name: MiTeGen Newsletter
       url: https://myemail.constantcontact.com/Is-RT-More-Revealing---Cryogenic-eCryoTag-System---Crystallography-Phasing-Products---Events---News--Jobs.html?soid=1102010861736&aid=6Daadtrec_0
+    - name: Public reviews posted on bioRxiv preprint
+      url: https://www.biorxiv.org/content/10.1101/2022.11.02.514751v1#review
 
 - citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Acta Cryst F*. 2023.'
   date: 202208
