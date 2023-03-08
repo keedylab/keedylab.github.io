@@ -1,3 +1,16 @@
+- citation: 'Cavender CE, Case DA, Chen JCH, Chong LT, **Keedy DA**, Lindorff-Larsen K, Mobley DL, Ollila OHS, Oostenbrink C, Robustelli P, Voelz VA, Wall ME, Wych DC, Gilson MK. Structure-Based Experimental Datasets for Benchmarking of Protein Simulation Force Fields. *Preprint on Zenodo*. 2023.'
+  date: 202303
+  image: '/images/pub/cavender_2023.png'
+  pmid: 
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/cavender_2023.pdf'
+  links:
+    - name: Michael Gilson
+      url: https://gilson.cloud.ucsd.edu/
+    - name: Open Force Field Initiative
+      url: https://openforcefield.org/
+
 - citation: '**Mehlman (Skaist) T**, Biel JT, **Azeem SM**, Nelson ER, **Hossain S**, Dunnett LE, Paterson NG, Douangamath A, Talon R, Axford D, **Orins H**, von Delft F, **Keedy DA**. Room-temperature crystallography reveals altered binding of small-molecule fragments to PTP1B. *eLife*. 2023.'
   date: 202303
   image: '/images/pub/mehlman_2023.png'
