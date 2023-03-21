@@ -6,8 +6,8 @@
   biorxiv: 
   pdf: '/pdf/cavender_2023.pdf'
   links:
-    - name: Preprint on Zenodo
-      url: https://zenodo.org/record/7697462#.ZAe2_OzMJqs
+    - name: Preprint on arXiv
+      url: https://arxiv.org/abs/2303.11056
     - name: Michael Gilson
       url: https://gilson.cloud.ucsd.edu/
     - name: Open Force Field Initiative
