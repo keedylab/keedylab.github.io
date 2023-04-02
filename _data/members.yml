@@ -157,6 +157,22 @@ the study of allosteric networks of phosphatases with the use of computational t
   to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
 '
 
+- name: Selina Sun
+  image: /images/members/selina.png
+  position: Undergraduate Student
+  email: ss13739 (at) nyu.edu
+  scholar: 
+  twitter: 
+  orcid: 
+  description: '
+  Simeng "Selina" Sun is studying for a dual Data Science and Math major at NYU,
+  conducting a research internship here at the ASRC.
+  She is enjoying learning how to connect her computational and quantitative skillset 
+  with exciting applications in scientific research, specifically structural biology.
+  Her project centers on exploring how recent AI-based software tools for protein structure prediction and design
+  can be combined to reveal new insights into protein evolvability and designability.
+'
+
 - name: Virgil Woods
   image: /images/members/virgil.png
   position: PhD Student
