@@ -82,6 +82,8 @@
       url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
     - name: CCP4/APS School in Macromolecular Crystallography
       url: https://www.ccp4.ac.uk/schools/APS-2022/index.php
+    - name: IUCr virtual thematic special issue on RT crystallography
+      url: https://journals.iucr.org/special_issues/2022/RT/
 
 - citation: '**Ebrahim A**\*, **Riley BT**\*, Kumaran D, Andi B, Fuchs MR, McSweeney S, **Keedy DA**. The temperature-dependent conformational ensemble of SARS-CoV-2 main protease (Mpro). *IUCrJ*. 2022.'
   date: 202104
@@ -114,6 +116,8 @@
       url: https://www.growkudos.com/publications/10.1107%25252Fs2052252522007497/reader
     - name: MiTeGen Newsletter
       url: https://myemail.constantcontact.com/Paper-SARSCoV2-and-Multi-Temperature-X-ray-Crystallography---CryoEM-Grid-Clipping-Tools---NVH-Oil---Events---News---Jobs.html?soid=1102010861736&aid=TvQWvHUt_oA
+    - name: IUCr virtual thematic special issue on RT crystallography
+      url: https://journals.iucr.org/special_issues/2022/RT/
 
 - citation: '**Riley BT**, Wankowicz SA, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, **Keedy DA**\*, van den Bedem H\* (* co-corresponding authors). qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps. *Protein Science*. 2021.'
   date: 202009
