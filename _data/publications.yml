@@ -1,3 +1,14 @@
+- citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature vs. pressure on the structure of an atypical phosphatase. *Preprint on bioRxiv*. 2023.'
+  date: 202305
+  image: '/images/guerrero-ebrahim_2023.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2023.05.02.538097"
+  pdf: '/pdf/guerrero-ebrahim_2023.pdf'
+  links:
+    - name: FlexX beamline at MacCHESS
+      url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
+
 - citation: 'Cavender CE, Case DA, Chen JCH, Chong LT, **Keedy DA**, Lindorff-Larsen K, Mobley DL, Ollila OHS, Oostenbrink C, Robustelli P, Voelz VA, Wall ME, Wych DC, Gilson MK. Structure-Based Experimental Datasets for Benchmarking of Protein Simulation Force Fields. *Preprint on arXiv*. 2023.'
   date: 202303
   image: '/images/pub/cavender_2023.jpg'
