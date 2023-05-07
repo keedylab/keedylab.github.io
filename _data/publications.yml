@@ -77,6 +77,16 @@
     - name: Practical Fragments - Crystallography heats up, it seems for the better
       url: https://practicalfragments.blogspot.com/2023/03/crystallography-heats-up-it-seems-for.html
 
+- citation: 'Richardson JS, Moriarty NW, **Keedy DA**. Fitting Tip #23 - Alternate conformations always want to spread. *Computational Crystallography Newsletter*. 2023.'
+  date: 202301
+  image: '/images/pub/richardson_2023.png'
+  pdf: '/pdf/richardson_2023.pdf'
+  links:
+    - name: PHENIX Computational Crystallography Newsletter
+      url: https://phenix-online.org/newsletter
+    - name: Richardson Lab
+      url: http://kinemage.biochem.duke.edu
+
 - citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Acta Cryst F*. 2023.'
   date: 202208
   image: '/images/pub/sharma_2023.png'
