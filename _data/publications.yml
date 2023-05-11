@@ -5,6 +5,10 @@
   pmcid: 
   biorxiv: "2023.05.02.538097"
   pdf: '/pdf/guerrero-ebrahim_2023.pdf'
+  pdbs:
+    - 8SLS
+    - 8SLT
+    - 8SLU
   links:
     - name: FlexX beamline at MacCHESS
       url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
