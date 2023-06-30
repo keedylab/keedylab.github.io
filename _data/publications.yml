@@ -1,3 +1,14 @@
+- citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Uncovering Protein Ensembles: Automated Multiconformer Model Building for Xray Crystallography and Cryo-EM. *Preprint on bioRxiv*. 2023.'
+  date: 202306
+  image: '/images/pub/wankowicz_2023.jpg'
+  pmid: 
+  pmcid: 
+  biorxiv: "2023.06.28.546963"
+  pdf: '/pdf/wankowicz_2023.pdf'
+  links:
+    - name: Fraser lab @ UCSF
+      url: https://fraserlab.com
+
 - citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature vs. pressure on the structure of an atypical phosphatase. *Preprint on bioRxiv*. 2023.'
   date: 202305
   image: '/images/pub/guerrero-ebrahim_2023.png'
