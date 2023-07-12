@@ -1,3 +1,14 @@
+- citation: '**Woods VA**, RR Abzalimov, **Keedy DA**. Native dynamics and allosteric responses in PTP1B probed by high-resolution HDX-MS. *Preprint on bioRxiv*. 2023.'
+  date: 202307
+  image: '/images/pub/woods_2023.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2023.07.12.548582"
+  pdf: '/pdf/woods_2023.pdf'
+  links:
+    - name: ASRC SBI Mass Spectrometry Facility
+      url: https://asrc.gc.cuny.edu/facilities/mass-spectrometry/
+
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Uncovering Protein Ensembles: Automated Multiconformer Model Building for Xray Crystallography and Cryo-EM. *Preprint on bioRxiv*. 2023.'
   date: 202306
   image: '/images/pub/wankowicz_2023.png'
