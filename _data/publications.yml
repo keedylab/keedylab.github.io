@@ -9,7 +9,7 @@
     - name: ASRC SBI Mass Spectrometry Facility
       url: https://asrc.gc.cuny.edu/facilities/mass-spectrometry/
 
-- citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM. *Preprint on bioRxiv*. 2023.'
+- citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM. *eLife*. 2023.'
   date: 202306
   image: '/images/pub/wankowicz_2023.png'
   pmid: 
