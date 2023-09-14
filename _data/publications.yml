@@ -1,3 +1,16 @@
+- citation: '**Sharma S**, **Mehlman (Skaist) T**, Sagabala RS, Boivin B, **Keedy DA**. High-resolution double vision of the archetypal protein tyrosine phosphatase. *Preprint on bioRxiv*. 2023.'
+  date: 202309
+  image: '/images/pub/sharma_2023_hires.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2023.09.12.557361"
+  pdf: '/pdf/sharma_2023_hires.pdf'
+  links:
+    - name: NYX beamline at NSLS-II
+      url: https://www.bnl.gov/nsls2/beamlines/beamline.php?r=19-ID
+    - name: Boivin lab at SUNY Poly
+      url: https://sunypoly.edu/research/boivin-lab.html
+
 - citation: '**Woods VA**, Abzalimov RR, **Keedy DA**. Native dynamics and allosteric responses in PTP1B probed by high-resolution HDX-MS. *Preprint on bioRxiv*. 2023.'
   date: 202307
   image: '/images/pub/woods_2023.png'
@@ -123,7 +136,7 @@
   pmid: 36598353
   pmcid: PMC9813971
   biorxiv: "2022.07.28.501725"
-  pdf: '/pdf/sharma_2023.pdf'
+  pdf: '/pdf/sharma_2023_ssx.pdf'
   pdbs:
     - 8DU7
   links:
