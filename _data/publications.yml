@@ -5,6 +5,8 @@
   pmcid: 
   biorxiv: "2023.09.12.557361"
   pdf: '/pdf/sharma_2023_hires.pdf'
+  pdbs:
+    - 8U1E
   links:
     - name: NYX beamline at NSLS-II
       url: https://www.bnl.gov/nsls2/beamlines/beamline.php?r=19-ID
