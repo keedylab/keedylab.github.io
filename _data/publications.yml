@@ -23,6 +23,10 @@
   links:
     - name: ASRC SBI Mass Spectrometry Facility
       url: https://asrc.gc.cuny.edu/facilities/mass-spectrometry/
+    - Twitter thread (v1)
+      url: https://twitter.com/DanielKeedy/status/1679650705710145536
+    - Twitter thread (v2)
+      url: https://twitter.com/DanielKeedy/status/1724167671678214481
 
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM. *eLife*. 2023.'
   date: 202306
