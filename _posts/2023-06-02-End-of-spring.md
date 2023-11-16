@@ -21,9 +21,9 @@ Check out [our publications page](https://keedylab.org/publications/) for more a
 
 Akshay won the Outstanding Biology Presentation Award from the CCNY Biology Research Symposium, and was selected to present at the [1st Annual CUNY Undergraduate Research Day](https://www.cuny.edu/research/research-development-programs/student-programs/undergraduate-programs/cuny-undergraduate-research-celebration-day-2023/).
 
-Nathanael won the Dr. Leon Greenstein Fund Award from the CCNY Department of Chemistry & Biochemistry, and was accepted into the [CCNY ORCA summer research program](https://orca.commons.gc.cuny.edu/).
+Nathanael won the Fred Gornick Family Fund Award and the George A. & James E. Petersson Fellowship Fund Award from the CCNY Department of Chemistry & Biochemistry, and was accepted into the [CCNY ORCA summer research program](https://orca.commons.gc.cuny.edu/).
 
-Kevin Shionarain recently joined the lab as an honors undergraduate researcher (welcome!). He won the Fred Gornick Family Fund Award and the George A. & James E. Petersson Fellowship Fund Award from the CCNY Department of Chemistry & Biochemistry.
+Kevin Shionarain recently joined the lab as an honors undergraduate researcher (welcome!). He won the Dr. Leon Greenstein Fund Award from the CCNY Department of Chemistry & Biochemistry.
 
 <span class="image fit"><img src="/images/KS_DCB_award.png" alt="Kevin receiving his undergraduate resarch award from the CCNY Department of Chemistry & Biochemistry" class="img-responsive"></span>
 
