@@ -1,7 +1,20 @@
-- citation: '**Sharma S**, **Mehlman (Skaist) T**, Sagabala RS, Boivin B, **Keedy DA**. High-resolution double vision of the archetypal protein tyrosine phosphatase. *Preprint on bioRxiv*. 2023.'
+- citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded view of ligandability in the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Preprint on bioRxiv*. 2024.'
+  date: 202401
+  image: '/images/pub/mehlman_2024.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2024.01.05.574428"
+  pdf: '/pdf/mehlman_2024.pdf'
+  links:
+    - name: Protein Machinists lab - Helen Ginn
+      url: https://www.hginn.co.uk/lab_website/index.php?page=home
+    - name: cluster4x - Vagabond
+      url: https://vagabond.hginn.co.uk/index.php?page=cluster4x
+
+- citation: '**Sharma S**, **Mehlman (Skaist) T**, Sagabala RS, Boivin B, **Keedy DA**. High-resolution double vision of the allosteric phosphatase PTP1B. *Acta Cryst F*. 2024.'
   date: 202309
   image: '/images/pub/sharma_2023_hires.png'
-  pmid: 
+  pmid: 38133579
   pmcid: 
   biorxiv: "2023.09.12.557361"
   pdf: '/pdf/sharma_2023_hires.pdf'
@@ -41,7 +54,7 @@
     - name: Fraser lab @ UCSF
       url: https://fraserlab.com
 
-- citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature vs. pressure on the structure of an atypical phosphatase. *Preprint on bioRxiv*. 2023.'
+- citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature vs. pressure on the structure of an atypical phosphatase. *Communications Biology*. 2024.'
   date: 202305
   image: '/images/pub/guerrero-ebrahim_2023.png'
   pmid: 
