@@ -14,8 +14,8 @@
 - citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature versus pressure on the structure of STEP. *Communications Biology*. 2024.'
   date: 202305
   image: '/images/pub/guerrero-ebrahim_2023.png'
-  pmid: 
-  pmcid: 
+  pmid: 38216663
+  pmcid: PMC10786866
   biorxiv: "2023.05.02.538097"
   pdf: '/pdf/guerrero-ebrahim_2024.pdf'
   pdbs:
@@ -34,7 +34,7 @@
   date: 202309
   image: '/images/pub/sharma_2023_hires.png'
   pmid: 38133579
-  pmcid: 
+  pmcid: PMC10833341
   biorxiv: "2023.09.12.557361"
   pdf: '/pdf/sharma_2023_hires.pdf'
   pdbs:
@@ -157,7 +157,7 @@
     - name: Richardson Lab
       url: http://kinemage.biochem.duke.edu
 
-- citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of apo PTP1B. *Acta Cryst F*. 2023.'
+- citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of the human phosphatase PTP1B. *Acta Cryst F*. 2023.'
   date: 202208
   image: '/images/pub/sharma_2023_ssx.png'
   pmid: 36598353
