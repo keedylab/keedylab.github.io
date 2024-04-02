@@ -1,3 +1,17 @@
+- citation: 'Wallach I, ..., **Keedy DA**, ..., **Smith KS**, ..., **Singh N**, ..., **Hossain S**, ..., **Dzhumaev S**, ..., **Azeem SM**, ..., **Mehlman T**, ..., **Woods VA**..., Heifets A (688 total authors). AI is a viable alternative to high throughput screening: a 318-target study. *Scientific Reports*. 2024.'
+  date: 202404
+  image: '/images/pub/wallach_2024.png'
+  pmid: 
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/wallach_2024.pdf'
+  links:
+    - name: Atomwise, Inc.
+      url: https://www.atomwise.com
+    - name: Atomwise press release
+      url: https://www.atomwise.com/2024/04/02/press-release-atomwise-publishes-results-from-318-target-study
+
+
 - citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded view of ligandability in the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Preprint on bioRxiv*. 2024.'
   date: 202401
   image: '/images/pub/mehlman_2024.png'
