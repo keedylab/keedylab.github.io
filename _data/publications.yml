@@ -11,7 +11,6 @@
     - name: Atomwise press release
       url: https://www.atomwise.com/2024/04/02/press-release-atomwise-publishes-results-from-318-target-study
 
-
 - citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded view of ligandability in the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Preprint on bioRxiv*. 2024.'
   date: 202401
   image: '/images/pub/mehlman_2024.png'
@@ -19,6 +18,83 @@
   pmcid: 
   biorxiv: "2024.01.05.574428"
   pdf: '/pdf/mehlman_2024.pdf'
+  pdbs:
+    - 7GS7
+    - 7GS8
+    - 7GS9
+    - 7GSA
+    - 7GSB
+    - 7GSC
+    - 7GSD
+    - 7GSE
+    - 7GSF
+    - 7GSG
+    - 7GSH
+    - 7GSI
+    - 7GSJ
+    - 7GSK
+    - 7GSL
+    - 7GSM
+    - 7GSN
+    - 7GSO
+    - 7GSQ
+    - 7GSR
+    - 7GST
+    - 7GSU
+    - 7GSV
+    - 7GSW
+    - 7GSX
+    - 7GSY
+    - 7GSZ
+    - 7GT0
+    - 7GT1
+    - 7GT2
+    - 7GT3
+    - 7GT4
+    - 7GT5
+    - 7GT6
+    - 7GT7
+    - 7GT8
+    - 7GT9
+    - 7GTA
+    - 7GTB
+    - 7GTC
+    - 7GTD
+    - 7GTE
+    - 7GTF
+    - 7GTG
+    - 7GTH
+    - 7GTI
+    - 7GTJ
+    - 7GTK
+    - 7GTL
+    - 7GTM
+    - 7GTN
+    - 7GTO
+    - 7GTP
+    - 7GTQ
+    - 7GTR
+    - 7GTS
+    - 7GTT
+    - 7GTU
+    - 7GTV
+    - 7GTW
+    - 7GTX
+    - 7GTY
+    - 7GTZ
+    - 7GU0
+    - 7GU1
+    - 7GU2
+    - 7GU3
+    - 7GU4
+    - 7GU5
+    - 7GU6
+    - 7GU7
+    - 7GU8
+    - 7GU9
+    - 7GUA
+    - 7GUB
+    - 7GUC
   links:
     - name: Protein Machinists lab - Helen Ginn
       url: https://www.hginn.co.uk/lab_website/index.php?page=home
