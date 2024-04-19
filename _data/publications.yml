@@ -335,6 +335,13 @@
   pmcid: PMC6820680
   biorxiv: "253419"
   pdf: '/pdf/qfit_ligand.pdf'
+  pdbs:
+    - 6DMG
+    - 6DMH
+    - 6DMI
+    - 6DMJ
+    - 6DMK
+    - 6DML
   links:
     - name: qFit-ligand Code on Github
       url: https://github.com/ExcitedStates/qfit_ligand
