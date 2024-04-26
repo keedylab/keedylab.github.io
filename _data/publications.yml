@@ -11,7 +11,7 @@
     - name: Atomwise press release
       url: https://www.atomwise.com/2024/04/02/press-release-atomwise-publishes-results-from-318-target-study
 
-- citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded view of ligandability in the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Preprint on bioRxiv*. 2024.'
+- citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded trove of fragment-bound structures for the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Structure*. 2024.'
   date: 202401
   image: '/images/pub/mehlman_2024.png'
   pmid: 
