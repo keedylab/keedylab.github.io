@@ -30,7 +30,7 @@ Technologies this website uses:
 
 ## Credits
 
-This website was designed and is maintained by Sakib Hossain (sakibh97 -AT- gmail _dot_ com) of the Keedy Lab.
+This website was designed by Sakib Hossain of the Keedy Lab.
 
 The basic framework for this website was borrowed from the website of the Fraser Lab at UCSF (www.fraserlab.com).
 
