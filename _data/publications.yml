@@ -1,5 +1,20 @@
-# Bump papers to the top of the list when they graduate from preprint to accepted at a journal
-# Keep date the same, matching original preprint date; update paper PDF file as appropriate
+# Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
+# Keep date the same, matching original preprint date; update paper PDF file as appropriate.
+
+- citation: 'Perdikari A\*, **Woods VA**\*, **Ebrahim A**\*, Lawler K, Bounds R, **Singh NI**, **Mehlman (Skaist) T**, **Riley BT**, **Sharma S**, **Morris JW**, Keogh JM, Henning E, Smith M, Farooqi IS\*\*, **DA Keedy**\*\* (** co-corresponding authors). Structures of human PTP1B variants reveal allosteric sites to target for weight loss therapy. *bioRxiv* preprint. 2024.'
+  date: 202408
+  image: '/images/pub/perdikari-woods-ebrahim_2024.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2024.08.05.603709"
+  pdf: '/pdf/perdikari-woods-ebrahim_2024.pdf'
+  links:
+    - name: Farooqi group at Cambridge
+      url: https://www.goos.org.uk/about-us/meet-the-team
+    - name: STILTS - Study Into Lean and Thin Subjects
+      url: https://www.stilts.org.uk/
+    - name: Beamline 12-1 at SSRL
+      url: https://www-ssrl.slac.stanford.edu/content/beam-lines/bl12-1
 
 - citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *bioRxiv* preprint. 2024.'
   date: 202407
@@ -9,7 +24,7 @@
   biorxiv: "2024.07.16.603632"
   pdf: '/pdf/chartier_2024.pdf'
   links:
-    - name: Shah lab @ Columbia
+    - name: Shah lab at Columbia
       url: https://shahlab.wixsite.com/home
 
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Automated multiconformer model building for X-ray crystallography and cryo-EM. *eLife*. 2024.'
@@ -24,7 +39,7 @@
       url: https://github.com/ExcitedStates/qfit-3.0
     - name: qFit application on SBGrid
       url: https://sbgrid.org/software/titles/qfit
-    - name: Fraser lab @ UCSF
+    - name: Fraser lab at UCSF
       url: https://fraserlab.com
 
 - citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded trove of fragment-bound structures for the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Structure*. 2024.'
