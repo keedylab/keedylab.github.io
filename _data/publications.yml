@@ -8,6 +8,11 @@
   pmcid: 
   biorxiv: "2024.08.05.603709"
   pdf: '/pdf/perdikari-woods-ebrahim_2024.pdf'
+  pdbs:
+    - 9CYO
+    - 9CYP
+    - 9CYQ
+    - 9CYR
   links:
     - name: Farooqi group at Cambridge
       url: https://www.goos.org.uk/about-us/meet-the-team
