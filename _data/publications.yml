@@ -35,8 +35,8 @@
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Automated multiconformer model building for X-ray crystallography and cryo-EM. *eLife*. 2024.'
   date: 202306
   image: '/images/pub/wankowicz_2023.png'
-  pmid: 
-  pmcid: 
+  pmid: 38904665
+  pmcid: PMC11192534
   biorxiv: "2023.06.28.546963"
   pdf: '/pdf/wankowicz_2024_elife.pdf'
   links:
@@ -50,8 +50,8 @@
 - citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded trove of fragment-bound structures for the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Structure*. 2024.'
   date: 202401
   image: '/images/pub/mehlman_2024.png'
-  pmid: 
-  pmcid: 
+  pmid: 38861991
+  pmcid: PMC11316629
   biorxiv: "2024.01.05.574428"
   pdf: '/pdf/mehlman_2024.pdf'
   pdbs:
@@ -140,8 +140,8 @@
 - citation: '**Woods VA**, Abzalimov RR, **Keedy DA**. Native dynamics and allosteric responses in PTP1B probed by high-resolution HDX-MS. *Protein Science*. 2024.'
   date: 202307
   image: '/images/pub/woods_2023.png'
-  pmid: 
-  pmcid: 
+  pmid: 38801229
+  pmcid: PMC11129624
   biorxiv: "2023.07.12.548582"
   pdf: '/pdf/woods_2023.pdf'
   links:
