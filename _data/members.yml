@@ -110,22 +110,6 @@ the study of allosteric networks of phosphatases with the use of computational t
   with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
 '
 
-- name: Akshay Raju
-  image: /images/members/akshay.jpg
-  position: Undergraduate Student
-  email: araju000 (at) citymail.cuny.edu
-  scholar: 
-  twitter: 
-  orcid: orcid.org/0000-0002-6192-3613
-  description: '
-  Akshay is an undergraduate Biotechnology major and Computer Science minor 
-  at the Macaulay Honors College at the City College of New York. 
-  He joined the Keedy Lab in the summer of 2022 with an interest in learning about 
-  ways to use computational analyses to answer questions in cell and molecular biology. 
-  Akshay hopes to use bioinformatics to look for hotspots of covarying amino acids 
-  in the protein tyrosine phosphatase family to help find hidden allosteric networks.
-'
-
 - name: Shivani Sharma
   image: /images/members/shivani.png
   position: PhD Student
@@ -144,51 +128,6 @@ the study of allosteric networks of phosphatases with the use of computational t
   she joined the Keedy lab in 2021, 
   where she is currently learning new computational approaches to complement her wet lab skill set 
   as she seeks to answer outstanding questions about the structural biology of tyrosine phosphatases.
-'
-
-- name: Kevin Shionarain
-  image: /images/members/kevin.jpg
-  position: Undergraduate Student
-  email: kshiona000 (at) citymail.cuny.edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Kevin is an undergraduate student at City College of New York majoring in Biochemistry. 
-  He joined the Keedy lab in Spring 2023 hoping to learn more about how protein structural dynamics are vital to protein function. 
-  He also hopes to immerse himself in research rooted in biochemistry and learn more about laboratory techniques used to study proteins. 
-  Kevin is currently working on designing chimeric proteins to better understand the specific structural building blocks of protein tyrosine phosphatases.
-'
-
-- name: Nathanael Singh
-  image: /images/members/nathanael.jpg
-  position: Undergraduate Student
-  email: nsingh002 (at) citymail.cuny.edu
-  scholar: 
-  twitter: 
-  orcid: orcid.org/0000-0001-5192-747X
-  description: '
-  Nathanael is working on his Bachelor of Science degree at the City College of New York.
-  In Spring 2022, he joined the Keedy lab as an undergraduate researcher, 
-  where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
-  Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
-  to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
-'
-
-- name: Selina Sun
-  image: /images/members/selina.png
-  position: Undergraduate Student
-  email: ss13739 (at) nyu.edu
-  scholar: 
-  twitter: 
-  orcid: 
-  description: '
-  Simeng "Selina" Sun is studying for a dual Data Science and Math major at NYU,
-  conducting a research internship here at the ASRC.
-  She is enjoying learning how to connect her computational and quantitative skillset 
-  with exciting applications in scientific research, specifically structural biology.
-  Her project centers on exploring how recent AI-based software tools for protein structure prediction and design
-  can be combined to reveal new insights into protein evolvability and designability.
 '
 
 - name: Virgil Woods
@@ -295,5 +234,66 @@ the study of allosteric networks of phosphatases with the use of computational t
 #  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
 #  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
 #  Last but not least, he is the designer of this website!
+#'
+#
+#- name: Akshay Raju
+#  image: /images/members/akshay.jpg
+#  position: Undergraduate Student
+#  email: araju000 (at) citymail.cuny.edu
+#  scholar: 
+#  twitter: 
+#  orcid: orcid.org/0000-0002-6192-3613
+#  description: '
+#  Akshay is an undergraduate Biotechnology major and Computer Science minor 
+#  at the Macaulay Honors College at the City College of New York. 
+#  He joined the Keedy Lab in the summer of 2022 with an interest in learning about 
+#  ways to use computational analyses to answer questions in cell and molecular biology. 
+#  Akshay hopes to use bioinformatics to look for hotspots of covarying amino acids 
+#  in the protein tyrosine phosphatase family to help find hidden allosteric networks.
+#'
+#
+#- name: Kevin Shionarain
+#  image: /images/members/kevin.jpg
+#  position: Undergraduate Student
+#  email: kshiona000 (at) citymail.cuny.edu
+#  scholar: 
+#  twitter: 
+#  orcid: 
+#  description: '
+#  Kevin is an undergraduate student at City College of New York majoring in Biochemistry. 
+#  He joined the Keedy lab in Spring 2023 hoping to learn more about how protein structural dynamics are vital to protein function. 
+#  He also hopes to immerse himself in research rooted in biochemistry and learn more about laboratory techniques used to study proteins. 
+#  Kevin is currently working on designing chimeric proteins to better understand the specific structural building blocks of protein tyrosine phosphatases.
+#'
+#
+#- name: Nathanael Singh
+#  image: /images/members/nathanael.jpg
+#  position: Undergraduate Student
+#  email: nsingh002 (at) citymail.cuny.edu
+#  scholar: 
+#  twitter: 
+#  orcid: orcid.org/0000-0001-5192-747X
+#  description: '
+#  Nathanael is working on his Bachelor of Science degree at the City College of New York.
+#  In Spring 2022, he joined the Keedy lab as an undergraduate researcher, 
+#  where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
+#  Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
+#  to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
+#'
+#
+#- name: Selina Sun
+#  image: /images/members/selina.png
+#  position: Undergraduate Student
+#  email: ss13739 (at) nyu.edu
+#  scholar: 
+#  twitter: 
+#  orcid: 
+#  description: '
+#  Simeng "Selina" Sun is studying for a dual Data Science and Math major at NYU,
+#  conducting a research internship here at the ASRC.
+#  She is enjoying learning how to connect her computational and quantitative skillset 
+#  with exciting applications in scientific research, specifically structural biology.
+#  Her project centers on exploring how recent AI-based software tools for protein structure prediction and design
+#  can be combined to reveal new insights into protein evolvability and designability.
 #'
 
