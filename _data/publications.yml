@@ -136,6 +136,8 @@
       url: https://www.hginn.co.uk/lab_website/index.php?page=home
     - name: cluster4x - Vagabond
       url: https://vagabond.hginn.co.uk/index.php?page=cluster4x
+    - name: CUNY ASRC news post
+      url: https://asrc.gc.cuny.edu/headlines/2024/09/from-fragments-to-function-new-protein-analysis-technique-enhances-discovery-of-small-molecule-binding/
 
 - citation: '**Woods VA**, Abzalimov RR, **Keedy DA**. Native dynamics and allosteric responses in PTP1B probed by high-resolution HDX-MS. *Protein Science*. 2024.'
   date: 202307
