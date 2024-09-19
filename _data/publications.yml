@@ -20,6 +20,8 @@
       url: https://www.stilts.org.uk/
     - name: Beamline 12-1 at SSRL
       url: https://www-ssrl.slac.stanford.edu/content/beam-lines/bl12-1
+    - name: Remote room-temperature crystallography at SSRL
+      url: https://smb.slac.stanford.edu/users_guide/RT_collection.html
 
 - citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *bioRxiv* preprint. 2024.'
   date: 202407
