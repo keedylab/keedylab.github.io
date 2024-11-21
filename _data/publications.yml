@@ -1,5 +1,28 @@
 # Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
-# Keep date the same, matching original preprint date; update paper PDF file as appropriate.
+# Keep date the same, matching original preprint date -- but update paper PDF file as appropriate.
+
+- citation: '**Guerrero L**, **Ebrahim A**, **Riley BT**, Kim SH, Bishop AC, Wu J, Han YN, Tautz L, **Keedy DA**. Three STEPs forward: A trio of unexpected structures of PTPN5. *bioRxiv* preprint. 2024.'
+  date: 202411
+  image: '/images/pub/guerrero_2024.png'
+  pmid: 
+  pmcid: 
+  biorxiv: "2024.11.20.624168"
+  pdf: '/pdf/guerrero_2024.pdf'
+  pdbs:
+    - 9EEX
+    - 9EEY
+    - 9EEZ
+  links:
+    - name: Bishop group at Amherst
+      url: https://www.amherst.edu/people/facstaff/acbishop/bishop-lab
+    - name: Tautz group at Sanford Burnham
+      url: https://sbpdiscovery.org/scientists/lutz-tautz-phd/
+    - name: NYX beamline at NSLS-II
+      url: https://www.bnl.gov/nsls2/beamlines/beamline.php?r=19-ID
+    - name: AMX beamline at NSLS-II
+      url: https://www.bnl.gov/nsls2/beamlines/schedule.php?q=17-ID-1
+    - name: FlexX beamline at MacCHESS
+      url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
 
 - citation: 'Perdikari A\*, **Woods VA**\*, **Ebrahim A**\*, Lawler K, Bounds R, **Singh NI**, **Mehlman (Skaist) T**, **Riley BT**, **Sharma S**, **Morris JW**, Keogh JM, Henning E, Smith M, Farooqi IS\*\*, **DA Keedy**\*\* (** co-corresponding authors). Structures of human PTP1B variants reveal allosteric sites to target for weight loss therapy. *bioRxiv* preprint. 2024.'
   date: 202408
