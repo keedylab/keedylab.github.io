@@ -23,6 +23,8 @@
       url: https://www.bnl.gov/nsls2/beamlines/schedule.php?q=17-ID-1
     - name: FlexX beamline at MacCHESS
       url: https://www.chess.cornell.edu/macchess/mx/flexx_beamline
+    - name: Sneak Peek during peer review at Structure
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030820
 
 - citation: 'Perdikari A\*, **Woods VA**\*, **Ebrahim A**\*, Lawler K, Bounds R, **Singh NI**, **Mehlman (Skaist) T**, **Riley BT**, **Sharma S**, **Morris JW**, Keogh JM, Henning E, Smith M, Farooqi IS\*\*, **DA Keedy**\*\* (** co-corresponding authors). Structures of human PTP1B variants reveal allosteric sites to target for weight loss therapy. *bioRxiv* preprint. 2024.'
   date: 202408
