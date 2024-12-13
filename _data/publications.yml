@@ -163,6 +163,8 @@
       url: https://www.hginn.co.uk/lab_website/index.php?page=home
     - name: cluster4x - Vagabond
       url: https://vagabond.hginn.co.uk/index.php?page=cluster4x
+    - name: Datasets on Zenodo
+      url: https://doi.org/10.5281/zenodo.10455980
     - name: CUNY ASRC news post
       url: https://asrc.gc.cuny.edu/headlines/2024/09/from-fragments-to-function-new-protein-analysis-technique-enhances-discovery-of-small-molecule-binding/
 
