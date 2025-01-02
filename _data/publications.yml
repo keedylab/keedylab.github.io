@@ -1,7 +1,7 @@
 # Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
 # Keep date the same, matching original preprint date -- but update paper PDF file as appropriate.
 
-- citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *Protein Science*. 2024.'
+- citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *Protein Science*. 2025.'
   date: 202407
   image: '/images/pub/chartier_2024.png'
   pmid: 39723820
