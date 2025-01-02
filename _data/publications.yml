@@ -1,6 +1,17 @@
 # Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
 # Keep date the same, matching original preprint date -- but update paper PDF file as appropriate.
 
+- citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *Protein Science*. 2024.'
+  date: 202407
+  image: '/images/pub/chartier_2024.png'
+  pmid: 39723820
+  pmcid: PMC11670308
+  biorxiv: "2024.07.16.603632"
+  pdf: '/pdf/chartier_2024.pdf'
+  links:
+    - name: Shah lab at Columbia
+      url: https://shahlab.wixsite.com/home
+
 - citation: '**Guerrero L**, **Ebrahim A**, **Riley BT**, Kim SH, Bishop AC, Wu J, Han YN, Tautz L, **Keedy DA**. Three STEPs forward: A trio of unexpected structures of PTPN5. *bioRxiv* preprint. 2024.'
   date: 202411
   image: '/images/pub/guerrero_2024.png'
@@ -47,17 +58,6 @@
       url: https://www-ssrl.slac.stanford.edu/content/beam-lines/bl12-1
     - name: Remote room-temperature crystallography at SSRL
       url: https://smb.slac.stanford.edu/users_guide/RT_collection.html
-
-- citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *bioRxiv* preprint. 2024.'
-  date: 202407
-  image: '/images/pub/chartier_2024.png'
-  pmid: 
-  pmcid: 
-  biorxiv: "2024.07.16.603632"
-  pdf: '/pdf/chartier_2024.pdf'
-  links:
-    - name: Shah lab at Columbia
-      url: https://shahlab.wixsite.com/home
 
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Automated multiconformer model building for X-ray crystallography and cryo-EM. *eLife*. 2024.'
   date: 202306
