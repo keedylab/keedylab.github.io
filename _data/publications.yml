@@ -1,6 +1,17 @@
 # Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
 # Keep date the same, matching original preprint date -- but update paper PDF file as appropriate.
 
+- citation: 'Wu J, Baranowski MR, Aleshin AE, Isiorho EA, Lambert LJ, De Backer LJS, Han YN, Das R, Sheffler DJ, Bobkov AA, **Lemberikman AM**, **Keedy DA**, Cosford NDP, Tautz L. Fragment Screening Identifies Novel Allosteric Binders and Binding Sites in the VHR (DUSP3) Phosphatase. *ACS Omega*. 2025.'
+  date: 202501
+  image: '/images/pub/wu_2025.png'
+  pmid: 
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/wu_2025.pdf'
+  links:
+    - name: Tautz group at Sanford Burnham
+      url: https://sbpdiscovery.org/scientists/lutz-tautz-phd/
+
 - citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *Protein Science*. 2025.'
   date: 202407
   image: '/images/pub/chartier_2024.png'
