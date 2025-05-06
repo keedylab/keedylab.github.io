@@ -8,6 +8,13 @@
   pmcid: PMC11822521
   biorxiv: 
   pdf: '/pdf/wu_2025.pdf'
+  pdbs:
+    - 8TK2
+    - 8TK3
+    - 8TK4
+    - 8TK5
+    - 8TK6
+    - 9DJ9
   links:
     - name: Tautz group at Sanford Burnham
       url: https://sbpdiscovery.org/scientists/lutz-tautz-phd/
