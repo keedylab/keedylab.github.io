@@ -15,6 +15,8 @@
       url: https://doi.org/10.5281/zenodo.15420194
     - name: qFit code on GitHub
       url: https://github.com/ExcitedStates/qfit-3.0
+    - name: Bluesky thread
+      url: https://bsky.app/profile/dkeedy.bsky.social/post/3lq6g2mkkrs25
 
 - citation: 'Wu J, Baranowski MR, Aleshin AE, Isiorho EA, Lambert LJ, De Backer LJS, Han YN, Das R, Sheffler DJ, Bobkov AA, **Lemberikman AM**, **Keedy DA**, Cosford NDP, Tautz L. Fragment Screening Identifies Novel Allosteric Binders and Binding Sites in the VHR (DUSP3) Phosphatase. *ACS Omega*. 2025.'
   date: 202501
