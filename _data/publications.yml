@@ -1,10 +1,10 @@
 # Bump papers to the top of the list when they graduate from preprint to accepted at a journal.
 # Keep date the same, matching original preprint date -- but update paper PDF file as appropriate.
 
-- citation: '**Guerrero L**, **Ebrahim A**, **Riley BT**, Kim SH, Bishop AC, Wu J, Han YN, Tautz L, **Keedy DA**. Three STEPs forward: A trio of unexpected structures of PTPN5. *Proteins: Structure, Function, and Bioinformatics*. 2025.'
+- citation: '**Guerrero L**, **Ebrahim A**, **Riley BT**, Kim SH, Bishop AC, Wu J, Han YN, Tautz L, **Keedy DA**. Three STEPs Forward: A Trio of Unexpected Structures of PTPN5. *Proteins: Structure, Function, and Bioinformatics*. 2025.'
   date: 202411
   image: '/images/pub/guerrero_2024.png'
-  pmid: 
+  pmid: 40616465
   pmcid: 
   biorxiv: "2024.11.20.624168"
   pdf: '/pdf/guerrero_2024.pdf'
