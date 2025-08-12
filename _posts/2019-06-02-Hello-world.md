@@ -15,4 +15,4 @@ Finally, if you are interested in a postdoc position in the lab, please apply by
 
 ... and email Dr. Keedy to discuss!
 
-<span class="image fit"><img src="/images/dk_lab_stairs_dec2018.jpg" alt="the Keedy Lab in December 2018" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/dk_lab_stairs_dec2018.jpg" alt="the Keedy Lab in December 2018" class="img-responsive"></span>

@@ -11,9 +11,9 @@ Virgil Woods won a Protein Science Young Investigator Travel Award for [The Prot
 
 Shivani and Liliana both passed their second level (aka qualifying) exams! Congrats, PhD candidates Shivani & Liliana!
 
-<span class="image fit"><img src="/images/SS_pass_2nd_lvl.jpg" alt="Shivani celebrating after passing her second level exam!" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/SS_pass_2nd_lvl.jpg" alt="Shivani celebrating after passing her second level exam!" class="img-responsive"></span>
 
-<span class="image fit"><img src="/images/LM_pass_2nd_lvl.jpg" alt="Liliana celebrating after passing her second level exam!" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/LM_pass_2nd_lvl.jpg" alt="Liliana celebrating after passing her second level exam!" class="img-responsive"></span>
 
 Liliana & Ali also published [this paper as a preprint](https://www.biorxiv.org/content/10.1101/2023.05.02.538097v1) (now in peer review). And she was accepted into the CCNY G-RISE Program, for which she was featured in [this video](https://www.youtube.com/watch?v=D6qGgDp7POw).
 
@@ -25,16 +25,16 @@ Nathanael won the Fred Gornick Family Fund Award and the George A. & James E. Pe
 
 Kevin Shionarain recently joined the lab as an honors undergraduate researcher (welcome!). He won the Dr. Leon Greenstein Fund Award from the CCNY Department of Chemistry & Biochemistry.
 
-<span class="image fit"><img src="/images/KS_DCB_award.png" alt="Kevin receiving his undergraduate resarch award from the CCNY Department of Chemistry & Biochemistry" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/KS_DCB_award.png" alt="Kevin receiving his undergraduate resarch award from the CCNY Department of Chemistry & Biochemistry" class="img-responsive"></span>
 
 Simeng (aka Selina) Sun also joined the lab for a data science crossover research project -- we're glad to have you, Selina!
 
 Penultimately, Tamar's paper was [accepted to eLife](https://elifesciences.org/articles/84632). And finally (and most importantly), she defended her thesis and received her PhD degree! Huge congrats, **Dr.** Mehlman!
 
-<span class="image fit"><img src="/images/TS_defense.jpg" alt="Tamar defending her thesis at the ASRC" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/TS_defense.jpg" alt="Tamar defending her thesis at the ASRC" class="img-responsive"></span>
 
-<span class="image fit"><img src="/images/TS_commencement_1.jpg" alt="Tamar being hooded by her grandfather (!) at GC Commencement" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/TS_commencement_1.jpg" alt="Tamar being hooded by her grandfather (!) at GC Commencement" class="img-responsive"></span>
 
-<span class="image fit"><img src="/images/TS_commencement_2.png" alt="Tamar and Daniel after GC Commencement" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/TS_commencement_2.png" alt="Tamar and Daniel after GC Commencement" class="img-responsive"></span>
 
 Here's to a fun & science-packed rest of 2023!...

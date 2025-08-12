@@ -15,7 +15,7 @@ In addition, this summer we look forward to welcoming a new undergraduate resear
 
 Beyond the personnel updates, we've had good news on the publications front.  Blake's qFit 3 paper was accepted to Protein Science.  And we submitted Ali and Blake's joint SARS-CoV-2 Mpro multitemperature paper!  Huge thanks to the beamline scientists at NSLS-II FMX for their help with remote experiments during the pandemic.  Ali and Blake even managed to secure consecutive PDB codes for a dozen structures -- good reason to celebrate!
 
-<span class="image fit"><img src="/images/Ali-Blake_12_consec_PDBIDS_Mpro.png" title="Achievement unlocked: 12 consecutive PDB IDs!" class="img-responsive"></span>
+<span class="image fit"><img src="/images/posts/Ali-Blake_12_consec_PDBIDS_Mpro.png" title="Achievement unlocked: 12 consecutive PDB IDs!" class="img-responsive"></span>
 
 In terms of awards, Tamar has been on a tear: she won both a [CUNY Graduate Center Dissertation Year Fellowship](https://www.gc.cuny.edu/News/All-News/Detail?id=59532) and a [D.E. Shaw Research Graduate & Postdoc Women’s Fellowship](https://www.deshawresearch.com/womensfellowship/).  I struggle to think of a more deserving recipient for these competitive awards.  They will nicely complement the upcoming papers in her near-term future...  Congrats, Tamar!
 
