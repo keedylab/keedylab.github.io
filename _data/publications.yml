@@ -3,20 +3,20 @@
 
 - citation: '**Woods VA**\*, **Sharma S**\*, **Lemberikman AM**, **Keedy DA**. Orchestrating function: concerted dynamics, allostery, and catalysis in protein tyrosine phosphatases. *Current Opinion in Structural Biology*. 2025.'
   date: 202508
-  image: '/images/pub/woods-sharma_2025.png'
+  image: '/images/pub/2025_woods-sharma.png'
   pmid: 40752367
   pmcid: PMC12321194
   biorxiv: 
-  pdf: '/pdf/woods-sharma_2025.pdf'
+  pdf: '/pdf/2025_woods-sharma.pdf'
   links:
 
 - citation: '**Guerrero L**, **Ebrahim A**, **Riley BT**, Kim SH, Bishop AC, Wu J, Han YN, Tautz L, **Keedy DA**. Three STEPs Forward: A Trio of Unexpected Structures of PTPN5. *Proteins: Structure, Function, and Bioinformatics*. 2025.'
   date: 202411
-  image: '/images/pub/guerrero_2024.png'
+  image: '/images/pub/2024_guerrero.png'
   pmid: 40616465
   pmcid: PMC12270549
   biorxiv: "2024.11.20.624168"
-  pdf: '/pdf/guerrero_2024.pdf'
+  pdf: '/pdf/2024_guerrero.pdf'
   pdbs:
     - 9EEX
     - 9EEY
@@ -37,11 +37,11 @@
 
 - citation: '**Raju A**, **Sharma S**, **Riley BT**, **Djuraev S**, **Tan Y**, **Kim M**, **Mahmud T**, **Keedy DA**. Mapping allosteric rewiring in related protein structures from collections of crystallographic multiconformer models. *bioRxiv* preprint. 2025.'
   date: 202505
-  image: '/images/pub/raju_2025.png'
+  image: '/images/pub/2025_raju.png'
   pmid: 
   pmcid: 
   biorxiv: "2025.05.23.655529"
-  pdf: '/pdf/raju_2025.pdf'
+  pdf: '/pdf/2025_raju.pdf'
   links:
     - name: RINFAIRE code on GitHub
       url: https://github.com/keedylab/rinfaire
@@ -54,11 +54,11 @@
 
 - citation: 'Wu J, Baranowski MR, Aleshin AE, Isiorho EA, Lambert LJ, De Backer LJS, Han YN, Das R, Sheffler DJ, Bobkov AA, **Lemberikman AM**, **Keedy DA**, Cosford NDP, Tautz L. Fragment Screening Identifies Novel Allosteric Binders and Binding Sites in the VHR (DUSP3) Phosphatase. *ACS Omega*. 2025.'
   date: 202501
-  image: '/images/pub/wu_2025.png'
+  image: '/images/pub/2025_wu.png'
   pmid: 39959108
   pmcid: PMC11822521
   biorxiv: 
-  pdf: '/pdf/wu_2025.pdf'
+  pdf: '/pdf/2025_wu.pdf'
   pdbs:
     - 8TK2
     - 8TK3
@@ -72,22 +72,22 @@
 
 - citation: 'Chartier CA, **Woods VA**, Xu Y, van Vlimmeren AE, Jovanovic M, McDermott AE, **Keedy DA**, Shah NH. Allosteric regulation of the tyrosine phosphatase PTP1B by a protein-protein interaction. *Protein Science*. 2025.'
   date: 202407
-  image: '/images/pub/chartier_2024.png'
+  image: '/images/pub/2024_chartier.png'
   pmid: 39723820
   pmcid: PMC11670308
   biorxiv: "2024.07.16.603632"
-  pdf: '/pdf/chartier_2024.pdf'
+  pdf: '/pdf/2024_chartier.pdf'
   links:
     - name: Shah lab at Columbia
       url: https://shahlab.wixsite.com/home
 
 - citation: 'Perdikari A\*, **Woods VA**\*, **Ebrahim A**\*, Lawler K, Bounds R, **Singh NI**, **Mehlman (Skaist) T**, **Riley BT**, **Sharma S**, **Morris JW**, Keogh JM, Henning E, Smith M, Farooqi IS\*\*, **DA Keedy**\*\* (** co-corresponding authors). Structures of human PTP1B variants reveal allosteric sites to target for weight loss therapy. *bioRxiv* preprint. 2024.'
   date: 202408
-  image: '/images/pub/perdikari-woods-ebrahim_2024.png'
+  image: '/images/pub/2024_perdikari-woods-ebrahim.png'
   pmid: 
   pmcid: 
   biorxiv: "2024.08.05.603709"
-  pdf: '/pdf/perdikari-woods-ebrahim_2024.pdf'
+  pdf: '/pdf/2024_perdikari-woods-ebrahim.pdf'
   pdbs:
     - 9CYO
     - 9CYP
@@ -105,11 +105,11 @@
 
 - citation: 'Wankowicz SA, Ravikumar A, **Sharma S**, **Riley BT**, **Raju A**, Hogan D, van den Bedem H, **Keedy DA**, Fraser JS. Automated multiconformer model building for X-ray crystallography and cryo-EM. *eLife*. 2024.'
   date: 202306
-  image: '/images/pub/wankowicz_2023.png'
+  image: '/images/pub/2024_wankowicz.png'
   pmid: 38904665
   pmcid: PMC11192534
   biorxiv: "2023.06.28.546963"
-  pdf: '/pdf/wankowicz_2024_elife.pdf'
+  pdf: '/pdf/2024_wankowicz.pdf'
   links:
     - name: qFit code on GitHub
       url: https://github.com/ExcitedStates/qfit-3.0
@@ -120,11 +120,11 @@
 
 - citation: '**Mehlman (Skaist) T**, Ginn HM, **Keedy DA**. An expanded trove of fragment-bound structures for the allosteric enzyme PTP1B from computational reanalysis of large-scale crystallographic data. *Structure*. 2024.'
   date: 202401
-  image: '/images/pub/mehlman_2024.png'
+  image: '/images/pub/2024_mehlman.png'
   pmid: 38861991
   pmcid: PMC11316629
   biorxiv: "2024.01.05.574428"
-  pdf: '/pdf/mehlman_2024.pdf'
+  pdf: '/pdf/2024_mehlman.pdf'
   pdbs:
     - 7GS7
     - 7GS8
@@ -214,11 +214,11 @@
 
 - citation: '**Woods VA**, Abzalimov RR, **Keedy DA**. Native dynamics and allosteric responses in PTP1B probed by high-resolution HDX-MS. *Protein Science*. 2024.'
   date: 202307
-  image: '/images/pub/woods_2023.png'
+  image: '/images/pub/2023_woods.png'
   pmid: 38801229
   pmcid: PMC11129624
   biorxiv: "2023.07.12.548582"
-  pdf: '/pdf/woods_2023.pdf'
+  pdf: '/pdf/2023_woods.pdf'
   links:
     - name: ASRC SBI Mass Spectrometry Facility
       url: https://asrc.gc.cuny.edu/facilities/mass-spectrometry/
@@ -229,11 +229,11 @@
 
 - citation: 'Wallach I, ..., **Keedy DA**, ..., **Smith KS**, ..., **Singh N**, ..., **Hossain S**, ..., **Dzhumaev S**, ..., **Azeem SM**, ..., **Mehlman T**, ..., **Woods VA**..., Heifets A (688 total authors). AI is a viable alternative to high throughput screening: a 318-target study. *Scientific Reports*. 2024.'
   date: 202404
-  image: '/images/pub/wallach_2024.png'
+  image: '/images/pub/2024_wallach.png'
   pmid: 38565852
   pmcid: PMC10987645
   biorxiv: 
-  pdf: '/pdf/wallach_2024.pdf'
+  pdf: '/pdf/2024_wallach.pdf'
   links:
     - name: Atomwise, Inc.
       url: https://www.atomwise.com
@@ -242,11 +242,11 @@
 
 - citation: '**Guerrero L**\*, **Ebrahim A**\*, **Riley BT**, **Kim M**, Huang Q, Finke AD, **Keedy DA**. Pushed to extremes: distinct effects of high temperature versus pressure on the structure of STEP. *Communications Biology*. 2024.'
   date: 202305
-  image: '/images/pub/guerrero-ebrahim_2023.png'
+  image: '/images/pub/2024_guerrero-ebrahim.png'
   pmid: 38216663
   pmcid: PMC10786866
   biorxiv: "2023.05.02.538097"
-  pdf: '/pdf/guerrero-ebrahim_2024.pdf'
+  pdf: '/pdf/2024_guerrero-ebrahim.pdf'
   pdbs:
     - 8SLS
     - 8SLT
@@ -261,11 +261,11 @@
 
 - citation: '**Sharma S**, **Mehlman (Skaist) T**, Sagabala RS, Boivin B, **Keedy DA**. High-resolution double vision of the allosteric phosphatase PTP1B. *Acta Cryst F*. 2024.'
   date: 202309
-  image: '/images/pub/sharma_2023_hires.png'
+  image: '/images/pub/2023_sharma_hires.png'
   pmid: 38133579
   pmcid: PMC10833341
   biorxiv: "2023.09.12.557361"
-  pdf: '/pdf/sharma_2023_hires.pdf'
+  pdf: '/pdf/2023_sharma_hires.pdf'
   pdbs:
     - 8U1E
   links:
@@ -276,11 +276,11 @@
 
 - citation: 'Cavender CE, Case DA, Chen JCH, Chong LT, **Keedy DA**, Lindorff-Larsen K, Mobley DL, Ollila OHS, Oostenbrink C, Robustelli P, Voelz VA, Wall ME, Wych DC, Gilson MK. Structure-Based Experimental Datasets for Benchmarking of Protein Simulation Force Fields. *arXiv* preprint. 2023.'
   date: 202303
-  image: '/images/pub/cavender_2023.jpg'
+  image: '/images/pub/2023_cavender.jpg'
   pmid: 
   pmcid: 
   biorxiv: 
-  pdf: '/pdf/cavender_2023.pdf'
+  pdf: '/pdf/2023_cavender.pdf'
   links:
     - name: Preprint on arXiv
       url: https://arxiv.org/abs/2303.11056
@@ -291,11 +291,11 @@
 
 - citation: '**Mehlman (Skaist) T**, Biel JT, **Azeem SM**, Nelson ER, **Hossain S**, Dunnett LE, Paterson NG, Douangamath A, Talon R, Axford D, **Orins H**, von Delft F, **Keedy DA**. Room-temperature crystallography reveals altered binding of small-molecule fragments to PTP1B. *eLife*. 2023.'
   date: 202303
-  image: '/images/pub/mehlman_2023.png'
+  image: '/images/pub/2023_mehlman.png'
   pmid: 36881464
   pmcid: PMC9991056
   biorxiv: "2022.11.02.514751"
-  pdf: '/pdf/mehlman_2023.pdf'
+  pdf: '/pdf/2023_mehlman.pdf'
   pdbs:
     - 7FQM
     - 7FQN
@@ -348,8 +348,8 @@
 
 - citation: 'Richardson JS, Moriarty NW, **Keedy DA**. Fitting Tip #23 - Alternate conformations always want to spread. *Computational Crystallography Newsletter*. 2023.'
   date: 202301
-  image: '/images/pub/richardson_2023.png'
-  pdf: '/pdf/richardson_2023.pdf'
+  image: '/images/pub/2023_richardson.png'
+  pdf: '/pdf/2023_richardson.pdf'
   links:
     - name: PHENIX Computational Crystallography Newsletter
       url: https://phenix-online.org/newsletter
@@ -358,11 +358,11 @@
 
 - citation: '**Sharma S**, **Ebrahim A**, **Keedy DA**. Room-temperature serial synchrotron crystallography of the human phosphatase PTP1B. *Acta Cryst F*. 2023.'
   date: 202208
-  image: '/images/pub/sharma_2023_ssx.png'
+  image: '/images/pub/2023_sharma_ssx.png'
   pmid: 36598353
   pmcid: PMC9813971
   biorxiv: "2022.07.28.501725"
-  pdf: '/pdf/sharma_2023_ssx.pdf'
+  pdf: '/pdf/2023_sharma_ssx.pdf'
   pdbs:
     - 8DU7
   links:
@@ -377,11 +377,11 @@
 
 - citation: '**Ebrahim A**\*, **Riley BT**\*, Kumaran D, Andi B, Fuchs MR, McSweeney S, **Keedy DA**. The temperature-dependent conformational ensemble of SARS-CoV-2 main protease (Mpro). *IUCrJ*. 2022.'
   date: 202104
-  image: '/images/pub/ebrahim-riley_2021.png'
+  image: '/images/pub/2022_ebrahim-riley.png'
   pmid: 36071812
   pmcid: PMC9438506
   biorxiv: "2021.05.03.437411"
-  pdf: '/pdf/ebrahim-riley_2022.pdf'
+  pdf: '/pdf/2022_ebrahim-riley.pdf'
   pdbs:
     - 7MHF
     - 7MHG
@@ -411,11 +411,11 @@
 
 - citation: '**Riley BT**, Wankowicz SA, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, **Keedy DA**\*, van den Bedem H\* (* co-corresponding authors). qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps. *Protein Science*. 2021.'
   date: 202009
-  image: '/images/pub/riley_2021.png'
+  image: '/images/pub/2021_riley.png'
   pmid: 33210433
   pmcid: PMC7737783
   biorxiv: "2020.09.03.280222"
-  pdf: '/pdf/riley_2020_protsci.pdf'
+  pdf: '/pdf/2021_riley.pdf'
   links:
     - name: qFit 3 Code on Github
       url: https://github.com/ExcitedStates/qfit-3.0
@@ -428,22 +428,22 @@
 
 - citation: '**Keedy DA**. Journey to the center of the protein: allostery from multitemperature multiconformer X-ray crystallography. *Acta Cryst D*. 2019.'
   date: 201901
-  image: '/images/pub/keedy_2019.jpg'
+  image: '/images/pub/2019_keedy.jpg'
   pmid: 30821702
   pmcid: PMC6400254
   biorxiv: 
-  pdf: '/pdf/keedy_2019.pdf'
+  pdf: '/pdf/2019_keedy.pdf'
   links:
     - name: CCP4
       url: 'http://www.ccp4.ac.uk/index.php'
 
 - citation: 'van Zundert GCP\*, Hudson BM\*, Oliveira SHP, **Keedy DA**, Fonseca R, Heliou A, Suresh P, Borrelli K, Day T, Fraser JS, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Journal of Medicinal Chemistry*. 2018.'
   date: 201809
-  image: '/images/pub/vanzundert_2018.jpg'
+  image: '/images/pub/2018_vanzundert.jpg'
   pmid: 30457858
   pmcid: PMC6820680
   biorxiv: "253419"
-  pdf: '/pdf/qfit_ligand.pdf'
+  pdf: '/pdf/2018_vanzundert.pdf'
   pdbs:
     - 6DMG
     - 6DMH
@@ -467,11 +467,11 @@
 
 - citation: 'Babcock NS, **Keedy DA**, Fraser JS, Sivak DA. Model selection for biological crystallography. *bioRxiv* preprint. 2018.'
   date: 201807
-  image: '/images/pub/sivak_2018.jpg'
+  image: '/images/pub/2018_babcock.png'
   pmid: 
   pmcid: 
   biorxiv: "448795"
-  pdf: 'https://www.biorxiv.org/content/early/2018/10/20/448795.full.pdf'
+  pdf: '/pdf/2018_babcock.pdf'
   links:
     - name: David Sivak
       url: 'https://www.sfu.ca/physics/sivakgroup.html'
@@ -480,11 +480,11 @@
 
 - citation: '**Keedy DA**\*, Hill ZB\*, Biel JT, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, Fraser JS. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering. *eLife*. 2018.'
   date: 201804
-  image: '/images/pub/keedy_2018.jpg'
+  image: '/images/pub/2018_keedy.jpg'
   pmid: 29877794
   pmcid: PMC6039181
   biorxiv: "218966"
-  pdf: '/pdf/keedy_2018.pdf'
+  pdf: '/pdf/2018_keedy.pdf'
   pdbs:
     - 6B90
     - 6B8E
@@ -623,10 +623,10 @@
 
 - citation: 'Williams CJ, Headd JJ, Moriarty NW, Prisant MG, Videau LL, Deis LN, Verma V, **Keedy DA**, Hintze BJ, Chen VB, Jain S, Lewis SM, Arendall WB 3rd, Snoeyink J, Adams PD, Lovell SC, Richardson JS, Richardson DC. MolProbity: More and better reference data for improved all-atom structure validation. *Protein Science*. 2018.'
   date: 201801
-  image: '/images/pub/williams_2018.png'
+  image: '/images/pub/2018_williams.png'
   pmid: 29067766
   pmcid: PMC5734394
-  pdf: '/pdf/williams_2018.pdf'
+  pdf: '/pdf/2018_williams.pdf'
   links:
     - name: MolProbity model validation server
       url: http://molprobity.biochem.duke.edu
@@ -635,10 +635,10 @@
 
 - citation: 'Russi S, González A, Kenner LR, **Keedy DA**, Fraser JS, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
   date: 201701
-  image: '/images/pub/russi_2017.jpg'
+  image: '/images/pub/2017_russi.jpg'
   pmid: 28009548
   pmcid: PMC5182021
-  pdf: '/pdf/russi_2017.pdf'
+  pdf: '/pdf/2017_russi.pdf'
   links:
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
@@ -647,10 +647,10 @@
 
 - citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, Woldeyes RA, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, Fraser JS, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
-  image: '/images/pub/cimermancic_2016.jpg'
+  image: '/images/pub/2016_cimermancic.jpg'
   pmid: 26854760
   pmcid: PMC4794384
-  pdf: '/pdf/cimermancic_2016.pdf'
+  pdf: '/pdf/2016_cimermancic.pdf'
   links:
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
@@ -665,20 +665,20 @@
 
 - citation: '**Keedy DA**. Conformational and connotational heterogeneity: A surprising relationship between protein structural flexibility and puns. *Proteins: Structure, Function, and Bioinformatics*. 2015.'
   date: 201501
-  image: '/images/pub/keedy_2015_proteins.png'
+  image: '/images/pub/2015_keedy_puns.png'
   pmid: 25619796
   pmcid: 
   biorxiv: 
-  pdf: '/pdf/keedy_2015_puns.pdf'
+  pdf: '/pdf/2015_keedy_puns.pdf'
   links:
     
 - citation: '**Keedy DA**, Fraser JS, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *PLOS Computational Biology*. 2015.'
   date: 201507
-  image: '/images/pub/keedy_2015_pcb.jpg'
+  image: '/images/pub/2015_keedy_plos.jpg'
   pmid: 26506617
   pmcid: PMC4624436
   biorxiv: 018879
-  pdf: /pdf/keedy_plos_2015.pdf
+  pdf: /pdf/2015_keedy_plos.pdf
   links:
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
@@ -695,11 +695,11 @@
 
 - citation: '**Keedy DA**\*, Kenner LR\*, Warkentin M\*, Woldeyes RA\*, Hopkins JB, Thompson MC, Brewster AS, Van Benschoten AH, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, Fraser JS. Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015.'
   date: 201505
-  image: '/images/pub/keedy_2015_elife.png'
+  image: '/images/pub/2015_keedy_elife.png'
   pmid: 26422513
   pmcid: PMC4721965
   biorxiv: "016733"
-  pdf: '/pdf/keedy_elife_2015.pdf'
+  pdf: '/pdf/2015_keedy_elife.pdf'
   data:
     - '10.15785/SBGRID/68'
   pdbs:
@@ -729,10 +729,10 @@
 
 - citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, Fraser JS. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
   date: 201404
-  image: '/images/pub/keedy_2014.jpg'
+  image: '/images/pub/2014_keedy.jpg'
   pmid: 24882744
   pmcid: PMC4082491
-  pdf: '/pdf/keedy_structure_2014.pdf'
+  pdf: '/pdf/2014_keedy.pdf'
   pdbs:
     - 4PSS
     - 4PST
@@ -755,10 +755,10 @@
       url: 'http://f1000.com/prime/718430130'
 
 - citation: '**Keedy DA**. Using Protein-Likeness to Validate Conformational Alternatives. *PhD Thesis*. 2012.'
-  image: '/images/pub/keedy_2012_thesis.jpg'
+  image: '/images/pub/2012_keedy_thesis.jpg'
   pmid: 
   pmcid: 
-  pdf: '/pdf/keedy_2012_thesis.pdf'
+  pdf: '/pdf/2012_keedy_thesis.pdf'
   links:
     - name: Jane and Dave Richardson
       url: 'http://kinemage.biochem.duke.edu/'
