@@ -10,22 +10,44 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
 
 <div class="row">
     <div class="3u 12u$(small)">
-        <span class="image fit"><img src="{{person.image}}" alt=""></span>
-        <br>
+        <span class="image fit"><img src="{{person.image}}" alt=""></span><br>
         <strong><span class="memberName">{{person.name}}</span></strong><br>
         <span class="memberDetail">{{person.position}}</span><br>
         <em><span class="memberDetail">{{person.email}}</span></em><br>
+        
         {% if person.orcid %}
-          <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
-          <a id="links" href="http://orcid.org/{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
+          <a href="http://orcid.org"><img class="inline-block mem-icon" src="/images/logos/orcid_logo.svg"></a>
+          <a id="links" href="http://orcid.org/{{person.orcid}}"><span class="memberDetail"> {{person.orcid}} </span></a> <br>
         {% endif %}
+        
         {% if person.scholar %}
-          <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
+          <a href="https://scholar.google.com/"><img class="inline-block mem-icon" src="/images/logos/gscholar_logo.svg"></a>
           <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
         {% endif %}
+
+        {% if person.nih %}
+          <a href="https://pubmed.ncbi.nlm.nih.gov/"><img class="inline-block mem-icon" src="/images/logos/nih_logo.svg"></a>
+          <a id="links" href= "https://www.ncbi.nlm.nih.gov/myncbi/{{person.nih}}/bibliography/public/"><span class="memberDetail"> NIH Citations </span></a> <br>
+        {% endif %}
+
+        {% if person.linkedin %}
+          <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/images/logos/linkedin_logo.svg"></a>
+          <a id="links" href= "http://www.linkedin.com/in/{{person.linkedin}}"><span class="memberDetail"> LinkedIn </span></a> <br>
+        {% endif %}
+        
+        {% if person.bsky %}
+          <a href="https://bsky.app/"><img class="inline-block mem-icon" src="/images/logos/bsky_logo.svg"></a>
+          <a id="links" href= "https://bsky.app/profile/{{person.bsky}}.bsky.social"><span class="memberDetail"> {{person.bsky}} </span></a> <br>
+        {% endif %}
+
         {% if person.twitter %}
-          <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png"></a>
-          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
+          <a href="http://twitter.com/"><img class="inline-block mem-icon" src="/images/logos/twitter_logo.svg"></a>
+          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail"> {{person.twitter}} </span></a> <br>
+        {% endif %}
+
+        {% if person.github %}
+          <a href="http://github.com/"><img class="inline-block mem-icon" src="/images/logos/github_logo.svg"></a>
+          <a id="links" href= "http://github.com/{{person.github}}"> <span class="memberDetail"> {{person.github}} </span></a> <br>
         {% endif %}
     </div>
 
