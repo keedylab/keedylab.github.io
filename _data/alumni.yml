@@ -1,8 +1,13 @@
+####################
+# PAST LAB MEMBERS #
+####################
+
+
 - name: Selina Sun
-  startdate: 
-  enddate: 
+  startdate: 2022
+  enddate: 2024
   image: /images/members/selina.png
-  position: Undergraduate Student
+  position: Undergraduate Student (NYU)
   email: ss13739 (at) nyu.edu
   subsequent: Master's Student, University of British Columbia, Bioinformatics
   orcid: 
@@ -22,10 +27,10 @@
 
 
 - name: Nathanael Singh
-  startdate: 
-  enddate: 
+  startdate: 2022
+  enddate: 2024
   image: /images/members/nathanael.jpg
-  position: Undergraduate Student
+  position: Undergraduate Student (CCNY)
   email: nsingh002 (at) citymail.cuny.edu
   subsequent: PhD Student, Weill Cornell Graduate School - Physiology, Biophysics, and Systems Biology (PBSB)
   orcid: 0000-0001-5192-747X
@@ -44,10 +49,10 @@
 
 
 - name: Kevin Shionarain
-  startdate: 
-  enddate: 
+  startdate: 2023
+  enddate: 2024
   image: /images/members/kevin.jpg
-  position: Undergraduate Student
+  position: Undergraduate Student (CCNY)
   email: kshiona000 (at) citymail.cuny.edu
   subsequent: PhD Student, Stony Brook University, Biochemistry & Structural Biology
   orcid: 0009-0004-5062-7044
@@ -65,10 +70,10 @@
 
 
 - name: Akshay Raju
-  startdate: 
-  enddate: 
+  startdate: 2022
+  enddate: 2024
   image: /images/members/akshay.jpg
-  position: Undergraduate Student
+  position: Undergraduate Student (CCNY / Macaulay Honors College)
   email: araju000 (at) citymail.cuny.edu
   subsequent: Postbaccalaureate Researcher, Massachusetts Institute of Technology, computational systems biology
   orcid: 0000-0002-6192-3613
@@ -88,8 +93,8 @@
 
 
 - name: Sakib Hossain
-  startdate: 
-  enddate: 
+  startdate: 2018
+  enddate: 2022
   image: /images/members/sakib.jpg
   position: Research Assistant
   email: sakib.hossain28 (at) myhunter.cuny.edu
@@ -110,8 +115,8 @@
 
 
 - name: Blake Riley
-  startdate: 
-  enddate: 
+  startdate: 2019
+  enddate: 2022
   image: /images/members/blake.jpg
   position: Postdoctoral Research Associate
   email: briley1 (at) gc.cuny.edu
@@ -137,10 +142,10 @@
 
 
 - name: Yingxian Tan
-  startdate: 
-  enddate: 
+  startdate: 2020
+  enddate: 2021
   image: /images/members/yingxian.jpg
-  position: Undergraduate Student
+  position: Undergraduate Student (CCNY)
   email: ytan003 (at) citymail.cuny.edu
   subsequent: Postbaccalaureate Student, Hunter College, Cytotechnology Advanced Certificate
   orcid: 0009-0006-7722-8056
@@ -158,10 +163,10 @@
 
 
 - name: Sergei Dzhumaev
-  startdate: 
-  enddate: 
+  startdate: 2019
+  enddate: 2020
   image: /images/members/sergei.jpg
-  position: Undergraduate Student
+  position: Undergraduate Student (CCNY)
   email: sdzhuma000 (at) citymail.cuny.edu
   subsequent: 
   orcid: 
@@ -207,34 +212,345 @@
 '
 
 
-# Other alumni - format these later...
+- name: Elena "Helen" Orins
+  startdate: 2018
+  enddate: 2019
+  image: /images/members/helen.jpg
+  position: Undergraduate Student (Hunter College)
+  email: elena.orins (at) gmail.com
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
 
-# - name: Elena "Helen" Orins - undergraduate student, Hunter College, 2018-19
-# - name: Chrissy Schmidt - rotation student, CUNY Chemistry PhD Program, fall 2018
-# - name: Abhipsa Shatarupa - rotation student, CUNY Biochemistry PhD Program, spring 2019
-# - name: Sheenam Sheenam - rotation student, CUNY Biochemistry PhD Program, spring 2019
-# - name: Minyoung "Lily" Kim - undergraduate student (Princeton), CSURP Program, summer 2019 (- ubsequently @ UCSF DDS-PhD Program
-# - name: Kristiana "Spring" Smith - undergraduate student (Rhodes College), B3 REU Program, summer 2019 - subsequently @ NYU MPH Program
-# - name: Andres Cabezas - rotation student, CUNY Biochemistry PhD Program, spring 2020
-# - name: Syeda Maryam Azeem - Research Assistant, Keedy lab, 2018-2020 - subsequently @ [CUNY Biology PhD Program](https://www.gc.cuny.edu/biology)
-# - name: Sergei Dzhumaev - undergraduate student, City College of New York, 2019-20
-# - name: Ben Lesea-Pringle - rotation student, CUNY Biochemistry PhD Program, fall 2020
-# - name: Augustine Onyema - rotation student, CUNY Biochemistry PhD Program, fall 2020
-# - name: James Parziale - rotation student, CUNY Biochemistry PhD Program, spring 2021
-# - name: Yingxian Tan - undergraduate student, City College of New York, 2020-21 - subsequently @ Hunter College Cytotechnology Program
-# - name: Julia Michalak - undergraduate student (Cornell), B3 REU Program, summer 2021
-# - name: David Amoh-Boateng - rotation student, CUNY Biochemistry PhD Program, spring 2022
-# - name: Tania Rajpersaud - rotation student, CUNY Biochemistry PhD Program, spring 2022
-# - name: Blake Riley - postdoc, 2019-2022 - subsequently @ [Replay Holdings, San Diego](https://www.replay.bio)
-# - name: Jackson Morris - undergraduate student (Johns Hopkins), B3 REU Program, summer 2022
-# - name: Sakib Hossain - undergraduate student, Hunter College, 2018-22 - subsequently @ Amazon Web Services AI
-# - name: Allen Sun - rotation student, CUNY Biochemistry PhD Program, spring 2023
-# - name: Fariha Tasnim - rotation student, CUNY Biochemistry PhD Program, spring 2023
-# - name: Sneha Suresh Kumar - rotation student, CUNY Biochemistry PhD Program, spring 2024
-# - name: Akshay Raju - undergraduate student, City College of New York / Macaulay Honors College, 2022-2024 - subsequently @ MIT for postbac computational systems biology research
-# - name: Nathanael Singh - undergraduate student, City College of New York, 2022-2024 - subsequently @ Weill Cornell Physiology, Biophysics, and Systems Biology (PBSB) PhD Program
-# - name: Kevin Shionarain - undergraduate student, City College of New York, 2023-2024 - subsequently @ Stony Brook Biochemistry & Structural Biology PhD Program
-# - name: Simeng "Selina" Sun - undergraduate student, New York University, 2022-2024 - subsequently @ Univ British Columbia Master's in Bioinformatics Program
-# - name: Toufique Mahmud - undergraduate student (CCNY), CCNY STEM Community Summer Research Program (SCRP), summer 2024
-# - name: Nicole Fana Brito - rotation student, CUNY Biochemistry PhD Program, fall 2024
-# - name: Kyle Tau - rotation student, CUNY Chemistry PhD Program, fall 2024
+
+####################################
+# SUMMER UNDERGRADUATE RESEARCHERS #
+####################################
+
+
+- name: Toufique Mahmud
+  startdate: 2024
+  enddate: 2024
+  image: 
+  position: Summer Undergraduate Researcher, CCNY STEM Community Summer Research Program (SCRP) (from CCNY)
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Jackson Morris
+  startdate: 2022
+  enddate: 2022
+  image: 
+  position: Summer Undergraduate Researcher, CCNY-ASRC B3 REU Program (from Johns Hopkins)
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Julia Michalak
+  startdate: 2021
+  enddate: 2021
+  image: 
+  position: Summer Undergraduate Researcher, CCNY-ASRC B3 REU Program (from Cornell)
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Kristiana "Spring" Smith
+  startdate: 2019
+  enddate: 2019
+  image: 
+  position: Summer Undergraduate Researcher, CCNY-ASRC B3 REU Program (from Rhodes College)
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Minyoung "Lily" Kim
+  startdate: 2019
+  enddate: 2020
+  image: 
+  position: Summer Undergraduate Researcher, CUNY Summer Undergraduate Research Program (CSURP) (from Princeton)
+  email: 
+  subsequent: DDS-PhD Student, UCSF
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+#########################
+# PHD ROTATION STUDENTS #
+#########################
+
+
+- name: Kyle Tau
+  rotation: Fall 2024
+  startdate: 2024
+  enddate: 2024
+  image: 
+  position: Rotation Student, CUNY Chemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Nicole Fana Brito
+  rotation: Fall 2024
+  startdate: 2024
+  enddate: 2024
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Sneha Suresh Kumar
+  rotation: Spring 2024
+  startdate: 2024
+  enddate: 2024
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Fariha Tasnim
+  rotation: Spring 2023
+  startdate: 2023
+  enddate: 2023
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Allen Sun
+  rotation: Spring 2023
+  startdate: 2023
+  enddate: 2023
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Tania Rajpersaud
+  rotation: Spring 2022
+  startdate: 2022
+  enddate: 2022
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: David Amoh-Boateng
+  rotation: Spring 2022
+  startdate: 2022
+  enddate: 2022
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: James Parziale
+  rotation: Spring 2021
+  startdate: 2021
+  enddate: 2021
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Augustine Onyema
+  rotation: Fall 2020
+  startdate: 2020
+  enddate: 2020
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Ben Lesea-Pringle
+  rotation: Fall 2020
+  startdate: 2020
+  enddate: 2020
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Andres Cabezas
+  rotation: Spring 2020
+  startdate: 2020
+  enddate: 2020
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Sheenam Sheenam
+  rotation: Spring 2019
+  startdate: 2019
+  enddate: 2019
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Abhipsa Shatarupa
+  rotation: Spring 2019
+  startdate: 2019
+  enddate: 2019
+  image: 
+  position: Rotation Student, CUNY Biochemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
+
+
+- name: Chrissy Schmidt
+  rotation: Fall 2018
+  startdate: 2018
+  enddate: 2018
+  image: 
+  position: Rotation Student, CUNY Chemistry PhD Program
+  email: 
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: 
