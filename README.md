@@ -12,15 +12,15 @@ Technologies this website uses:
 
 * Clone a copy of this repo.
 
-* cd into the repo.
+* `cd` into the repo.
 
 * Install Jekyll:
 
-    gem install bundler jekyll
+    `gem install bundler jekyll`
 
 * Start an instance of the website (change or increment the port number if needed):
 
-    jekyll serve --port 4000 --watch --baseurl=""
+    `jekyll serve --port 4000 --watch --baseurl=""`
 
 * Go to this address in a browser (change or increment the port number if needed):
 
