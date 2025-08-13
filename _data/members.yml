@@ -1,4 +1,6 @@
 - name: Daniel Keedy
+  startdate: 2018-01-08
+  enddate: 
   image: /images/members/dk.jpg
   position: Principal Investigator
   email: dkeedy (at) gc.cuny.edu
@@ -38,7 +40,10 @@
   and [CCNY CCAPP](https://www.ccny.cuny.edu/ccapp) STEM Teacher of the Year Award.
 '
 
+
 - name: Shakhriyor Djuraev
+  startdate: 
+  enddate: 
   image: /images/members/shah.jpg
   position: Undergraduate Student
   email: sdjurae000 (at) citymail.cuny.edu
@@ -57,7 +62,10 @@
   and as a counter person at a bustling Italian American pizzeria in Brooklyn, where he pursues his love for crafting Neapolitan-style pizza.
 '
 
+
 - name: Ali Ebrahim
+  startdate: 
+  enddate: 
   image: /images/members/ali.jpg
   position: Postdoctoral Researcher
   email: aebrahim (at) gc.cuny.edu
@@ -78,7 +86,10 @@
   in order to further unlock understanding within the field of phosphatase ligand binding, activity, and allostery. 
 '
 
+
 - name: Liliana Guerrero
+  startdate: 
+  enddate: 
   image: /images/members/liliana.png
   position: PhD Student
   email: lmargent (at) gc.cuny.edu
@@ -93,7 +104,10 @@
   the study of allosteric networks of phosphatases with the use of computational tools.
 '
 
+
 - name: Alexis Lemberikman
+  startdate: 
+  enddate: 
   image: /images/members/lexi.png
   position: Research Assistant
   email: alexis.lemberikman (at) baruchmail.cuny.edu
@@ -110,7 +124,10 @@
   In deepening her knowledge of structural biology, Lexi aspires to ultimately merge her love for the sciences with her passion for medicine.
 '
 
+
 - name: Tamar (Skaist) Mehlman
+  startdate: 
+  enddate: 
   image: /images/members/tamar.jpg
   position: Postdoctoral Researcher
   email: tskaist (at) gc.cuny.edu
@@ -128,7 +145,10 @@
   with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
 '
 
+
 - name: Shivani Sharma
+  startdate: 
+  enddate: 
   image: /images/members/shivani.png
   position: PhD Student
   email: ssharma (at) gc.cuny.edu
@@ -147,7 +167,10 @@
   as she seeks to answer outstanding questions about the structural biology of tyrosine phosphatases.
 '
 
+
 - name: Virgil Woods
+  startdate: 
+  enddate: 
   image: /images/members/virgil.png
   position: PhD Student
   email: vwoods (at) gc.cuny.edu
@@ -167,7 +190,10 @@
   to map (and exploit) interactions between ligands at different sites in the structures of phosphatase enzymes.
 '
 
+
 - name: Julia Zhang
+  startdate: 
+  enddate: 
   image: /images/members/julia.jpg
   position: Postbaccalaureate Student
   email: juliazhang57 (at) gmail.com
@@ -183,141 +209,4 @@
   where she hopes to work collaboratively to develop her wet lab skills in addition to learning about computational methods. 
   She aims to expand her knowledge about the structural biology of protein tyrosine phosphatases and their biological roles in illnesses.
 '
-
-# - name: Syeda Maryam Azeem
-#   image: /images/members/maryam.jpg
-#   position: Research Assistant
-#   email: sazeem (at) gc.cuny.edu
-#   scholar: 
-#   orcid: 
-#   description: '
-#   After completing her undergraduate studies in India, 
-#   Maryam Azeem pursued her master’s degree in the US starting in 2015.  
-#   She joined [Dr. Kathleen Frey’s lab](https://sites.google.com/view/kfreyliupharm/home) 
-#   in 2016 in the Department of Pharmacology and Toxicology at Long Island University in Brooklyn.  
-#   While working under Dr. Frey’s supervision, 
-#   Maryam developed her research interests in structural biology and X-ray crystallography.  
-#   She used computational and structure-based methods for creating docking models, 
-#   predicting mutations in the HIV Reverse Transcriptase enzyme, and analyzing protein-ligand interactions.
-#   In 2018, Maryam joined the Keedy Lab,
-#   where she is spearheading efforts to characterize the "invisible" conformations of tyrosine phosphatase enzymes
-#   and reveal how they contribute to allosteric regulation.
-# '
-
-# - name: Sergei Dzhumaev
-#   image: /images/members/sergei.jpg
-#   position: Undergraduate Student
-#   email: sdzhuma000 (at) citymail.cuny.edu
-#   scholar: 
-#   orcid: 
-#   description: '
-#   Sergei is finishing his B.S. degree in biotechnology at City College of New York, just next-door to the ASRC.
-#   In fall 2019 he joined the Keedy Lab,
-#   where he is using several tools including liquid handling robots
-#   to biophysically characterize putative allosteric inhibitors for PTP1B.
-#   Sergei loves interacting with the scientific community here at the ASRC!
-# '
-
-# - name: Yingxian Tan
-#   image: /images/members/yingxian.jpg
-#   position: Undergraduate Student
-#   email: ytan003 (at) citymail.cuny.edu
-#   scholar: 
-#   orcid: 
-#   description: '
-#   Yingxian is a senior at [The City College of New York](https://www.ccny.cuny.edu/), majoring in biotechnology.
-#   In Fall 2020, she joined the Keedy lab for an independent research project.
-#   Yingxian will use 3D graphics and molecular modeling to investigate hidden signatures of allostery
-#   across a breadth of crystal structures of various PTP enzymes.
-# '
-
-#- name: Blake Riley
-#  image: /images/members/blake.jpg
-#  position: Postdoctoral Research Associate
-#  email: briley1 (at) gc.cuny.edu
-#  scholar: PZO-W6YAAAAJ
-#  orcid: 0000-0003-2176-0503
-#  description: '
-#  Blake joined the Keedy lab as a postdoc in November 2019. He earned his PhD from [Monash University](https://www.monash.edu/), Australia,
-#  where he worked with [A/Prof. Ashley Buckle](https://www.facebook.com/BuckleLab/)
-#  on the protein engineering & design of a small, potent, peptidic protease inhibitor from sunflower seeds.
-#
-#
-#  As part of his doctoral research, he began to explore allosteric inhibition of proteases; he is now exploring allosteric inhibition of phosphatases.
-#
-#
-#  Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
-#  He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
-#'
-
-#- name: Sakib Hossain
-#  image: /images/members/sakib.jpg
-#  position: Research Assistant
-#  email: sakib.hossain28 (at) myhunter.cuny.edu
-#  scholar: 
-#  orcid: 0000-0002-2602-9245
-#  description: '
-#  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
-#  He joined the Keedy Lab in 2018.
-#  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
-#  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
-#  Last but not least, he is the designer of this website!
-#'
-#
-#- name: Akshay Raju
-#  image: /images/members/akshay.jpg
-#  position: Undergraduate Student
-#  email: araju000 (at) citymail.cuny.edu
-#  scholar: 
-#  orcid: 0000-0002-6192-3613
-#  description: '
-#  Akshay is an undergraduate Biotechnology major and Computer Science minor 
-#  at the Macaulay Honors College at the City College of New York. 
-#  He joined the Keedy Lab in the summer of 2022 with an interest in learning about 
-#  ways to use computational analyses to answer questions in cell and molecular biology. 
-#  Akshay hopes to use bioinformatics to look for hotspots of covarying amino acids 
-#  in the protein tyrosine phosphatase family to help find hidden allosteric networks.
-#'
-#
-#- name: Kevin Shionarain
-#  image: /images/members/kevin.jpg
-#  position: Undergraduate Student
-#  email: kshiona000 (at) citymail.cuny.edu
-#  scholar: 
-#  orcid: 
-#  description: '
-#  Kevin is an undergraduate student at City College of New York majoring in Biochemistry. 
-#  He joined the Keedy lab in Spring 2023 hoping to learn more about how protein structural dynamics are vital to protein function. 
-#  He also hopes to immerse himself in research rooted in biochemistry and learn more about laboratory techniques used to study proteins. 
-#  Kevin is currently working on designing chimeric proteins to better understand the specific structural building blocks of protein tyrosine phosphatases.
-#'
-#
-#- name: Nathanael Singh
-#  image: /images/members/nathanael.jpg
-#  position: Undergraduate Student
-#  email: nsingh002 (at) citymail.cuny.edu
-#  scholar: 
-#  orcid: 0000-0001-5192-747X
-#  description: '
-#  Nathanael is working on his Bachelor of Science degree at the City College of New York.
-#  In Spring 2022, he joined the Keedy lab as an undergraduate researcher, 
-#  where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
-#  Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
-#  to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
-#'
-#
-#- name: Selina Sun
-#  image: /images/members/selina.png
-#  position: Undergraduate Student
-#  email: ss13739 (at) nyu.edu
-#  scholar: 
-#  orcid: 
-#  description: '
-#  Simeng "Selina" Sun is studying for a dual Data Science and Math major at NYU,
-#  conducting a research internship here at the ASRC.
-#  She is enjoying learning how to connect her computational and quantitative skillset 
-#  with exciting applications in scientific research, specifically structural biology.
-#  Her project centers on exploring how recent AI-based software tools for protein structure prediction and design
-#  can be combined to reveal new insights into protein evolvability and designability.
-#'
 

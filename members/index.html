@@ -1,58 +1,60 @@
 ---
-layout: pages
 title: Members
+layout: pages
 group: members
 heading:
 bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
 ---
 
-{% for person in site.data.members %}
+<h2>Current Lab Members</h2>
+
+{% for member in site.data.members %}
 
 <div class="row">
     <div class="3u 12u$(small)">
-        <span class="image fit"><img src="{{person.image}}" alt=""></span><br>
-        <strong><span class="memberName">{{person.name}}</span></strong><br>
-        <span class="memberDetail">{{person.position}}</span><br>
-        <em><span class="memberDetail">{{person.email}}</span></em><br>
+        <span class="image fit"><img src="{{member.image}}" alt=""></span><br>
+        <strong><span class="memberName">{{member.name}}</span></strong><br>
+        <span class="memberDetail">{{member.position}}</span><br>
+        <em><span class="memberDetail">{{member.email}}</span></em><br>
         
-        {% if person.orcid %}
+        {% if member.orcid %}
           <a href="http://orcid.org"><img class="inline-block mem-icon" src="/images/logos/orcid_logo.svg"></a>
-          <a id="links" href="http://orcid.org/{{person.orcid}}"><span class="memberDetail"> {{person.orcid}} </span></a> <br>
+          <a id="links" href="http://orcid.org/{{member.orcid}}"><span class="memberDetail"> {{member.orcid}} </span></a> <br>
         {% endif %}
         
-        {% if person.scholar %}
+        {% if member.scholar %}
           <a href="https://scholar.google.com/"><img class="inline-block mem-icon" src="/images/logos/gscholar_logo.svg"></a>
-          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
+          <a id="links" href= "http://scholar.google.com/citations?user={{member.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
         {% endif %}
 
-        {% if person.nih %}
+        {% if member.nih %}
           <a href="https://pubmed.ncbi.nlm.nih.gov/"><img class="inline-block mem-icon" src="/images/logos/nih_logo.svg"></a>
-          <a id="links" href= "https://www.ncbi.nlm.nih.gov/myncbi/{{person.nih}}/bibliography/public/"><span class="memberDetail"> NIH Citations </span></a> <br>
+          <a id="links" href= "https://www.ncbi.nlm.nih.gov/myncbi/{{member.nih}}/bibliography/public/"><span class="memberDetail"> NIH Citations </span></a> <br>
         {% endif %}
 
-        {% if person.linkedin %}
+        {% if member.linkedin %}
           <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/images/logos/linkedin_logo.svg"></a>
-          <a id="links" href= "http://www.linkedin.com/in/{{person.linkedin}}"><span class="memberDetail"> LinkedIn </span></a> <br>
+          <a id="links" href= "http://www.linkedin.com/in/{{member.linkedin}}"><span class="memberDetail"> LinkedIn </span></a> <br>
         {% endif %}
         
-        {% if person.bsky %}
+        {% if member.bsky %}
           <a href="https://bsky.app/"><img class="inline-block mem-icon" src="/images/logos/bsky_logo.svg"></a>
-          <a id="links" href= "https://bsky.app/profile/{{person.bsky}}.bsky.social"><span class="memberDetail"> {{person.bsky}} </span></a> <br>
+          <a id="links" href= "https://bsky.app/profile/{{member.bsky}}.bsky.social"><span class="memberDetail"> {{member.bsky}} </span></a> <br>
         {% endif %}
 
-        {% if person.twitter %}
+        {% if member.twitter %}
           <a href="http://twitter.com/"><img class="inline-block mem-icon" src="/images/logos/twitter_logo.svg"></a>
-          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail"> {{person.twitter}} </span></a> <br>
+          <a id="links" href= "http://twitter.com/{{member.twitter}}"> <span class="memberDetail"> {{member.twitter}} </span></a> <br>
         {% endif %}
 
-        {% if person.github %}
+        {% if member.github %}
           <a href="http://github.com/"><img class="inline-block mem-icon" src="/images/logos/github_logo.svg"></a>
-          <a id="links" href= "http://github.com/{{person.github}}"> <span class="memberDetail"> {{person.github}} </span></a> <br>
+          <a id="links" href= "http://github.com/{{member.github}}"> <span class="memberDetail"> {{member.github}} </span></a> <br>
         {% endif %}
     </div>
 
     <div class="9u$ 12u$(small)">
-        {{person.description | markdownify}}
+        {{member.description | markdownify}}
     </div>
 
 </div>
@@ -60,14 +62,58 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
 {% endfor %}
 
 
-<!-- <header class="align-center">
- --> 
-<!-- </header> -->
-<h3>Past Lab Members</h3>
-{% if site.data.alumni %}  
-  {%- for student in site.data.alumni -%}
+<h2>Past Lab Members</h2>
 
-  {{student.name}}<br>
+{% if site.data.alumni %}  
+  {%- for member in site.data.alumni -%}
+
+  <div class="row">
+    <div class="12u">
+        <strong><span class="memberName">{{member.name}}</span></strong><br>
+        <span class="memberDetail">{{member.position}}</span><br>
+        {% if member.subsequent %}
+          <span class="memberDetail">Subsequently: {{member.subsequent}}</span><br>
+        {% endif %}
+        <em><span class="memberDetail">{{member.email}}</span></em><br>
+        
+        {% if member.orcid %}
+          <a href="http://orcid.org"><img class="inline-block mem-icon" src="/images/logos/orcid_logo.svg"></a>
+          <a id="links" href="http://orcid.org/{{member.orcid}}"><span class="memberDetail"> {{member.orcid}} </span></a> <br>
+        {% endif %}
+        
+        {% if member.scholar %}
+          <a href="https://scholar.google.com/"><img class="inline-block mem-icon" src="/images/logos/gscholar_logo.svg"></a>
+          <a id="links" href= "http://scholar.google.com/citations?user={{member.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
+        {% endif %}
+
+        {% if member.nih %}
+          <a href="https://pubmed.ncbi.nlm.nih.gov/"><img class="inline-block mem-icon" src="/images/logos/nih_logo.svg"></a>
+          <a id="links" href= "https://www.ncbi.nlm.nih.gov/myncbi/{{member.nih}}/bibliography/public/"><span class="memberDetail"> NIH Citations </span></a> <br>
+        {% endif %}
+
+        {% if member.linkedin %}
+          <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/images/logos/linkedin_logo.svg"></a>
+          <a id="links" href= "http://www.linkedin.com/in/{{member.linkedin}}"><span class="memberDetail"> LinkedIn </span></a> <br>
+        {% endif %}
+        
+        {% if member.bsky %}
+          <a href="https://bsky.app/"><img class="inline-block mem-icon" src="/images/logos/bsky_logo.svg"></a>
+          <a id="links" href= "https://bsky.app/profile/{{member.bsky}}.bsky.social"><span class="memberDetail"> {{member.bsky}} </span></a> <br>
+        {% endif %}
+
+        {% if member.twitter %}
+          <a href="http://twitter.com/"><img class="inline-block mem-icon" src="/images/logos/twitter_logo.svg"></a>
+          <a id="links" href= "http://twitter.com/{{member.twitter}}"> <span class="memberDetail"> {{member.twitter}} </span></a> <br>
+        {% endif %}
+
+        {% if member.github %}
+          <a href="http://github.com/"><img class="inline-block mem-icon" src="/images/logos/github_logo.svg"></a>
+          <a id="links" href= "http://github.com/{{member.github}}"> <span class="memberDetail"> {{member.github}} </span></a> <br>
+        {% endif %}
+    </div>
+  </div>
+  
+  <hr>
 
   {%- endfor -%}
 {% endif %}

@@ -1,29 +1,240 @@
-- name: Elena "Helen" Orins - undergraduate student, Hunter College, 2018-19
-- name: Chrissy Schmidt - rotation student, CUNY Chemistry PhD Program, fall 2018
-- name: Abhipsa Shatarupa - rotation student, CUNY Biochemistry PhD Program, spring 2019
-- name: Sheenam Sheenam - rotation student, CUNY Biochemistry PhD Program, spring 2019
-- name: Minyoung "Lily" Kim - undergraduate student (Princeton), CSURP Program, summer 2019 (- ubsequently @ UCSF DDS-PhD Program
-- name: Kristiana "Spring" Smith - undergraduate student (Rhodes College), B3 REU Program, summer 2019 - subsequently @ NYU MPH Program
-- name: Andres Cabezas - rotation student, CUNY Biochemistry PhD Program, spring 2020
-- name: Syeda Maryam Azeem - Research Assistant, Keedy lab, 2018-2020 - subsequently @ [CUNY Biology PhD Program](https://www.gc.cuny.edu/biology)
-- name: Sergei Dzhumaev - undergraduate student, City College of New York, 2019-20
-- name: Ben Lesea-Pringle - rotation student, CUNY Biochemistry PhD Program, fall 2020
-- name: Augustine Onyema - rotation student, CUNY Biochemistry PhD Program, fall 2020
-- name: James Parziale - rotation student, CUNY Biochemistry PhD Program, spring 2021
-- name: Yingxian Tan - undergraduate student, City College of New York, 2020-21 - subsequently @ Hunter College Cytotechnology Program
-- name: Julia Michalak - undergraduate student (Cornell), B3 REU Program, summer 2021
-- name: David Amoh-Boateng - rotation student, CUNY Biochemistry PhD Program, spring 2022
-- name: Tania Rajpersaud - rotation student, CUNY Biochemistry PhD Program, spring 2022
-- name: Blake Riley - postdoc, 2019-2022 - subsequently @ [Replay Holdings, San Diego](https://www.replay.bio)
-- name: Jackson Morris - undergraduate student (Johns Hopkins), B3 REU Program, summer 2022
-- name: Sakib Hossain - undergraduate student, Hunter College, 2018-22 - subsequently @ Amazon Web Services AI
-- name: Allen Sun - rotation student, CUNY Biochemistry PhD Program, spring 2023
-- name: Fariha Tasnim - rotation student, CUNY Biochemistry PhD Program, spring 2023
-- name: Sneha Suresh Kumar - rotation student, CUNY Biochemistry PhD Program, spring 2024
-- name: Akshay Raju - undergraduate student, City College of New York / Macaulay Honors College, 2022-2024 - subsequently @ MIT for postbac computational systems biology research
-- name: Nathanael Singh - undergraduate student, City College of New York, 2022-2024 - subsequently @ Weill Cornell Physiology, Biophysics, and Systems Biology (PBSB) PhD Program
-- name: Kevin Shionarain - undergraduate student, City College of New York, 2023-2024 - subsequently @ Stony Brook Biochemistry & Structural Biology PhD Program
-- name: Simeng "Selina" Sun - undergraduate student, New York University, 2022-2024 - subsequently @ Univ British Columbia Master's in Bioinformatics Program
-- name: Toufique Mahmud - undergraduate student (CCNY), CCNY STEM Community Summer Research Program (SCRP), summer 2024
-- name: Nicole Fana Brito - rotation student, CUNY Biochemistry PhD Program, fall 2024
-- name: Kyle Tau - rotation student, CUNY Chemistry PhD Program, fall 2024
+- name: Selina Sun
+  startdate: 
+  enddate: 
+  image: /images/members/selina.png
+  position: Undergraduate Student
+  email: ss13739 (at) nyu.edu
+  subsequent: Master's Student, University of British Columbia, Bioinformatics
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Simeng (Selina) Sun is studying for a dual Data Science and Math major at NYU,
+  conducting a research internship here at the ASRC.
+  She is enjoying learning how to connect her computational and quantitative skillset 
+  with exciting applications in scientific research, specifically structural biology.
+  Her project centers on exploring how recent AI-based software tools for protein structure prediction and design
+  can be combined to reveal new insights into protein evolvability and designability.
+'
+
+
+- name: Nathanael Singh
+  startdate: 
+  enddate: 
+  image: /images/members/nathanael.jpg
+  position: Undergraduate Student
+  email: nsingh002 (at) citymail.cuny.edu
+  subsequent: PhD Student, Weill Cornell Graduate School - Physiology, Biophysics, and Systems Biology (PBSB)
+  orcid: 0000-0001-5192-747X
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Nathanael is working on his Bachelor of Science degree at the City College of New York.
+  In Spring 2022, he joined the Keedy lab as an undergraduate researcher, 
+  where he enjoys seeing the principles he learned in Biochemistry class being applied in the lab.
+  Nathanael is involved in a few projects focused on PTP1B, ranging from small-molecule allosteric inhibition
+  to characterizing the effects of mutations (derived from various sources) on enzyme function and structure.
+'
+
+
+- name: Kevin Shionarain
+  startdate: 
+  enddate: 
+  image: /images/members/kevin.jpg
+  position: Undergraduate Student
+  email: kshiona000 (at) citymail.cuny.edu
+  subsequent: PhD Student, Stony Brook University, Biochemistry & Structural Biology
+  orcid: 0009-0004-5062-7044
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Kevin is an undergraduate student at City College of New York majoring in Biochemistry. 
+  He joined the Keedy lab in Spring 2023 hoping to learn more about how protein structural dynamics are vital to protein function. 
+  He also hopes to immerse himself in research rooted in biochemistry and learn more about laboratory techniques used to study proteins. 
+  Kevin is currently working on designing chimeric proteins to better understand the specific structural building blocks of protein tyrosine phosphatases.
+'
+
+
+- name: Akshay Raju
+  startdate: 
+  enddate: 
+  image: /images/members/akshay.jpg
+  position: Undergraduate Student
+  email: araju000 (at) citymail.cuny.edu
+  subsequent: Postbaccalaureate Researcher, Massachusetts Institute of Technology, computational systems biology
+  orcid: 0000-0002-6192-3613
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Akshay is an undergraduate Biotechnology major and Computer Science minor 
+  at the Macaulay Honors College at the City College of New York. 
+  He joined the Keedy Lab in the summer of 2022 with an interest in learning about 
+  ways to use computational analyses to answer questions in cell and molecular biology. 
+  Akshay hopes to use bioinformatics to look for hotspots of covarying amino acids 
+  in the protein tyrosine phosphatase family to help find hidden allosteric networks.
+'
+
+
+- name: Sakib Hossain
+  startdate: 
+  enddate: 
+  image: /images/members/sakib.jpg
+  position: Research Assistant
+  email: sakib.hossain28 (at) myhunter.cuny.edu
+  subsequent: Amazon Web Services AI
+  orcid: 0000-0002-2602-9245
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Sakib is a recent graduate of Hunter College with a major in Chemistry and a concentration in Bioinformatics.
+  He joined the Keedy Lab in 2018.
+  His research in the lab uses X-ray crystallography to reveal how sequence differences rewire allosteric networks in related phosphatases.
+  He has also investigated how protein structures satisfy particular hydrogen bonding interactions in multiple different ways.
+  Last but not least, he is the designer of this website!
+'
+
+
+- name: Blake Riley
+  startdate: 
+  enddate: 
+  image: /images/members/blake.jpg
+  position: Postdoctoral Research Associate
+  email: briley1 (at) gc.cuny.edu
+  subsequent: Scientist, Replay Holdings, San Diego
+  orcid: 0000-0003-2176-0503
+  scholar: PZO-W6YAAAAJ
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Blake joined the Keedy lab as a postdoc in November 2019. He earned his PhD from [Monash University](https://www.monash.edu/), Australia,
+  where he worked with [A/Prof. Ashley Buckle](https://www.facebook.com/BuckleLab/)
+  on the protein engineering & design of a small, potent, peptidic protease inhibitor from sunflower seeds.
+
+
+  As part of his doctoral research, he began to explore allosteric inhibition of proteases; he is now exploring allosteric inhibition of phosphatases.
+
+
+  Blake’s research aims to untangle the allosteric wiring within enzymes using a hybrid experimental and computational approach.
+  He is currently developing methods in X-ray crystallography to model multiple conformations into multi-crystal datasets.
+'
+
+
+- name: Yingxian Tan
+  startdate: 
+  enddate: 
+  image: /images/members/yingxian.jpg
+  position: Undergraduate Student
+  email: ytan003 (at) citymail.cuny.edu
+  subsequent: Postbaccalaureate Student, Hunter College, Cytotechnology Advanced Certificate
+  orcid: 0009-0006-7722-8056
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Yingxian is a senior at [The City College of New York](https://www.ccny.cuny.edu/), majoring in biotechnology.
+  In Fall 2020, she joined the Keedy lab for an independent research project.
+  Yingxian will use 3D graphics and molecular modeling to investigate hidden signatures of allostery
+  across a breadth of crystal structures of various PTP enzymes.
+'
+
+
+- name: Sergei Dzhumaev
+  startdate: 
+  enddate: 
+  image: /images/members/sergei.jpg
+  position: Undergraduate Student
+  email: sdzhuma000 (at) citymail.cuny.edu
+  subsequent: 
+  orcid: 
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Sergei is finishing his B.S. degree in biotechnology at City College of New York, just next-door to the ASRC.
+  In fall 2019 he joined the Keedy Lab,
+  where he is using several tools including liquid handling robots
+  to biophysically characterize putative allosteric inhibitors for PTP1B.
+  Sergei loves interacting with the scientific community here at the ASRC!
+'
+
+
+- name: Syeda Maryam Azeem
+  startdate: 2018
+  enddate: 2020
+  image: /images/members/maryam.jpg
+  position: Research Assistant
+  email: sazeem (at) gc.cuny.edu
+  subsequent: PhD Student, CUNY Graduate Center, Molecular, Cellular, and Developmental (MCD) Biology
+  orcid: 0000-0002-7712-527X
+  scholar: MmawrkgAAAAJ
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  After completing her undergraduate studies in India, 
+  Maryam Azeem pursued her master’s degree in the US starting in 2015.  
+  She joined [Dr. Kathleen Frey’s lab](https://sites.google.com/view/kfreyliupharm/home) 
+  in 2016 in the Department of Pharmacology and Toxicology at Long Island University in Brooklyn.  
+  While working under Dr. Frey’s supervision, 
+  Maryam developed her research interests in structural biology and X-ray crystallography.  
+  She used computational and structure-based methods for creating docking models, 
+  predicting mutations in the HIV Reverse Transcriptase enzyme, and analyzing protein-ligand interactions.
+  In 2018, Maryam joined the Keedy Lab,
+  where she is spearheading efforts to characterize the invisible conformations of tyrosine phosphatase enzymes
+  and reveal how they contribute to allosteric regulation.
+'
+
+
+# Other alumni - format these later...
+
+# - name: Elena "Helen" Orins - undergraduate student, Hunter College, 2018-19
+# - name: Chrissy Schmidt - rotation student, CUNY Chemistry PhD Program, fall 2018
+# - name: Abhipsa Shatarupa - rotation student, CUNY Biochemistry PhD Program, spring 2019
+# - name: Sheenam Sheenam - rotation student, CUNY Biochemistry PhD Program, spring 2019
+# - name: Minyoung "Lily" Kim - undergraduate student (Princeton), CSURP Program, summer 2019 (- ubsequently @ UCSF DDS-PhD Program
+# - name: Kristiana "Spring" Smith - undergraduate student (Rhodes College), B3 REU Program, summer 2019 - subsequently @ NYU MPH Program
+# - name: Andres Cabezas - rotation student, CUNY Biochemistry PhD Program, spring 2020
+# - name: Syeda Maryam Azeem - Research Assistant, Keedy lab, 2018-2020 - subsequently @ [CUNY Biology PhD Program](https://www.gc.cuny.edu/biology)
+# - name: Sergei Dzhumaev - undergraduate student, City College of New York, 2019-20
+# - name: Ben Lesea-Pringle - rotation student, CUNY Biochemistry PhD Program, fall 2020
+# - name: Augustine Onyema - rotation student, CUNY Biochemistry PhD Program, fall 2020
+# - name: James Parziale - rotation student, CUNY Biochemistry PhD Program, spring 2021
+# - name: Yingxian Tan - undergraduate student, City College of New York, 2020-21 - subsequently @ Hunter College Cytotechnology Program
+# - name: Julia Michalak - undergraduate student (Cornell), B3 REU Program, summer 2021
+# - name: David Amoh-Boateng - rotation student, CUNY Biochemistry PhD Program, spring 2022
+# - name: Tania Rajpersaud - rotation student, CUNY Biochemistry PhD Program, spring 2022
+# - name: Blake Riley - postdoc, 2019-2022 - subsequently @ [Replay Holdings, San Diego](https://www.replay.bio)
+# - name: Jackson Morris - undergraduate student (Johns Hopkins), B3 REU Program, summer 2022
+# - name: Sakib Hossain - undergraduate student, Hunter College, 2018-22 - subsequently @ Amazon Web Services AI
+# - name: Allen Sun - rotation student, CUNY Biochemistry PhD Program, spring 2023
+# - name: Fariha Tasnim - rotation student, CUNY Biochemistry PhD Program, spring 2023
+# - name: Sneha Suresh Kumar - rotation student, CUNY Biochemistry PhD Program, spring 2024
+# - name: Akshay Raju - undergraduate student, City College of New York / Macaulay Honors College, 2022-2024 - subsequently @ MIT for postbac computational systems biology research
+# - name: Nathanael Singh - undergraduate student, City College of New York, 2022-2024 - subsequently @ Weill Cornell Physiology, Biophysics, and Systems Biology (PBSB) PhD Program
+# - name: Kevin Shionarain - undergraduate student, City College of New York, 2023-2024 - subsequently @ Stony Brook Biochemistry & Structural Biology PhD Program
+# - name: Simeng "Selina" Sun - undergraduate student, New York University, 2022-2024 - subsequently @ Univ British Columbia Master's in Bioinformatics Program
+# - name: Toufique Mahmud - undergraduate student (CCNY), CCNY STEM Community Summer Research Program (SCRP), summer 2024
+# - name: Nicole Fana Brito - rotation student, CUNY Biochemistry PhD Program, fall 2024
+# - name: Kyle Tau - rotation student, CUNY Chemistry PhD Program, fall 2024
