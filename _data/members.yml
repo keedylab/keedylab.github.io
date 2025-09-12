@@ -58,7 +58,7 @@
   email: sdjurae000 (at) citymail.cuny.edu
   orcid: 0009-0007-7574-1312
   scholar: v7zmoHYAAAAJ
-  nih: 
+  nih: sdjurae000
   linkedin: 
   bsky: 
   github: 
@@ -101,6 +101,28 @@
   Ali joined the Keedy lab as a postdoc in the spring of 2020 (though the pandemic had something to say about that...). 
   He aims to bring his experience in crystallographic multi-dataset processing and analysis to the ASRC, 
   in order to further unlock understanding within the field of phosphatase ligand binding, activity, and allostery. 
+'
+
+
+- name: Eric Guan
+  startdate: 
+  enddate: 
+  image: /images/members/eric.png
+  position: Undergraduate Student
+  email: eric.guan32 (at) myhunter.cuny.edu
+  orcid: 0009-0009-2233-6684
+  scholar: 
+  nih: 
+  linkedin: ericguan04
+  bsky: 
+  github: ericguan04
+  description: '
+  Eric is a senior computer science student at Hunter College. Initially, he did research in the Human Robot Interaction (HRI) field working on social
+  robot navigation, but was inspired to try out computational biology after attending the January 2025 Quantitative Methods Workshop (QMW) at MIT. He spent the
+  following summer at MIT in Sergey Ovchinnikov's lab under the 2025 MSRP-Bio program, where he worked on high-throughput protein purification with a
+  liquid handling robot. 
+  To continue gaining experience in computational biology, Eric joined the Keedy lab in Fall 2025, where he hopes to apply his computational skills to tackle
+  interesting problems in structural biology.
 '
 
 
