@@ -76,34 +76,6 @@
 '
 
 
-- name: Ali Ebrahim
-  startdate: 
-  enddate: 
-  image: /images/members/ali.jpg
-  position: Senior Research Associate
-  email: aebrahim (at) gc.cuny.edu
-  orcid: 0000-0003-2661-381X
-  scholar: 2mZPHksAAAAJ
-  nih: ali.ebrahim.1
-  linkedin: aliebrahim1
-  bsky: 
-  github: DrAliEbrahim
-  description: '
-  Ali is a BSc (Hons) Biology and MPhil Biochemistry graduate of the University of Portsmouth, UK. 
-  His MPhil focused on the characterisation of cellulases involved in the production of second-generation biofuels, 
-  igniting an interest into the field of X-ray crystallography. 
-  He earned his PhD from the University of Essex, UK, in early 2020, under the co-supervision of 
-  [Dr. Mike Hough](https://www.essex.ac.uk/people/hough20300/mike-hough) from the University of Essex 
-  and [Dr. Robin Owen](https://www.diamond.ac.uk/Instruments/Mx/I24/Staff/Owen.html) from Diamond Light Source, UK. 
-  His research focused on the development of serial crystallography data collection and processing methods 
-  for both synchrotrons and X-ray free-electron lasers, 
-  used to analyse and exploit the effects of radiation damage in metalloproteins. 
-  Ali joined the Keedy lab as a postdoc in the spring of 2020 (though the pandemic had something to say about that...). 
-  He aims to bring his experience in crystallographic multi-dataset processing and analysis to the ASRC, 
-  in order to further unlock understanding within the field of phosphatase ligand binding, activity, and allostery. 
-'
-
-
 - name: Eric Guan
   startdate: 
   enddate: 
@@ -195,59 +167,6 @@
   In 2018, she joined the Keedy lab, 
   where she is developing computational strategies to leverage multistate models of protein structures
   with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
-'
-
-
-- name: Shivani Sharma
-  startdate: 
-  enddate: 
-  image: /images/members/shivani.png
-  position: PhD Student
-  email: ssharma (at) gc.cuny.edu
-  orcid: 0000-0002-1128-4331
-  scholar: -LTFBmoAAAAJ
-  nih: 
-  linkedin: shivani-sharma-women-in-crystallography
-  bsky: 
-  github: 
-  description: '
-  Born and raised in Delhi, India, Shivani moved to the States when she was 18. 
-  She completed her Bachelor’s in Science from a small university in Maryville, Missouri 
-  and transitioned to working full time at Stowers Institute for Medical research in 2017. 
-  Later, to get a taste of industry, she found a position at Eurofins, working as a scientist in the protein chemistry team. 
-  She then completed her Masters in Biochemistry from Iowa State University in 2020, 
-  where she explored the mechanisms of activation of Pyk2 tyrosine kinase. 
-  After entering the [CUNY Molecular, Cellular, and Developmental Biology (MCD) PhD Program](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biology/Subprograms/Molecular,-Cellular,-and-Developmental-Biology) in 2020, 
-  she joined the Keedy lab in 2021, 
-  where she is currently learning new computational approaches to complement her wet lab skill set 
-  as she seeks to answer outstanding questions about the structural biology of tyrosine phosphatases.
-'
-
-
-- name: Virgil Woods
-  startdate: 
-  enddate: 
-  image: /images/members/virgil.png
-  position: PhD Student
-  email: vwoods (at) gc.cuny.edu
-  orcid: 0000-0002-4796-8698
-  scholar: rjy01ZoAAAAJ
-  nih: 
-  linkedin: virgilwoods
-  bsky: 
-  github: 
-  description: '
-  Virgil graduated from the University of Chicago in 2016 
-  with a Bachelor of Arts in Biological Sciences and a minor in Physics.
-  During his undergraduate studies he also performed research at the University of California, San Diego, 
-  using Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) experiments to study
-  protein dynamics, protein-ligand interactions, and protein-protein interactions, including antibody-epitope mapping.
-  After his undergraduate degree, Virgil worked as a Research Associate at 
-  [Sorrento Therapeutics](https://sorrentotherapeutics.com/) in La Jolla, CA,
-  where he applied his HDX-MS and other protein analytics skills to new systems,
-  before joining the [CUNY Biochemistry PhD Program](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry) in 2019.
-  In 2020, he joined the Keedy lab, where he is using a combination of solution and crystallographic experiments 
-  to map (and exploit) interactions between ligands at different sites in the structures of phosphatase enzymes.
 '
 
 
