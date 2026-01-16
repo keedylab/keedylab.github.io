@@ -74,9 +74,9 @@
     - name: X-ray diffraction data at ProteinDiffraction.org for 9EEX
       url: https://proteindiffraction.org/project/STEP_citrate_9eex/
     - name: X-ray diffraction data at ProteinDiffraction.org for 9EEY
-      url: https://proteindiffraction.org/project/STEP_citrate_9eey/
+      url: https://proteindiffraction.org/project/STEP_dehydrated_9eey/
     - name: X-ray diffraction data at ProteinDiffraction.org for 9EEZ
-      url: https://proteindiffraction.org/project/STEP_citrate_9eez/
+      url: https://proteindiffraction.org/project/STEP_covalent_9eez/
     - name: Sneak Peek during peer review at Structure
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030820
 
