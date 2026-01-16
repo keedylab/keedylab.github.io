@@ -22,6 +22,8 @@
       url: https://www-ssrl.slac.stanford.edu/content/beam-lines/bl12-1
     - name: Remote room-temperature crystallography at SSRL
       url: https://smb.slac.stanford.edu/users_guide/RT_collection.html
+    - name: X-ray diffraction data at Zenodo
+      url: https://doi.org/10.5281/zenodo.15838996
 
 - citation: 'Cavender CE, Case DA, Chen JCH, Chong LT, **Keedy DA**, Lindorff-Larsen K, Mobley DL, Ollila OHS, Oostenbrink C, Robustelli P, Voelz VA, Wall ME, Wych DC, Gilson MK. Structure-Based Experimental Datasets for Benchmarking Protein Simulation Force Fields. *LiveCoMS*. 2025.'
   date: 202303
