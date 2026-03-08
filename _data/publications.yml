@@ -5,7 +5,7 @@
   date: 202408
   image: '/images/pub/2024_perdikari-woods-ebrahim.png'
   pmid: 41135676
-  pmcid: 
+  pmcid: PMC12702000
   biorxiv: "2024.08.05.603709"
   pdf: '/pdf/2024_perdikari-woods-ebrahim.pdf'
   pdbs:
@@ -28,8 +28,8 @@
 - citation: 'Cavender CE, Case DA, Chen JCH, Chong LT, **Keedy DA**, Lindorff-Larsen K, Mobley DL, Ollila OHS, Oostenbrink C, Robustelli P, Voelz VA, Wall ME, Wych DC, Gilson MK. Structure-Based Experimental Datasets for Benchmarking Protein Simulation Force Fields. *LiveCoMS*. 2025.'
   date: 202303
   image: '/images/pub/2023_cavender.jpg'
-  pmid: 
-  pmcid: 
+  pmid: 41573260
+  pmcid: PMC12823150
   biorxiv: 
   pdf: '/pdf/2023_cavender.pdf'
   links:
