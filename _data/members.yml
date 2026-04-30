@@ -121,6 +121,31 @@
 
 
 
+- name: Alessandra Marino
+  startdate: 2026
+  enddate: 
+  image: /images/members/alie.png
+  position: PhD Student
+  email: amarino (at) gc.cuny.edu
+  orcid: 0009-0003-3885-7288
+  scholar: sNNN0aYAAAAJ
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Alessandra (Alie) Marino graduated from Fordham University in 2021 
+  with her Bachelor of Science in Biology (Pre-Med) and Psychology (Biostatistics). 
+  After graduating, she worked at the Leonard Wagner Laboratory of Molecular Genetics and Immunology (PI: Jeffrey Ravetch) 
+  at The Rockefeller University, first as a research assistant, and later as a research specialist. 
+  During her training, Alie became interested in the design through in vitro characterization of various Fc-modified antibodies and immunogens. 
+  In 2025, Alie began her PhD in Biochemistry/Molecular Biophysics at CUNY 
+  with the intention of learning as many structural determination techniques as possible. 
+  Alie joined the Keedy Lab in 2026, 
+  where she hopes to utilize de novo protein design to probe and characterize latent allosteric wiring of phosphatases.
+'
+
+
 
 - name: Tamar (Skaist) Mehlman
   startdate: 2018
