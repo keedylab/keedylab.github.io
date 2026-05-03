@@ -120,7 +120,6 @@
 '
 
 
-
 - name: Alessandra Marino
   startdate: 2026
   enddate: 
@@ -146,7 +145,6 @@
 '
 
 
-
 - name: Tamar (Skaist) Mehlman
   startdate: 2018
   enddate: 
@@ -169,6 +167,29 @@
   In 2018, she joined the Keedy lab, 
   where she is developing computational strategies to leverage multistate models of protein structures
   with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
+'
+
+
+- name: Rivindya Silva
+  startdate: 2026
+  enddate: 
+  image: /images/members/rivi.jpg
+  position: PhD Student
+  email: rsilva1 (at) gc.cuny.edu
+  orcid: 0009-0005-6258-996X
+  scholar: 
+  nih: 
+  linkedin: 
+  bsky: 
+  github: 
+  description: '
+  Rivindya (Rivi) Silva transferred from the University of Kelaniya, Sri Lanka, 
+  and graduated summa cum laude from the CUNY College of Staten Island in 2025 with a Bachelor of Science in Biochemistry. 
+  During her undergraduate studies, she conducted research in the Raja Lab, 
+  where she investigated the antibacterial properties of synthetic nanomaterials.
+  She is currently pursuing her [PhD in Biochemistry at the CUNY Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Biochemistry)
+  and joined the Keedy Lab in 2026, 
+  where she hopes to learn about small-molecule drug discovery and structure-guided design.
 '
 
 
