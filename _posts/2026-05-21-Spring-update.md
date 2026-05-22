@@ -24,7 +24,7 @@ Congrats, Alie!
 
 Liliana also received an ASRC travel award to attend the Computational Chemistry GRS+GRC meeting this summer in Barcelona.
 
-And, after three attempts, Daniel's NSF CAREER award was funded.
+And, after three attempts, Daniel's [NSF CAREER award](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2543428) was funded.
 This grant will support our efforts to decipher fundamental differences between de novo designed vs. natural proteins, which will provide new avenues for improving the design of functional proteins.
 It will also support several new educational & outreach activities ranging from the classroom to a nearby science comedy venue in NYC.
 We are very grateful for this federal support of our scientific efforts!
