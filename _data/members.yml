@@ -171,6 +171,24 @@
   with large numbers of protein:ligand structures to design novel allosteric inhibitors for phosphatases.
 '
 
+- name: Connor Plante
+  startdate: 2026
+  enddate:
+  image: /images/members/connor.png
+  position: Postbaccalaureate Student
+  email: cplante (at) gc.cuny.edu
+  orcid:
+  scholar:
+  nih:
+  linkedin: connor-plante-233840145
+  bsky:
+  github: connorplante
+  description: '
+  Connor graduated from McGill University in 2020 with a Bachelor of Software Engineering. After graduating, he started working as a 
+  product manager at Microsoft where he worked on geospatial search services and Windows developer tooling. He later moved to Datadog to build cybersecurity products. 
+  Connor joined the Keedy lab in 2026 as a postbacc student building web-based tools to study improvements in biochemistry pedagogy and community-driven protein synthesis.  
+'
+
 
 - name: Rivindya Silva
   startdate: 2026
@@ -216,24 +234,5 @@
   As part of the CCNY B3 RaMP postbaccalaureate program, Julia joined the Keedy lab in August 2024, 
   where she hopes to work collaboratively to develop her wet lab skills in addition to learning about computational methods. 
   She aims to expand her knowledge about the structural biology of protein tyrosine phosphatases and their biological roles in illnesses.
-'
-
-
-- name: Connor Plante
-  startdate: 2026
-  enddate:
-  image: /images/members/connor.png
-  position: Postbaccalaureate Student
-  email: connor.plante10 (at) login.cuny.edu
-  orcid:
-  scholar:
-  nih:
-  linkedin: connor-plante-233840145
-  bsky:
-  github: connorplante
-  description: '
-  Connor graduated from McGill University in 2020 with a Bachelor of Software Engineering. After graduating, he started working as a 
-  product manager at Microsoft where he worked on geospatial search services and Windows developer tooling. He later moved to Datadog to build cybersecurity products. 
-  Connor joined the Keedy lab in 2026 as a postbacc student building web-based tools to study improvements in biochemistry pedagogy and community-driven protein synthesis.  
 '
 
